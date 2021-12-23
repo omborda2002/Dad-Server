@@ -1,0 +1,164 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.master {
+  width: auto;
+  height: auto;
+}
+
+.navigation {
+  background-color: rgb(19, 25, 39);
+  color: white;
+  width: 100%;
+  position: fixed;
+  height: 70px;
+}
+.navIteams {
+  width: auto;
+  height: 100%;
+  display: flex;
+  position: relative;
+  margin: auto 3%;
+}
+.navIteams .menu {
+  height: 100%;
+  width: fit-content;
+  position: relative;
+  display: inline-block;
+}
+.menu #menuLines {
+  padding-top: 9px;
+}
+.ddown{
+  display: none;
+  font-size: 14px;
+  position: absolute;
+  background-color: #192133;
+  min-width: 130px;
+  margin-top: 7px;
+  margin-left: -15px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 4;
+}
+
+.ddown a {
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  color: rgb(199, 201, 202);
+}
+.ddown a:hover{
+  color: white;
+}
+.ddown a:hover {
+  background-color: rgb(0, 0, 0);
+  border-radius: 10px;
+}
+.menu:hover .ddown{
+  display: block;
+}
+.menu a:hover {
+  color: white;
+  transition: 400ms;
+}
+.navigation .line {
+  width: 10px;
+  color: white;
+  height: auto;
+}
+
+.navigation .logo {
+  width: auto;
+  margin: 12px 0px 12px 1.5%;
+  height: auto;
+  cursor: pointer;
+}
+
+.navigation .ul {
+  display: flex;
+  justify-content: space-evenly;
+  height: 100%;
+  width: 20%;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+.navigation .ul .li {
+  width: auto;
+  height: 50%;
+  color: rgb(199, 201, 202);
+  font-size: 15px;
+  padding: 3%;
+  cursor: pointer;
+  list-style-type: none;
+}
+.navigation .ul .li:hover {
+  color: white;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  height: 30px;
+}
+.dropdown-content {
+  display: none;
+  font-size: 14px;
+  position: absolute;
+  background-color: #192133;
+  min-width: 130px;
+  margin-top: 7px;
+  margin-left: -15px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 4;
+}
+.dropdown-content a {
+  color: rgb(199, 201, 202);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: rgb(0, 0, 0);
+  border-radius: 10px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown a:hover {
+  color: white;
+  transition: 400ms;
+}
+.searchField {
+  width: fit-content;
+  height: 60%;
+  display: flex;
+  margin-left: auto;
+  border-bottom: 1px solid white;
+  align-items: center;
+}
+
+.searchField .sear {
+  padding: 4px;
+  border: 0px solid;
+  background-color: transparent;
+  color: rgb(226, 226, 226);
+}
+.sear::placeholder {
+  color: rgb(199, 201, 202);
+}
+.sear:focus {
+  outline: none;
+}
+
+.last {
+  display: absolute;
+  right: 0px;
+  margin: auto 0px;
+}
