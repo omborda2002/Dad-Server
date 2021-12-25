@@ -12,7 +12,7 @@
   color: white;
   width: 100%;
   z-index: 5;
-  height: 70px;
+  height: 110px;
 }
 .navIteams {
   width: auto;
@@ -26,14 +26,16 @@
   width: fit-content;
   position: relative;
   display: inline-block;
+  margin: 0px;
 }
 .menu #menuLines {
-  padding-top: 9px;
-  font-size: 35px;
+  margin-top: 50%;
+  display: block;
+  font-size: 25px;
   transform-origin: center;
   transition: 1s;
 }
-.menu #menuLines svg:hover{
+.menu #menuLines svg:hover {
   transform-origin: center;
   transition: 1s;
   transform: rotate(135deg);
@@ -51,6 +53,9 @@
   border-radius: 10px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 4;
+}
+.ddown .navFix {
+  display: none;
 }
 
 .ddown a {
@@ -79,24 +84,24 @@
   color: white;
   height: auto;
 }
-
-.navigation .logo {
-  width: auto;
-  margin: 12px 0px 12px 1.5%;
-  height: auto;
-  cursor: pointer;
+.logoo{
+  margin-left: 2%;
+}
+.logoo img{
+  padding-top: 3%;
+  margin-top: 10%;
 }
 
-.navigation .ul {
+.ul {
   display: flex;
   justify-content: space-evenly;
   height: 100%;
-  width: 20%;
+  width: 50%;
   align-items: center;
   margin: 0px;
   padding: 0px;
 }
-.navigation .ul .li {
+.ul .li {
   width: auto;
   height: 50%;
   color: rgb(199, 201, 202);
@@ -105,7 +110,7 @@
   cursor: pointer;
   list-style-type: none;
 }
-.navigation .ul .li:hover {
+.ul .li:hover {
   color: white;
 }
 
@@ -154,7 +159,12 @@
   border-bottom: 1px solid white;
   align-items: center;
 }
-
+.fixin {
+  width: 100%;
+  display: flex;
+  /* flex-direction: row; */
+  height: auto;
+}
 .searchField .sear {
   padding: 4px;
   border: 0px solid;
@@ -179,7 +189,7 @@
   margin-top: 80px;
   width: 100%;
   position: relative;
-  height: 100vh;
+  height: auto;
   overflow: hidden;
   background-size: cover;
 }
@@ -200,7 +210,6 @@
 #bg-trans1 {
   width: 20%;
   position: absolute;
-  margin-top: 80px;
   height: 100%;
   z-index: 5;
   background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0));
@@ -208,8 +217,8 @@
 #bg-trans2 {
   width: 18%;
   position: absolute;
-  margin-top: 80px;
   right: 0px;
+  top: 0px;
   height: 100%;
   z-index: 5;
   background: linear-gradient(to left, rgb(0, 0, 0), rgba(0, 0, 0, 0));
@@ -284,6 +293,7 @@
   );
   width: 100%;
   height: 100%;
+  border-radius: 5px;
   z-index: 10;
   opacity: 0;
   justify-content: end;
@@ -321,7 +331,7 @@
   width: 100%;
   height: 50px;
 }
-.buttonmain{
+.buttonmain {
   width: 25%;
   height: auto;
   display: flex;
@@ -333,17 +343,15 @@
   width: auto;
   height: auto;
 }
-.jaydeep svg{
+.jaydeep svg {
   margin: auto 0px;
 }
-.jaydeep:hover{
+.jaydeep:hover {
   color: white;
 }
 
-
 /* FOOTER  */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
-
 
 .footer {
   position: relative;
@@ -423,3 +431,57 @@
   }
 }
 
+/*TODO: Media queary  */
+@media only screen and (min-width: 461px){
+  .navigation{
+    height: 70px;
+  }
+  .menu{
+    margin-left: 3px;
+  }
+}
+@media only screen and (max-width: 460px) {
+  .logoo {
+    width: max-content;
+    height: auto;
+    margin: auto;
+    margin-top: 0px;
+    padding: 1%;
+  }
+  .fixin {
+    display: block;
+  }
+  .searchField {
+    margin: auto;
+    padding: 1%;
+  }.slidder{
+    margin-top: 115px;
+  }.ddown{
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 576px) {
+}
+@media only screen and (max-width: 768px) {
+  .ul {
+    width: 50%;
+  }
+}
+@media only screen and (max-width: 630px) {
+  .ul {
+    display: none;
+  }
+  .ddown .navFix {
+    display: block;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .ul {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .ul {
+    width: 20%;
+  }
+}
