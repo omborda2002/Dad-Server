@@ -205,6 +205,7 @@
 
 .main-back {
   display: flex;
+  height: 120vh;
   overflow: hidden;
 }
 #bg-trans1 {
