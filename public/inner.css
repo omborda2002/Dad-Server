@@ -5,6 +5,7 @@
   padding: 0px;
 }
 .master {
+  transition: 1s;
   width: auto;
   height: auto;
 }
@@ -14,6 +15,7 @@
   color: white;
   width: 100%;
   z-index: 5;
+  transition: 1s;
   height: 110px;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
@@ -21,12 +23,14 @@
   width: auto;
   height: 100%;
   display: flex;
+  transition: 1s;
   position: relative;
   margin: auto 3%;
 }
 .navIteams .menu {
   height: 100%;
   width: fit-content;
+  transition: 1s;
   position: relative;
   display: inline-block;
   margin: 0px;
@@ -49,6 +53,7 @@
   display: none;
   font-size: 14px;
   position: absolute;
+  transition: 1s;
   background-color: #192133;
   min-width: 130px;
   margin-top: 7px;
@@ -58,20 +63,24 @@
   z-index: 4;
 }
 .ddown .navFix {
+  transition: 1s;
   display: none;
 }
 
 .ddown a {
   padding: 12px 16px;
   text-decoration: none;
+  transition: 1s;
   display: block;
   color: rgb(199, 201, 202);
 }
 .ddown a:hover {
+  transition: 1s;
   color: white;
 }
 .ddown a:hover {
   background-color: rgb(0, 0, 0);
+  transition: 1s;
   border-radius: 10px;
 }
 .menu:hover .ddown {
@@ -84,6 +93,7 @@
 }
 .navigation .line {
   width: 10px;
+  transition: 1s;
   color: white;
   height: auto;
 }
@@ -91,6 +101,7 @@
   margin-left: 2%;
 }
 .logoo img {
+  transition: 1s;
   padding-top: 3%;
   margin-top: 10%;
 }
@@ -101,6 +112,7 @@
   height: 100%;
   width: 50%;
   align-items: center;
+  transition: 1s;
   margin: 0px;
   padding: 0px;
 }
@@ -109,16 +121,19 @@
   height: 50%;
   color: rgb(199, 201, 202);
   font-size: 15px;
+  transition: 1s;
   padding: 3%;
   cursor: pointer;
   list-style-type: none;
 }
 .ul .li:hover {
+  transition: 1s;
   color: white;
 }
 
 .dropdown {
   position: relative;
+  transition: 1s;
   display: inline-block;
   height: 30px;
 }
@@ -126,6 +141,7 @@
   display: none;
   font-size: 14px;
   position: absolute;
+  transition: 1s;
   background-color: #192133;
   min-width: 130px;
   margin-top: 7px;
@@ -136,6 +152,7 @@
 }
 .dropdown-content a {
   color: rgb(199, 201, 202);
+  transition: 1s;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -143,11 +160,13 @@
 
 .dropdown-content a:hover {
   background-color: rgb(0, 0, 0);
+  transition: 1s;
   text-decoration: none;
   border-radius: 10px;
 }
 
 .dropdown:hover .dropdown-content {
+  transition: 1s;
   display: block;
 }
 .dropdown a:hover {
@@ -158,6 +177,7 @@
   width: fit-content;
   height: 60%;
   display: flex;
+  transition: 1s;
   margin-left: auto;
   border-bottom: 1px solid white;
   align-items: center;
@@ -165,16 +185,19 @@
 .fixin {
   width: 100%;
   display: flex;
+  transition: 1s;
   /* flex-direction: row; */
   height: auto;
 }
 .searchField .sear {
   padding: 4px;
   border: 0px solid;
+  transition: 1s;
   background-color: transparent;
   color: rgb(226, 226, 226);
 }
 .sear::placeholder {
+  transition: 1s;
   color: rgb(199, 201, 202);
 }
 .sear:focus {
@@ -183,6 +206,7 @@
 
 .last {
   display: absolute;
+  transition: 1s;
   right: 0px;
   margin: auto 0px;
 }
@@ -190,6 +214,7 @@
 /* ADD ANOTHER CODE  */
 .innerMaster {
   width: 100%;
+  transition: 1s;
   height: auto;
   padding: 0% 3%;
   margin-top: 8%;
@@ -198,6 +223,7 @@
   background-color: rgb(22, 27, 34);
   padding: 15px 25px;
   width: 100%;
+  transition: 1s;
   height: auto;
   flex-direction: row;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
@@ -205,10 +231,12 @@
   border-radius: 5px;
 }
 .head h1 {
+  transition: 1s;
   color: #fff;
   font-weight: 400;
 }
 .movie_name p {
+  transition: 1s;
   margin-top: 10px;
   margin-bottom: 0px;
 
@@ -217,27 +245,33 @@
 .starRating {
   display: block;
   width: auto;
+  transition: 1s;
   color: #adb5bd;
   margin: 3px;
   margin-left: auto;
 }
 .rate:first-child {
+  transition: 1s;
   margin-bottom: 0px;
 }
 .starLine {
+  transition: 1s;
   display: flex;
 }
 .starRating p:first-child {
   margin-bottom: 0px;
+  transition: 1s;
   margin-top: 5px;
 }
 .starLine p {
   color: #adb5bd;
+  transition: 1s;
   margin-bottom: 1px;
 }
 .starLine svg {
   margin-right: 5px;
   color: rgb(255, 230, 0);
+  transition: 1s;
   margin-top: 5px;
 }
 
@@ -245,12 +279,14 @@
   width: 100%;
   height: auto;
   display: flex;
+  transition: 1s;
   flex-direction: row;
   margin-top: 3%;
   /* flex-wrap: wrap; */
   /* background-color: red; */
 }
 .main-img {
+  transition: 1s;
   width: fit-content;
   height: auto;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
@@ -258,6 +294,7 @@
 .content-desc {
   width: max-content;
   height: auto;
+  transition: 1s;
   display: flex;
   margin: 0% 0% 0% 3%;
   border-radius: 5px;
@@ -269,6 +306,7 @@
 }
 .in-desc {
   width: auto;
+  transition: 1s;
   height: fit-content;
   margin: auto 0px;
   padding: 0% 6%;
@@ -279,15 +317,18 @@
   font-size: 1.75rem;
   border-left: 5px solid #00ff14;
   padding-left: 10px;
+  transition: 1s;
   border-radius: 5px;
 }
 .head2 h2 {
   border-left: 5px solid #00ff14;
   padding-left: 10px;
+  transition: 1s;
   border-radius: 5px;
 }
 .in-desc p {
   margin-top: 10px;
+  transition: 1s;
   font-size: 16px;
   line-height: 30px;
 }
@@ -299,6 +340,7 @@
 .head2 {
   background-color: rgb(22, 27, 34);
   padding: 15px 25px;
+  transition: 1s;
   width: 100%;
   color: white;
   height: 75px;
@@ -311,6 +353,7 @@
 .head3 {
   padding: 15px 25px;
   width: 100%;
+  transition: 1s;
   color: white;
   height: auto;
   margin-top: 3%;
@@ -326,6 +369,7 @@ select {
   border: 0;
   outline: 0;
   font: inherit;
+  transition: 1s;
   width: auto;
   height: 3em;
   padding: 0 4em 0 1em;
@@ -364,37 +408,46 @@ select {
 }
 .download-text {
   width: auto;
+  transition: 1s;
   height: fit-content;
 }
 .download-text span {
   font-size: 25px;
+  transition: 1s;
   margin: 5px;
 }
 select option {
   color: inherit;
+  transition: 1s;
   background-color: #320a28;
 }
 select:focus {
+  transition: 1s;
   outline: none;
 }
 select::-ms-expand {
+  transition: 1s;
   display: none;
 }
 
 .main-poster {
   width: 100%;
+  transition: 1s;
   margin: 2.5% auto;
   height: auto;
   display: inline-block;
 }
 
 .title-bar {
+  transition: 1s;
   display: flex;
 }
 .title-bar h4 {
   font-size: 25px;
+  transition: 1s;
 }
 .desc {
+  transition: 1s;
   width: auto;
   height: auto;
 }
@@ -402,12 +455,14 @@ select::-ms-expand {
 .bord {
   width: 6px;
   border-radius: 10px;
+  transition: 1s;
   margin-left: 10px;
   margin-top: 3px;
   height: 30px;
 }
 .posting {
   display: flex;
+  transition: 1s;
   width: 100%;
   height: auto;
   justify-content: space-around;
@@ -416,6 +471,7 @@ select::-ms-expand {
 .con {
   position: relative;
   z-index: 3;
+  transition: 1s;
   margin: 15px 3px;
   height: 222px;
   overflow: hidden;
@@ -426,6 +482,7 @@ select::-ms-expand {
 .image {
   display: block;
   width: 160px;
+  transition: 1s;
   border-radius: 5px;
   height: auto;
   z-index: 3;
@@ -466,12 +523,15 @@ select::-ms-expand {
 .desc {
   padding: 3px;
   position: absolute;
+  transition: 1s;
   bottom: 0px;
 }
 .desc span {
+  transition: 1s;
   font-size: 13px;
 }
 .desc p {
+  transition: 1s;
   font-size: 10px;
   margin: 0px;
 }
@@ -484,6 +544,7 @@ select::-ms-expand {
   background: rgb(19, 25, 39);
   min-height: 100px;
   padding: 20px 50px;
+  transition: 1s;
   display: flex;
   margin-top: 5%;
   justify-content: center;
@@ -494,6 +555,7 @@ select::-ms-expand {
 .social-icon,
 .menu {
   position: relative;
+  transition: 1s;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -503,6 +565,7 @@ select::-ms-expand {
 
 .social-icon__item,
 .menu__item {
+  transition: 1s;
   list-style: none;
 }
 
@@ -529,12 +592,14 @@ select::-ms-expand {
 }
 
 .menu__link:hover {
+  transition: 1s;
   opacity: 1;
 }
 
 .footer p {
   color: #fff;
   margin: 15px 0 10px 0;
+  transition: 1s;
   font-size: 1rem;
   font-weight: 300;
 }

@@ -11,6 +11,7 @@
   background-color: rgb(19, 25, 39);
   color: white;
   width: 100%;
+  transition: 1s;
   z-index: 5;
   height: 110px;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
@@ -19,6 +20,7 @@
   width: auto;
   height: 100%;
   display: flex;
+  transition: 1s;
   position: relative;
   margin: auto 3%;
 }
@@ -26,6 +28,7 @@
   height: 100%;
   width: fit-content;
   position: relative;
+  transition: 1s;
   display: inline-block;
   margin: 0px;
 }
@@ -49,6 +52,7 @@
   position: absolute;
   background-color: #192133;
   min-width: 130px;
+  transition: 1s;
   margin-top: 7px;
   margin-left: -15px;
   border-radius: 10px;
@@ -69,6 +73,7 @@
   color: white;
 }
 .ddown a:hover {
+  transition: 1s;
   background-color: rgb(0, 0, 0);
   border-radius: 10px;
 }
@@ -100,6 +105,7 @@
   width: 50%;
   align-items: center;
   margin: 0px;
+  transition: 1s;
   padding: 0px;
 }
 .ul .li {
@@ -107,6 +113,7 @@
   height: 50%;
   color: rgb(199, 201, 202);
   font-size: 15px;
+  transition: 1s;
   padding: 3%;
   cursor: pointer;
   list-style-type: none;
@@ -118,6 +125,7 @@
 .dropdown {
   position: relative;
   display: inline-block;
+  transition: 1s;
   height: 30px;
 }
 .dropdown-content {
@@ -126,6 +134,7 @@
   position: absolute;
   background-color: #192133;
   min-width: 130px;
+  transition: 1s;
   margin-top: 7px;
   margin-left: -15px;
   border-radius: 10px;
@@ -135,17 +144,20 @@
 .dropdown-content a {
   color: rgb(199, 201, 202);
   padding: 12px 16px;
+  transition: 1s;
   text-decoration: none;
   display: block;
 }
 
 .dropdown-content a:hover {
   background-color: rgb(0, 0, 0);
+  transition: 1s;
   text-decoration: none;
   border-radius: 10px;
 }
 
 .dropdown:hover .dropdown-content {
+  transition: 1s;
   display: block;
 }
 .dropdown a:hover {
@@ -157,16 +169,19 @@
   height: 60%;
   display: flex;
   margin-left: auto;
+  transition: 1s;
   border-bottom: 1px solid white;
   align-items: center;
 }
 .fixin {
   width: 100%;
   display: flex;
+  transition: 1s;
   /* flex-direction: row; */
   height: auto;
 }
 .searchField .sear {
+  transition: 1s;
   padding: 4px;
   border: 0px solid;
   background-color: transparent;
@@ -182,6 +197,7 @@
 .last {
   display: absolute;
   right: 0px;
+  transition: 1s;
   margin: auto 0px;
 }
 
@@ -191,6 +207,7 @@
   width: 100%;
   position: relative;
   height: 100%;
+  transition: 1s;
   overflow: hidden;
   background-size: cover;
 }
@@ -200,6 +217,7 @@
 }
 
 .slidder img {
+  transition: 1s;
   /* background-position: center; */
   background-size: cover;
 }
@@ -207,11 +225,13 @@
 .main-back {
   display: flex;
   height: auto;
+  transition: 1s;
   overflow: hidden;
 }
 #bg-trans1 {
   width: 20%;
   position: absolute;
+  transition: 1s;
   height: 100%;
   z-index: 5;
   background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0));
@@ -220,6 +240,7 @@
   width: 18%;
   position: absolute;
   right: 0px;
+  transition: 1s;
   top: 0px;
   height: 100%;
   z-index: 5;
@@ -227,10 +248,12 @@
 }
 .carousel-control-prev {
   left: 0;
+  transition: 1s;
   z-index: 6;
 }
 .carousel-control-next {
   right: 0;
+  transition: 1s;
   z-index: 6;
 }
 
@@ -238,24 +261,29 @@
   width: 100%;
   margin: 2.5% auto;
   height: auto;
+  transition: 1s;
   display: inline-block;
   padding: 0% 2%;
 }
 
 .title-bar {
+  transition: 1s;
   display: flex;
 }
 .title-bar h4 {
+  transition: 1s;
   font-size: 25px;
 }
 .desc {
   width: auto;
   height: auto;
+  bottom: 0px;
 }
 
 .bord {
   width: 6px;
   border-radius: 10px;
+  transition: 1s;
   margin-left: 10px;
   margin-top: 3px;
   height: 30px;
@@ -272,6 +300,7 @@
   z-index: 3;
   margin: 15px 5px;
   height: 222px;
+  transition: 1s;
   overflow: hidden;
   width: 160px;
   max-width: 300px;
@@ -279,6 +308,7 @@
 
 .image {
   display: block;
+  transition: 1s;
   width: 160px;
   border-radius: 5px;
   height: auto;
@@ -289,6 +319,7 @@
   position: absolute;
   bottom: 0;
   color: #f1f1f1;
+  transition: 1s;
   background-image: linear-gradient(
     to bottom,
     transparent,
@@ -320,10 +351,12 @@
 }
 .desc {
   padding: 3px;
+  transition: 1s;
   position: absolute;
   bottom: 0px;
 }
 .desc span {
+  transition: 1s;
   font-size: 13px;
 }
 .desc p {
@@ -337,6 +370,7 @@
   height: 50px;
 }
 .buttonmain {
+  transition: 1s;
   width: 25%;
   height: auto;
   display: flex;
@@ -363,6 +397,7 @@
   width: 100%;
   background: rgb(19, 25, 39);
   min-height: 100px;
+  transition: 1s;
   padding: 20px 50px;
   display: flex;
   justify-content: center;
@@ -373,6 +408,7 @@
 .social-icon,
 .menu {
   position: relative;
+  transition: 1s;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -382,6 +418,7 @@
 
 .social-icon__item,
 .menu__item {
+  transition: 1s;
   list-style: none;
 }
 
@@ -414,6 +451,7 @@
 .footer p {
   color: #fff;
   margin: 15px 0 10px 0;
+  transition: 1s;
   font-size: 1rem;
   font-weight: 300;
 }
