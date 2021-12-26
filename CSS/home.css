@@ -13,6 +13,7 @@
   width: 100%;
   z-index: 5;
   height: 110px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .navIteams {
   width: auto;
@@ -84,10 +85,10 @@
   color: white;
   height: auto;
 }
-.logoo{
+.logoo {
   margin-left: 2%;
 }
-.logoo img{
+.logoo img {
   padding-top: 3%;
   margin-top: 10%;
 }
@@ -436,11 +437,11 @@
 }
 
 /*TODO: Media queary  */
-@media only screen and (min-width: 461px){
-  .navigation{
+@media only screen and (min-width: 461px) {
+  .navigation {
     height: 70px;
   }
-  .menu{
+  .menu {
     margin-left: 3px;
   }
 }
@@ -458,9 +459,11 @@
   .searchField {
     margin: auto;
     padding: 1%;
-  }.slidder{
+  }
+  .slidder {
     margin-top: 115px;
-  }.ddown{
+  }
+  .ddown {
     margin-left: 0px;
   }
 }
