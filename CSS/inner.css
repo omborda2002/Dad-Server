@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
 * {
   margin: 0px;
   padding: 0px;
@@ -84,10 +86,10 @@
   color: white;
   height: auto;
 }
-.logoo{
+.logoo {
   margin-left: 2%;
 }
-.logoo img{
+.logoo img {
   padding-top: 3%;
   margin-top: 10%;
 }
@@ -184,54 +186,202 @@
   margin: auto 0px;
 }
 
-/* Slider */
-.slidder {
-  margin-top: 80px;
+/* ADD ANOTHER CODE  */
+.innerMaster {
   width: 100%;
-  position: relative;
-  height: 100%;
-  overflow: hidden;
-  background-size: cover;
-}
-.slide {
-  height: 100%;
-  overflow: hidden;
-}
-
-.slidder img {
-  /* background-position: center; */
-  background-size: cover;
-}
-
-.main-back {
-  display: flex;
   height: auto;
-  overflow: hidden;
+  padding: 0% 3%;
+  margin-top: 9%;
 }
-#bg-trans1 {
-  width: 20%;
-  position: absolute;
-  height: 100%;
-  z-index: 5;
-  background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0));
+.head {
+  background-color: rgb(22, 27, 34);
+  padding: 15px 25px;
+  width: 100%;
+  height: auto;
+  flex-direction: row;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  display: flex;
+  border-radius: 5px;
 }
-#bg-trans2 {
-  width: 18%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  height: 100%;
-  z-index: 5;
-  background: linear-gradient(to left, rgb(0, 0, 0), rgba(0, 0, 0, 0));
+.head h1 {
+  color: #fff;
+  font-weight: 400;
 }
-.carousel-control-prev {
-  left: 0;
-  z-index: 6;
+.movie_name p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+
+  color: #adb5bd;
 }
-.carousel-control-next {
-  right: 0;
-  z-index: 6;
+.starRating {
+  display: block;
+  width: auto;
+  color: #adb5bd;
+  margin: 3px;
+  margin-left: auto;
 }
+.rate:first-child {
+  margin-bottom: 0px;
+}
+.starLine {
+  display: flex;
+}
+.starRating p:first-child {
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+.starLine p {
+  color: #adb5bd;
+  margin-bottom: 1px;
+}
+.starLine svg {
+  margin-right: 5px;
+  color: rgb(255, 230, 0);
+  margin-top: 5px;
+}
+
+.content-box {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+  /* flex-wrap: wrap; */
+  /* background-color: red; */
+}
+.main-img {
+  width: fit-content;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.content-desc {
+  width: max-content;
+  height: auto;
+  display: flex;
+  margin: 0% 0% 0% 3%;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  background: -webkit-linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
+  background: -o-linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
+  background: -moz-linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
+  background: linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
+}
+.in-desc {
+  width: auto;
+  height: fit-content;
+  margin: auto 0px;
+  padding: 0% 6%;
+  overflow: scroll;
+  color: #adb5bd;
+}
+.in-desc h3 {
+  font-size: 1.75rem;
+  border-left: 5px solid #00ff14;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.head2 h2 {
+  border-left: 5px solid #00ff14;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.in-desc p {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.slidee {
+  margin-top: 3%;
+  transition: 1s;
+}
+.head2 {
+  background-color: rgb(22, 27, 34);
+  padding: 15px 25px;
+  width: 100%;
+  color: white;
+  height: 75px;
+  margin-top: 3%;
+  flex-direction: row;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  display: flex;
+  border-radius: 5px;
+}
+.head3 {
+  /* background-color: rgb(22, 27, 34); */
+  padding: 15px 25px;
+  width: 100%;
+  color: white;
+  height: auto;
+  margin-top: 3%;
+  flex-direction: row;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  display: flex;
+  border-radius: 5px;
+  background: linear-gradient(35deg, red, purple);
+}
+
+select {
+  appearance: none;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  width: auto;
+  height: 3em;
+  padding: 0 4em 0 1em;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg)
+      no-repeat right 0.8em center / 1.4em,
+    linear-gradient(
+      to left,
+      rgba(255, 255, 255, 0.3) 3em,
+      rgba(255, 255, 255, 0.2) 3em
+    );
+  color: white;
+  border-radius: 0.25em;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.select2 {
+  width: 100%;
+  height: 3em;
+  display: flex;
+  border-radius: 0.25em;
+  margin-left: 2em;
+  background-color: rgba(255, 255, 255, 0.4);
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: 1s;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.select2:hover {
+  transition: 1s;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.download-text {
+  width: auto;
+  height: fit-content;
+}
+.download-text span {
+  font-size: 25px;
+  margin: 5px;
+}
+select option {
+  color: inherit;
+  background-color: #320a28;
+}
+select:focus {
+  outline: none;
+}
+select::-ms-expand {
+  display: none;
+}
+
+/* FIXME:  */
 
 .main-poster {
   width: 100%;
@@ -330,32 +480,7 @@
   margin: 0px;
 }
 
-.pageButton {
-  display: flex;
-  width: 100%;
-  height: 50px;
-}
-.buttonmain {
-  width: 25%;
-  height: auto;
-  display: flex;
-  justify-content: space-between;
-  margin: 0px auto;
-}
-.jaydeep {
-  color: rgb(194, 194, 194);
-  width: auto;
-  height: auto;
-}
-.jaydeep svg {
-  margin: auto 0px;
-}
-.jaydeep:hover {
-  color: white;
-}
-
 /* FOOTER  */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 
 .footer {
   position: relative;
@@ -364,6 +489,7 @@
   min-height: 100px;
   padding: 20px 50px;
   display: flex;
+  margin-top: 5%;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -436,11 +562,11 @@
 }
 
 /*TODO: Media queary  */
-@media only screen and (min-width: 461px){
-  .navigation{
+@media only screen and (min-width: 461px) {
+  .navigation {
     height: 70px;
   }
-  .menu{
+  .menu {
     margin-left: 3px;
   }
 }
@@ -458,9 +584,11 @@
   .searchField {
     margin: auto;
     padding: 1%;
-  }.slidder{
+  }
+  .slidder {
     margin-top: 115px;
-  }.ddown{
+  }
+  .ddown {
     margin-left: 0px;
   }
 }
