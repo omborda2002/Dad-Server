@@ -59,12 +59,17 @@
                     </div>
                     <div class="last container-fluid">
                         <div class="searchField ">
-                            <input type="search" placeholder="Search" class="sear">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                class="bi bi-search" viewBox="0 0 16 16">
-                                <path
-                                    d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-                            </svg>
+                            <form action="http://localhost:3000/search" class="input-group" method="get">
+                                <input type="search" id="search-input" type="search" id="form1" name="q"
+                                    placeholder="Search" class="sear">
+                                <button type="submit" class="btnsearch">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-search" viewBox="0 0 16 16">
+                                        <path
+                                            d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                                    </svg>
+                                </button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -119,91 +124,21 @@
                 </div>
             </div>
             <div class="posting">
-
-                <a href="http://localhost:3000/poster/">
-                    <div class="con">
-                        <img src="/images/poster/img2.webp" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
+                <% let i = 0,j = 8; %> 
+                <% for(let i = 0; i < j; i++){ %> 
+                    <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                        <div class="con">
+                            <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
+                            <div class="overlay">
+                                <div class="desc">
+                                    <span><%= data[i].name %> </span>
+                                    <p><%= data[i].length %> <%= data[i].genre %></p>
+                                    <p><%= data[i].language %>,<%= data[i].year %></p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-
-
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img3.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
+                    </a>
+                <% } %> 
             </div>
         </div>
 
@@ -215,86 +150,20 @@
                 </div>
             </div>
             <div class="posting">
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
+                <% for(let i = j; i < j+8; i++){ %>
+                    <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                        <div class="con">
+                            <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
+                            <div class="overlay">
+                                <div class="desc">
+                                    <span><%= data[i].name %> </span>
+                                    <p><%= data[i].length %> <%= data[i].genre %></p>
+                                    <p><%= data[i].language %>,<%= data[i].year %></p>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="https://res.cloudinary.com/dfdpxxjiz/image/upload/v1640670303/SS/Tadap_pu9bsr.jpg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="https://drive.google.com/file/d/1e2xwxFFd8TZN-m0b2CKEoOnhxHLZgJst/view" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="https://stmarysstclairorg-my.sharepoint.com/personal/qb594_office-365_works/Documents/1962%20The%20War%20in%20the%20Hills%20(2021)%20S01%20E01%20to%20E10%20_daddyhub.in/1962%20The%20War%20in%20the%20Hills.jpg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="con">
-                    <img src="https://stmarysstclairorg-my.sharepoint.com/personal/qb594_office-365_works/Documents/Marjaavaan%20(2019)_daddyhub.in/Tadap.jpg" alt="Spider-Man: No Way Home" class="image">
-                    <div class="overlay">
-                        <div class="desc">
-                            <span>Spider-Man: No Way Home</span>
-                            <p>2h 28m,Action,Adventure</p>
-                            <p>Hindi,English,2021</p>
-                        </div>
-                    </div>
-                </div>
+                    </a>
+                <% } %> 
             </div>
         </div>
 

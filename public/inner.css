@@ -196,6 +196,13 @@
   background-color: transparent;
   color: rgb(226, 226, 226);
 }
+
+button.btnsearch {
+  background: transparent;
+  border: 0px solid;
+  color: white;
+  cursor: pointer;
+}
 .sear::placeholder {
   transition: 1s;
   color: rgb(199, 201, 202);
@@ -290,6 +297,10 @@
   width: fit-content;
   height: auto;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.main-img img{
+  width: 285px;
+  height: auto;
 }
 .content-desc {
   width: max-content;

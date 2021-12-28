@@ -6,38 +6,38 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "/views"));
+const data = require("./data.json");
 const port = 3000;
 
+// console.log(data);
 // Need of variable
 let arr = [];
 
 app.get("/", (req, res) => {
   //   res.send('Hello World!');
-  res.render("home", {});
+  // console.log(data)
+  res.render("home", { data });
 });
 app.get("/home", (req, res) => {
   //   res.send('Hello World!');
   res.redirect("/");
 });
-app.get("/inner/:name", (req, res) => {
+app.get("/movie/:name", (req, res) => {
+  let datam,type;
   const { name } = req.params;
-  // for (let i = 0; i < data.length; i++) {
-  //   if (data[i].name == name) {
-  //     datam = data[i];
-  //     break;
-  //   }
-  // }
-
-  // if (datam.type == "hollywood" || datam.type == "bollywood" ||datam.type == "Hollywood" ||datam.type =="Bollywood")  {
-  //   type = "movie";
-  // } else {
-  //   type ="series";
-  // }
-  res.render(
-    "inner",
-    {}
-    //  { datam, data ,type} <----Note
-  );
+  // console.log(name);
+  for (let i = 0; i < data.length; i++) {
+    if (data[i].name == name) {
+      datam = data[i];
+      break;
+    }
+  }
+  if (datam.type == "hollywood" || datam.type == "bollywood" ||datam.type == "Hollywood" ||datam.type =="Bollywood")  {
+    type = "movie";
+  } else {
+    type ="web";
+  }
+  res.render("inner", { datam ,data,type});
 });
 // app.get("/search", (req, res) => {
 //   const { q } = req.query;

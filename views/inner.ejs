@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie City</title>
+    <title><%= datam.name %> (<%= datam.year %>)</title>
     <link rel="stylesheet" href="/inner.css">
     <!-- CSS only -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
@@ -56,12 +56,17 @@
                     </div>
                     <div class="last container-fluid">
                         <div class="searchField ">
-                            <input type="search" placeholder="Search" class="sear">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                class="bi bi-search" viewBox="0 0 16 16">
-                                <path
-                                    d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-                            </svg>
+                            <form action="http://localhost:3000/search/" class="input-group" method="get">
+                                <input type="search" id="search-input" type="search" id="form1" name="q"
+                                    placeholder="Search" class="sear">
+                                <button type="submit" class="btnsearch">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-search" viewBox="0 0 16 16">
+                                        <path
+                                            d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                                    </svg>
+                                </button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -75,9 +80,9 @@
 
             <div class="head">
                 <div class="movie_name">
-                    <h1>Spider-Man: No Way Home</h1>
+                    <h1><%= datam.name %> </h1>
                     <p>
-                        2021 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-dot" viewBox="0 0 16 16">
                             <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
                         </svg>U<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -96,9 +101,9 @@
                         </svg>
                         <div class="rate">
                             <p><b style="color: white">
-                                    8.9
+                                    <%= datam.imdb %>
                                 </b>/10</p>
-                            <p>65K</p>
+                            <p><%= datam.popularity %> </p>
                         </div>
                     </div>
                 </div>
@@ -106,23 +111,18 @@
 
             <div class="content-box">
                 <div class="main-img">
-                    <img src="/images/poster/img2.webp" alt="Spider-Man: No Way Home">
+                    <img src="<%= datam.poster %>" alt="<%= datam.name %> ">
                 </div>
                 <div class="content-desc">
                     <div class="in-desc">
                         <h3 style="color: white;">Story :</h3>
-                        <span style="font-size: 16px;color: #adb5bd;">Action</span><svg
+                        <span style="font-size: 16px;color: #adb5bd;"><%= datam.genre %> </span><svg
                             xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
                             <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
-                        </svg><span style="font-size: 16px;color: #adb5bd;">2021</span>
+                        </svg><span style="font-size: 16px;color: #adb5bd;"><%= datam.year %> </span>
 
-                        <p style="color: #adb5bd;">Peter Parker's secret identity is revealed to the entire world.
-                            Desperate for help, Peter
-                            turns
-                            to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly
-                            wrong
-                            and shatters the multiverse, bringing in monstrous villains that could destroy the world.
+                        <p style="color: #adb5bd;"><%= datam.story %> 
                         </p>
                     </div>
                 </div>
@@ -141,10 +141,27 @@
             </div>
             <div class="head3">
                 <select>
-                    <option selected value="0">1080P (Recommended)</option>
-                    <option value="1">480P</option>
-                    <option value="2">720P</option>
-                    <!-- <option value="3"></option> -->
+                    <% if(type == "movie"){ %> 
+                        <option selected value="0">1080P (Recommended)</option>
+                        <option value="1">480P</option>
+                        <option value="2">720P</option>
+                    <% }else{ %> 
+                        <% if(datam.download_links.length < 3){ %> 
+                            <% if(datam.download_links.length == 1){ %> 
+                                <option selected value="0">All Episodes</option>
+                            <% }else{ %> 
+                                <option selected value="0">Part-1</option>
+                                <% for(let i = 0; i < datam.download_links.length;i++){ %> 
+                                    <option value="<%= i+1 %> ">Part-<%= i+2 %></option>
+                                <% } %> 
+                            <% } %> 
+                        <% }else{ %> 
+                            <option selected value="0">Episode-1</option> 
+                        <% for(let i = 0; i < datam.download_links.length;i++){ %> 
+                            <option value="<%= i+1 %> ">Episode-<%= i+2 %></option>
+                            <% } %> 
+                        <% } %> 
+                    <% } %> 
                 </select>
                 <a class="select2" href="http://localhost:3000/download">
                     <div class="download-text">
@@ -175,91 +192,20 @@
 
             <div class="main-poster">
                 <div class="posting">
-
-                    <a href="http://localhost:3000/inner/dlksnd">
-                        <div class="con">
-                            <img src="/images/poster/img2.webp" alt="Spider-Man: No Way Home" class="image">
-                            <div class="overlay">
-                                <div class="desc">
-                                    <span>Spider-Man: No Way Home</span>
-                                    <p>2h 28m,Action,Adventure</p>
-                                    <p>Hindi,English,2021</p>
+                    <% for(let i = 0; i < 8; i++){ %> 
+                        <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                            <div class="con">
+                                <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
+                                <div class="overlay">
+                                    <div class="desc">
+                                        <span><%= data[i].name %> </span>
+                                        <p><%= data[i].length %> <%= data[i].genre %></p>
+                                        <p><%= data[i].language %>,<%= data[i].year %></p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </a>
-
-
-                    <div class="con">
-                        <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="con">
-                        <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="con">
-                        <img src="/images/poster/img3.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="con">
-                        <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="con">
-                        <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="con">
-                        <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="con">
-                        <img src="/images/poster/img1.jpeg" alt="Spider-Man: No Way Home" class="image">
-                        <div class="overlay">
-                            <div class="desc">
-                                <span>Spider-Man: No Way Home</span>
-                                <p>2h 28m,Action,Adventure</p>
-                                <p>Hindi,English,2021</p>
-                            </div>
-                        </div>
-                    </div>
+                        </a>
+                    <% } %> 
                 </div>
             </div>
 
