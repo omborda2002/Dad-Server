@@ -7,6 +7,14 @@
   height: auto;
 }
 
+.li a {
+  color: rgb(199, 201, 202);
+}
+.li a:hover {
+  color: white;
+  text-decoration: none;
+}
+
 .navigation {
   background-color: rgb(19, 25, 39);
   color: white;
@@ -380,7 +388,18 @@
 .jaydeep {
   color: rgb(194, 194, 194);
   width: auto;
+  transition: 0.2s;
   height: auto;
+}
+.jaydeep a {
+  color: rgb(194, 194, 194);
+  transition: 0.2s;
+  text-decoration: none;
+}
+.jaydeep a:hover {
+  color: #ffffff;
+  transition: 0.2s;
+  text-decoration: none;
 }
 .jaydeep svg {
   margin: auto 0px;
