@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= datam.name %> (<%= datam.year %>)</title>
+    <title>
+        <%= datam.name %> (<%= datam.year %>)
+    </title>
     <link rel="stylesheet" href="/inner.css">
     <!-- CSS only -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
@@ -80,15 +82,22 @@
 
             <div class="head">
                 <div class="movie_name">
-                    <h1><%= datam.name %> </h1>
+                    <h1>
+                        <%= datam.name %>
+                    </h1>
                     <p>
-                        <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                            class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
-                        </svg>U<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                            class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
-                        </svg>2h 28m
+                        <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
+                            </svg>U<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                class="bi bi-dot" viewBox="0 0 16 16">
+                                <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
+                            </svg>
+                            <% if(type=="movie" ){ %>
+                                <%= datam.length %>
+                                    <% }else{ %>
+                                        Episodes - <%= datam.episodes%>
+                                            <% } %>
                     </p>
                 </div>
                 <div class="starRating">
@@ -103,7 +112,9 @@
                             <p><b style="color: white">
                                     <%= datam.imdb %>
                                 </b>/10</p>
-                            <p><%= datam.popularity %> </p>
+                            <p>
+                                <%= datam.popularity %>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -116,13 +127,17 @@
                 <div class="content-desc">
                     <div class="in-desc">
                         <h3 style="color: white;">Story :</h3>
-                        <span style="font-size: 16px;color: #adb5bd;"><%= datam.genre %> </span><svg
-                            xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        <span style="font-size: 16px;color: #adb5bd;">
+                            <%= datam.genre %>
+                        </span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                             class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
                             <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
-                        </svg><span style="font-size: 16px;color: #adb5bd;"><%= datam.year %> </span>
+                        </svg><span style="font-size: 16px;color: #adb5bd;">
+                            <%= datam.year %>
+                        </span>
 
-                        <p style="color: #adb5bd;"><%= datam.story %> 
+                        <p style="color: #adb5bd;">
+                            <%= datam.story %>
                         </p>
                     </div>
                 </div>
@@ -140,41 +155,69 @@
                     </svg></h2>
             </div>
             <div class="head3">
-                <select>
-                    <% if(type == "movie"){ %> 
+
+                <select onchange="downloadL()">
+                    <% if(type=="movie" ){ %>
                         <option selected value="0">1080P (Recommended)</option>
                         <option value="1">480P</option>
                         <option value="2">720P</option>
-                    <% }else{ %> 
-                        <% if(datam.download_links.length < 3){ %> 
-                            <% if(datam.download_links.length == 1){ %> 
-                                <option selected value="0">All Episodes</option>
-                            <% }else{ %> 
-                                <option selected value="0">Part-1</option>
-                                <% for(let i = 0; i < datam.download_links.length;i++){ %> 
-                                    <option value="<%= i+1 %> ">Part-<%= i+2 %></option>
-                                <% } %> 
-                            <% } %> 
-                        <% }else{ %> 
-                            <option selected value="0">Episode-1</option> 
-                        <% for(let i = 0; i < datam.download_links.length;i++){ %> 
-                            <option value="<%= i+1 %> ">Episode-<%= i+2 %></option>
-                            <% } %> 
-                        <% } %> 
-                    <% } %> 
+                        <% }else{ %>
+                            <% if(datam.download_links.length < 3){ %>
+                                <% if(datam.download_links.length==1){ %>
+                                    <option selected value="0">All Episodes</option>
+                                    <% }else{ %>
+                                        <option selected value="0">Part-1</option>
+                                        <% for(let i=0; i < datam.download_links.length;i++){ %>
+                                            <option value="<%= i+1 %> ">Part-<%= i+2 %>
+                                            </option>
+                                            <% } %>
+                                                <% } %>
+                                                    <% }else{ %>
+                                                        <option selected value="0">Episode-1</option>
+                                                        <% for(let i=0; i < datam.download_links.length-1;i++){ %>
+                                                            <option value="<%= i+1 %> ">Episode-<%= i+2 %>
+                                                            </option>
+                                                            <% } %>
+                                                                <% } %>
+                                                                    <% } %>
                 </select>
-                <a class="select2" href="http://localhost:3000/download">
-                    <div class="download-text">
-                        <span>Download</span> <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
-                                fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
-                                <path
-                                    d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
-                                <path
-                                    d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z" />
-                            </svg>
-                        </span>
-                    </div>
-                </a>
+
+                <% if(type=='movie' ){ %>
+
+                    <a class="select2" href="<%= datam.download_links%> ">
+                        <div class="download-text">
+                            <span>Download</span> <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                    fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
+                                    <path
+                                        d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z" />
+                                </svg>
+                            </span>
+                        </div>
+                    </a>
+                    <% }else{%>
+
+                        <a class="select2" href="<%= datam.download_links[0]%> " id="downloadWeb">
+                            <div class="download-text">
+                                <span>Download</span> <span><svg xmlns="http://www.w3.org/2000/svg" width="20"
+                                        height="20" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+                                        <path
+                                            d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
+                                        <path
+                                            d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z" />
+                                    </svg>
+                                </span>
+                            </div>
+                        </a>
+
+                        <% } %>
+
+
+                            <!-- <script type="text/javascript" src="./../data.json"></script> -->
+
+
+
             </div>
 
             <div class="head2">
@@ -192,20 +235,27 @@
 
             <div class="main-poster">
                 <div class="posting">
-                    <% for(let i = 0; i < 8; i++){ %> 
+                    <% for(let i=0; i < 8; i++){ %>
                         <a href="http://localhost:3000/movie/<%= data[i].name %> ">
                             <div class="con">
                                 <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
                                 <div class="overlay">
                                     <div class="desc">
-                                        <span><%= data[i].name %> </span>
-                                        <p><%= data[i].length %> <%= data[i].genre %></p>
-                                        <p><%= data[i].language %>,<%= data[i].year %></p>
+                                        <span>
+                                            <%= data[i].name %>
+                                        </span>
+                                        <p>
+                                            <%= data[i].length %>
+                                                <%= data[i].genre %>
+                                        </p>
+                                        <p>
+                                            <%= data[i].language %>,<%= data[i].year %>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </a>
-                    <% } %> 
+                        <% } %>
                 </div>
             </div>
 
@@ -242,6 +292,18 @@
                 document.write(' 2020 - ');
                 document.write(new Date().getFullYear());
                 document.write(' www.moviecity.in - All Rights Reserved.');
+
+                function downloadL() {
+                    let JsonData = '<%- JSON.stringify(datam) %>';
+                    let n = JSON.parse(JsonData);
+                    // console.log(n.download_links);
+                    let s = document.querySelector('select').value.split(" ").join("");
+                    let selection = parseInt(s);
+
+                    document.querySelector('#downloadWeb').href = n.download_links[selection];
+
+                }
+
             </script>
         </div>
 
