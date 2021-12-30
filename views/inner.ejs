@@ -159,37 +159,45 @@
                     </svg></h2>
             </div>
             <div class="head3">
+                <div class="ooo">
 
-                <select onchange="downloadL()">
-                    <% if(type=="movie" ){ %>
-                        <option selected value="0">1080P (Recommended)</option>
-                        <option value="1">480P</option>
-                        <option value="2">720P</option>
-                        <% }else{ %>
-                            <% if(datam.download_links.length < 3){ %>
-                                <% if(datam.download_links.length==1){ %>
-                                    <option selected value="0">All Episodes</option>
-                                    <% }else{ %>
-                                        <option selected value="0">Part-1</option>
-                                        <% for(let i=0; i < datam.download_links.length;i++){ %>
-                                            <option value="<%= i+1 %> ">Part-<%= i+2 %>
-                                            </option>
-                                            <% } %>
+                    <select class="mybb" onchange="downloadL()">
+                        <% if(type=="movie" ){ %>
+                            <option selected value="0">1080P (Recommended)</option>
+                            <option value="1">480P</option>
+                            <option value="2">720P</option>
+                            <% }else{ %>
+                                <% if(datam.download_links.length < 3){ %>
+                                    <% if(datam.download_links.length==1){ %>
+                                        <option selected value="0">All Episodes</option>
+                                        <% }else{ %>
+                                            <option selected value="0">Part-1</option>
+                                            <% for(let i=0; i < datam.download_links.length;i++){ %>
+                                                <option value="<%= i+1 %> ">Part-<%= i+2 %>
+                                                </option>
                                                 <% } %>
-                                                    <% }else{ %>
-                                                        <option selected value="0">Episode-1</option>
-                                                        <% for(let i=0; i < datam.download_links.length-1;i++){ %>
-                                                            <option value="<%= i+1 %> ">Episode-<%= i+2 %>
-                                                            </option>
-                                                            <% } %>
+                                                    <% } %>
+                                                        <% }else{ %>
+                                                            <option selected value="0">Episode-1</option>
+                                                            <% for(let i=0; i < datam.download_links.length-1;i++){ %>
+                                                                <option value="<%= i+1 %> ">Episode-<%= i+2 %>
+                                                                </option>
                                                                 <% } %>
-                                                                
                                                                     <% } %>
-                </select>
+                                                                        <% } %>
+                    </select>
+                    <% if(type == 'web'){ %> 
+                        <select class="mybb">
+                            <option selected value="0">1080P (Recommended)</option>
+                            <option value="1">480P</option>
+                            <option value="2">720P</option>
+                        </select>
+                    <% } %> 
+                </div>
 
                 <% if(type=='movie' ){ %>
 
-                    <a class="select2" href="<%= datam.download_links%> ">
+                    <a class="select2 container-fluid" href="<%= datam.download_links%> ">
                         <div class="download-text">
                             <span>Download</span> <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
                                     fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
