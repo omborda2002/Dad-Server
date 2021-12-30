@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Movie City</title>
-    <link rel="stylesheet" href="/home.css">
+    <link rel="stylesheet" href="/search.css">
     <!-- CSS only -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -79,66 +79,26 @@
         </nav>
 
         <!-- Slider  -->
-        <div class="main-back">
-            <div class="slidder">
-                <div id="bg-trans1">
-                </div>
-                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner h-auto">
-                        <div class="carousel-item active">
-                            <a href="http://localhost:3000/movie/<%= bigImg[0].name %>">
-                                <img class="d-block w-100" src="<%= bigImg[0].poster %>" alt="<%= bigImg[0].name %>"">
-                            </a>
-                        </div>
-                        <div class="carousel-item">
-                            <a href="http://localhost:3000/movie/<%= bigImg[1].name %>">
-                                <img class="d-block w-100" src="<%= bigImg[1].poster %>"" alt="<%= bigImg[1].name %>"">
-                            </a>
-                        </div>
-                        <div class="carousel-item">
-                            <a href="http://localhost:3000/movie/<%= bigImg[2].name %>">
-                                <img class="d-block w-100" src="<%= bigImg[2].poster %>"" alt="<%= bigImg[2].name %>"">
-                            </a>
-                        </div>
-                    </div>
-                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div>
-                <div id="bg-trans2">
-                </div>
-            </div>
-        </div>
+        
 
         <!-- Poster Images  -->
         <div class="main-poster">
             <div class="title-bar flex">
-                <h4 style="color: white;">Latest & Trending</h4>
+                <h4 style="color: white;">Search Result</h4>
                 <div class="bann">
                     <div class="bord" style="background-color: rgb(0, 255, 0);"></div>
                 </div>
             </div>
             <div class="posting">
-
-                <% let increment;%> 
-                <% increment = num + 1;  %> 
-
-                <% let i = 16 * num , j = 8 * (num + increment); %> 
-
-                <% for(let i = 16 * num; i < j; i++){ %> 
-                    <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                <% for(let i = 0; i < arr.length; i++){ %> 
+                    <a href="http://localhost:3000/movie/<%= arr[i].name %> ">
                         <div class="con">
-                            <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
+                            <img src="<%=arr[i].poster%> " alt="<%= arr[i].name %> " class="image">
                             <div class="overlay">
                                 <div class="desc">
-                                    <span><%= data[i].name %> </span>
-                                    <p><%= data[i].length %> <%= data[i].genre %></p>
-                                    <p><%= data[i].language %>,<%= data[i].year %></p>
+                                    <span><%= arr[i].name %> </span>
+                                    <p><%= arr[i].length %> <%= arr[i].genre %></p>
+                                    <p><%= arr[i].language %>,<%= arr[i].year %></p>
                                 </div>
                             </div>
                         </div>
@@ -147,73 +107,6 @@
             </div>
         </div>
 
-        <div class="main-poster">
-            <div class="title-bar flex">
-                <h4 style="color: white;">Popular Movies</h4>
-                <div class="bann">
-                    <div class="bord" style="background-color: rgb(0, 255, 0);"></div>
-                </div>
-            </div>
-            <div class="posting">
-
-                <% let m = 8 * (increment + num) ,n = 16 * increment %>
-
-                <% for(let i = m; i < n; i++){ %>
-                    <a href="http://localhost:3000/movie/<%= data[i].name %> ">
-                        <div class="con">
-                            <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
-                            <div class="overlay">
-                                <div class="desc">
-                                    <span><%= data[i].name %> </span>
-                                    <p><%= data[i].length %> <%= data[i].genre %></p>
-                                    <p><%= data[i].language %>,<%= data[i].year %></p>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                <% } %> 
-            </div>
-        </div>
-
-        <div class="pageButton">
-            <div class="buttonmain">
-                <div class="jaydeep">
-
-                    <% if(parseInt(num) == 0){ %> 
-                        <a href="http://localhost:3000/">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
-                                class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
-                                <path fill-rule="evenodd"
-                                    d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z" />
-                            </svg>
-                        </a>
-                    <% }else if( num == 1){ %> 
-                        <a href="http://localhost:3000/page/<%=num-1%>">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
-                                class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
-                                <path fill-rule="evenodd"
-                                    d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z" />
-                            </svg>
-                        </a>
-                    <% } %> 
-
-
-                </div>
-                <div class="jaydeep">
-
-                    
-                    <a href="http://localhost:3000/page/<%= num+1 %>">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
-                            class="bi bi-arrow-right-circle" viewBox="0 0 16 16">
-                            <path fill-rule="evenodd"
-                                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z" />
-                        </svg>
-                    </a>
-
-
-                </div>
-            </div>
-        </div>
     </div>
     <footer class="footer">
         <ul class="social-icon">

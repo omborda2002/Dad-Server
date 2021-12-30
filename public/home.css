@@ -315,7 +315,8 @@ button.btnsearch {
   margin: 15px 5px;
   height: 222px;
   transition: 1s;
-  overflow: hidden;
+  overflow: hidden;   
+  border-radius: 10px;
   width: 160px;
   max-width: 300px;
 }
@@ -382,6 +383,7 @@ button.btnsearch {
   display: flex;
   width: 100%;
   height: 50px;
+  margin-bottom: 2%;
 }
 .buttonmain {
   transition: 1s;
@@ -428,6 +430,7 @@ button.btnsearch {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  bottom: 0px;
 }
 
 .social-icon,
@@ -524,10 +527,16 @@ button.btnsearch {
     padding: 1%;
   }
   .slidder {
-    margin-top: 115px;
+    margin-top: 132px;
   }
   .ddown {
     margin-left: 0px;
+  }
+  .navigation {
+    height: 118px;
+  }
+  .main-poster{
+    margin: 5% auto;
   }
 }
 @media only screen and (max-width: 576px) {

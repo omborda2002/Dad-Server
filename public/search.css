@@ -1,21 +1,26 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
-
 * {
   margin: 0px;
   padding: 0px;
 }
 .master {
-  transition: 1s;
   width: auto;
   height: auto;
+}
+
+.li a {
+  color: rgb(199, 201, 202);
+}
+.li a:hover {
+  color: white;
+  text-decoration: none;
 }
 
 .navigation {
   background-color: rgb(19, 25, 39);
   color: white;
   width: 100%;
-  z-index: 5;
   transition: 1s;
+  z-index: 5;
   height: 110px;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
@@ -30,8 +35,8 @@
 .navIteams .menu {
   height: 100%;
   width: fit-content;
-  transition: 1s;
   position: relative;
+  transition: 1s;
   display: inline-block;
   margin: 0px;
 }
@@ -53,9 +58,9 @@
   display: none;
   font-size: 14px;
   position: absolute;
-  transition: 1s;
   background-color: #192133;
   min-width: 130px;
+  transition: 1s;
   margin-top: 7px;
   margin-left: -15px;
   border-radius: 10px;
@@ -63,24 +68,21 @@
   z-index: 4;
 }
 .ddown .navFix {
-  transition: 1s;
   display: none;
 }
 
 .ddown a {
   padding: 12px 16px;
   text-decoration: none;
-  transition: 1s;
   display: block;
   color: rgb(199, 201, 202);
 }
 .ddown a:hover {
-  transition: 1s;
   color: white;
 }
 .ddown a:hover {
-  background-color: rgb(0, 0, 0);
   transition: 1s;
+  background-color: rgb(0, 0, 0);
   border-radius: 10px;
 }
 .menu:hover .ddown {
@@ -93,7 +95,6 @@
 }
 .navigation .line {
   width: 10px;
-  transition: 1s;
   color: white;
   height: auto;
 }
@@ -101,7 +102,6 @@
   margin-left: 2%;
 }
 .logoo img {
-  transition: 1s;
   padding-top: 3%;
   margin-top: 10%;
 }
@@ -112,8 +112,8 @@
   height: 100%;
   width: 50%;
   align-items: center;
-  transition: 1s;
   margin: 0px;
+  transition: 1s;
   padding: 0px;
 }
 .ul .li {
@@ -127,29 +127,22 @@
   list-style-type: none;
 }
 .ul .li:hover {
-  transition: 1s;
   color: white;
 }
-.li a {
-  color: rgb(199, 201, 202);
-}
-.li a:hover {
-  color: white;
-  text-decoration: none;
-}
+
 .dropdown {
   position: relative;
-  transition: 1s;
   display: inline-block;
+  transition: 1s;
   height: 30px;
 }
 .dropdown-content {
   display: none;
   font-size: 14px;
   position: absolute;
-  transition: 1s;
   background-color: #192133;
   min-width: 130px;
+  transition: 1s;
   margin-top: 7px;
   margin-left: -15px;
   border-radius: 10px;
@@ -158,8 +151,8 @@
 }
 .dropdown-content a {
   color: rgb(199, 201, 202);
-  transition: 1s;
   padding: 12px 16px;
+  transition: 1s;
   text-decoration: none;
   display: block;
 }
@@ -183,8 +176,8 @@
   width: fit-content;
   height: 60%;
   display: flex;
-  transition: 1s;
   margin-left: auto;
+  transition: 1s;
   border-bottom: 1px solid white;
   align-items: center;
 }
@@ -196,13 +189,12 @@
   height: auto;
 }
 .searchField .sear {
+  transition: 1s;
   padding: 4px;
   border: 0px solid;
-  transition: 1s;
   background-color: transparent;
   color: rgb(226, 226, 226);
 }
-
 button.btnsearch {
   background: transparent;
   border: 0px solid;
@@ -210,7 +202,6 @@ button.btnsearch {
   cursor: pointer;
 }
 .sear::placeholder {
-  transition: 1s;
   color: rgb(199, 201, 202);
 }
 .sear:focus {
@@ -219,253 +210,89 @@ button.btnsearch {
 
 .last {
   display: absolute;
-  transition: 1s;
   right: 0px;
+  transition: 1s;
   margin: auto 0px;
 }
 
-/* ADD ANOTHER CODE  */
-.innerMaster {
+/* Slider */
+.slidder {
+  margin-top: 80px;
   width: 100%;
+  position: relative;
+  height: 100%;
   transition: 1s;
-  height: auto;
-  padding: 0% 3%;
-  margin-top: 8%;
+  overflow: hidden;
+  background-size: cover;
 }
-.head {
-  background-color: rgb(22, 27, 34);
-  padding: 15px 25px;
-  width: 100%;
-  transition: 1s;
-  height: auto;
-  flex-direction: row;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  display: flex;
-  border-radius: 5px;
-}
-.head h1 {
-  transition: 1s;
-  color: #fff;
-  font-weight: 400;
-}
-.movie_name p {
-  transition: 1s;
-  margin-top: 10px;
-  margin-bottom: 0px;
-
-  color: #adb5bd;
-}
-.starRating {
-  display: block;
-  width: auto;
-  transition: 1s;
-  color: #adb5bd;
-  margin: 3px;
-  margin-left: auto;
-}
-.rate:first-child {
-  transition: 1s;
-  margin-bottom: 0px;
-}
-.starLine {
-  transition: 1s;
-  display: flex;
-}
-.starRating p:first-child {
-  margin-bottom: 0px;
-  transition: 1s;
-  margin-top: 5px;
-}
-.starLine p {
-  color: #adb5bd;
-  transition: 1s;
-  margin-bottom: 1px;
-}
-.starLine svg {
-  margin-right: 5px;
-  color: rgb(255, 230, 0);
-  transition: 1s;
-  margin-top: 5px;
+.slide {
+  height: 100%;
+  overflow: hidden;
 }
 
-.content-box {
-  width: 100%;
-  height: auto;
-  display: flex;
+.slidder img {
   transition: 1s;
-  flex-direction: row;
-  margin-top: 3%;
-  /* flex-wrap: wrap; */
-  /* background-color: red; */
-}
-.main-img {
-  transition: 1s;
-  width: fit-content;
-  height: auto;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-}
-.main-img img{
-  width: 285px;
-  height: auto;
-}
-.content-desc {
-  width: max-content;
-  height: auto;
-  transition: 1s;
-  display: flex;
-  margin: 0% 0% 0% 3%;
-  border-radius: 5px;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  background: -webkit-linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
-  background: -o-linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
-  background: -moz-linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
-  background: linear-gradient(110deg, rgb(22, 27, 34) 60%, #343a40 60%);
-}
-.in-desc {
-  width: auto;
-  transition: 1s;
-  height: fit-content;
-  margin: auto 0px;
-  padding: 0% 6%;
-  overflow: scroll;
-  color: #adb5bd;
-}
-.in-desc h3 {
-  font-size: 1.75rem;
-  border-left: 5px solid #00ff14;
-  padding-left: 10px;
-  transition: 1s;
-  border-radius: 5px;
-}
-.head2 h2 {
-  border-left: 5px solid #00ff14;
-  padding-left: 10px;
-  transition: 1s;
-  border-radius: 5px;
-}
-.in-desc p {
-  margin-top: 10px;
-  transition: 1s;
-  font-size: 16px;
-  line-height: 30px;
-}
-.head2 {
-  background-color: rgb(22, 27, 34);
-  padding: 15px 25px;
-  transition: 1s;
-  width: 100%;
-  color: white;
-  height: 75px;
-  margin-top: 3%;
-  flex-direction: row;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  display: flex;
-  border-radius: 5px;
-}
-.head3 {
-  padding: 15px 25px;
-  width: 100%;
-  transition: 1s;
-  color: white;
-  height: auto;
-  margin-top: 3%;
-  flex-direction: row;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  display: flex;
-  border-radius: 5px;
-  background: linear-gradient(35deg, red, purple);
+  /* background-position: center; */
+  background-size: cover;
 }
 
-select {
-  appearance: none;
-  border: 0;
-  outline: 0;
-  font: inherit;
-  transition: 1s;
-  width: auto;
-  height: 3em;
-  padding: 0 4em 0 1em;
-  background: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg)
-      no-repeat right 0.8em center / 1.4em,
-    linear-gradient(
-      to left,
-      rgba(255, 255, 255, 0.3) 3em,
-      rgba(255, 255, 255, 0.2) 3em
-    );
-  color: white;
-  border-radius: 0.25em;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  cursor: pointer;
-}
-.select2 {
-  width: 100%;
-  height: 3em;
+.main-back {
   display: flex;
-  border-radius: 0.25em;
-  margin-left: 2em;
-  background-color: rgba(255, 255, 255, 0.4);
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  transition: none;
-  cursor: pointer;
-  color: white;
-  text-decoration: none;
-  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
-    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
-    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-}
-.select2:hover {
-  /* transition: 1s; */
-  text-decoration: none;
-  color: #adb5bd;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
-    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-}
-.download-text {
-  width: auto;
+  height: auto;
   transition: 1s;
-  height: fit-content;
+  overflow: hidden;
 }
-.download-text span {
-  font-size: 25px;
+#bg-trans1 {
+  width: 20%;
+  position: absolute;
   transition: 1s;
-  margin: 5px;
+  height: 100%;
+  z-index: 5;
+  background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0));
 }
-select option {
-  color: inherit;
+#bg-trans2 {
+  width: 18%;
+  position: absolute;
+  right: 0px;
   transition: 1s;
-  background-color: #320a28;
+  top: 0px;
+  height: 100%;
+  z-index: 5;
+  background: linear-gradient(to left, rgb(0, 0, 0), rgba(0, 0, 0, 0));
 }
-select:focus {
+.carousel-control-prev {
+  left: 0;
   transition: 1s;
-  outline: none;
+  z-index: 6;
 }
-select::-ms-expand {
+.carousel-control-next {
+  right: 0;
   transition: 1s;
-  display: none;
+  z-index: 6;
 }
 
 .main-poster {
   width: 100%;
-  transition: 1s;
-  margin: 2.5% auto;
+  margin: 10% auto;
   height: auto;
+  transition: 1s;
   display: inline-block;
+  padding: 0% 2%;
 }
 
 .title-bar {
   transition: 1s;
+  margin-bottom: 2%;
   display: flex;
 }
 .title-bar h4 {
-  font-size: 25px;
   transition: 1s;
+  font-size: 25px;
 }
 .desc {
-  transition: 1s;
   width: auto;
   height: auto;
+  bottom: 0px;
 }
 
 .bord {
@@ -478,18 +305,20 @@ select::-ms-expand {
 }
 .posting {
   display: flex;
-  transition: 1s;
   width: 100%;
   height: auto;
+  background-color: white;
+  border-radius: 10px;
   justify-content: space-around;
   flex-wrap: wrap;
 }
 .con {
   position: relative;
   z-index: 3;
-  transition: 1s;
-  margin: 15px 3px;
+  margin: 15px 5px;
   height: 222px;
+  border-radius: 10px;
+  transition: 1s;
   overflow: hidden;
   width: 160px;
   max-width: 300px;
@@ -497,8 +326,8 @@ select::-ms-expand {
 
 .image {
   display: block;
-  width: 160px;
   transition: 1s;
+  width: 160px;
   border-radius: 5px;
   height: auto;
   z-index: 3;
@@ -508,6 +337,7 @@ select::-ms-expand {
   position: absolute;
   bottom: 0;
   color: #f1f1f1;
+  transition: 1s;
   background-image: linear-gradient(
     to bottom,
     transparent,
@@ -526,9 +356,10 @@ select::-ms-expand {
   text-align: left;
 }
 .con:hover {
-  -ms-transform: scale(1.3);
-  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3); /* IE 9 */
+  -webkit-transform: scale(1.3); /* Safari 3-8 */
   transform: scale(1.3);
+  /* height: auto; */
   z-index: 8;
   transition: all 0.5s ease-out;
 }
@@ -538,8 +369,8 @@ select::-ms-expand {
 }
 .desc {
   padding: 3px;
-  position: absolute;
   transition: 1s;
+  position: absolute;
   bottom: 0px;
 }
 .desc span {
@@ -547,25 +378,61 @@ select::-ms-expand {
   font-size: 13px;
 }
 .desc p {
-  transition: 1s;
   font-size: 10px;
   margin: 0px;
 }
 
+.pageButton {
+  display: flex;
+  width: 100%;
+  height: 50px;
+}
+.buttonmain {
+  transition: 1s;
+  width: 25%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px auto;
+}
+.jaydeep {
+  color: rgb(194, 194, 194);
+  width: auto;
+  transition: 0.2s;
+  height: auto;
+}
+.jaydeep a {
+  color: rgb(194, 194, 194);
+  transition: 0.2s;
+  text-decoration: none;
+}
+.jaydeep a:hover {
+  color: #ffffff;
+  transition: 0.2s;
+  text-decoration: none;
+}
+.jaydeep svg {
+  margin: auto 0px;
+}
+.jaydeep:hover {
+  color: white;
+}
+
 /* FOOTER  */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 
 .footer {
   position: relative;
   width: 100%;
   background: rgb(19, 25, 39);
   min-height: 100px;
-  padding: 20px 50px;
   transition: 1s;
+  padding: 20px 50px;
   display: flex;
-  margin-top: 5%;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  bottom: 0px;
 }
 
 .social-icon,
@@ -608,7 +475,6 @@ select::-ms-expand {
 }
 
 .menu__link:hover {
-  transition: 1s;
   opacity: 1;
 }
 
@@ -638,19 +504,23 @@ select::-ms-expand {
   }
 }
 
-/* FIXME:  */
 /*TODO: Media queary  */
+
 @media only screen and (min-width: 1200px) {
   .ul {
     width: 20%;
   }
+  .main-poster {
+    margin: 8% auto;
+  }
 }
+
 @media only screen and (max-width: 992px) {
   .ul {
     width: 100%;
   }
-  .innerMaster {
-    margin-top: 10%;
+  .main-poster {
+    margin: 10% auto;
   }
 }
 
@@ -658,8 +528,8 @@ select::-ms-expand {
   .ul {
     width: 50%;
   }
-  .innerMaster {
-    margin-top: 12%;
+  .main-poster {
+    margin: 12% auto;
   }
 }
 
@@ -670,60 +540,23 @@ select::-ms-expand {
   .ddown .navFix {
     display: block;
   }
-  .innerMaster {
-    margin-top: 15%;
-  }
-  .head h1 {
-    font-size: 1.8rem;
-  }
-  .movie_name p {
-    margin-top: 20px;
-  }
-  .posting {
-    margin-top: 3%;
-  }
-  .content-box {
-    margin-top: 5%;
-  }
-  .head2 {
-    margin-top: 5%;
+  .main-poster {
+    margin: 14% auto;
   }
 }
-@media only screen and (max-width: 600px) {
-  .innerMaster {
-    margin-top: 6rem;
+
+@media only screen and (max-width: 576px) {
+  .main-poster {
+    margin: 16% auto;
   }
-  .content-box {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin-top: 5%;
+}
+
+@media only screen and (min-width: 461px) {
+  .navigation {
+    height: 70px;
   }
-  .main-img {
-    margin: 0px auto;
-  }
-  .content-desc {
-    width: 100%;
-    display: block;
-    margin: 0%;
-  }
-  .in-desc {
-    width: auto;
-    height: auto;
-    margin: 5% auto;
-    color: #adb5bd;
-    padding: 6%;
-  }
-  .head3 {
-    flex-direction: column;
-  }
-  select {
-    width: 100%;
-    padding: 0 4em 0 3em;
-  }
-  .select2 {
-    margin-top: 2em;
-    margin-left: 0px;
+  .menu {
+    margin-left: 3px;
   }
 }
 @media only screen and (max-width: 460px) {
@@ -739,7 +572,6 @@ select::-ms-expand {
   }
   .searchField {
     margin: auto;
-    margin-top: 14px;
     padding: 1%;
   }
   .slidder {
@@ -748,30 +580,13 @@ select::-ms-expand {
   .ddown {
     margin-left: 0px;
   }
-  .innerMaster {
-    margin-top: 10rem;
+  .main-poster {
+    margin: 34% auto;
   }
-  .navigation {
-    height: 130px;
+  .navigation{
+      height: 118px;
   }
-  .head h1 {
-    font-size: 1.8rem;
-  }
-  .movie_name p {
-    font-size: 14px;
-  }
-  .starRating {
-    font-size: 14px;
-  }
-  .starLine {
-    margin-top: 5px;
-  }
-}
-@media only screen and (min-width: 461px) {
-  .navigation {
-    height: 70px;
-  }
-  .menu {
-    margin-left: 3px;
+  .con{
+    margin: 15px 15px;
   }
 }

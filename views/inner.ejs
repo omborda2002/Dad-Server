@@ -32,7 +32,7 @@
                     </div>
                     <div class="ddown">
                         <a class="navFix" href="#">Movies</a>
-                        <a class="navFix" href="#">Web-Series</a>
+                        <a class="navFix" href="http://localhost:3000/category/web">Web-Series</a>
                         <a href="#">Suggestion</a>
                         <a href="#">Contect us</a>
                     </div>
@@ -40,20 +40,24 @@
 
                 <div class="fixin">
                     <div class="logoo">
-                        <img src="/images/logo_bgLess.png" alt="" srcset="" style="width: auto;height: 40px;">
+                        <a href="http://localhost:3000/">
+                            <img src="/images/logo_bgLess.png" alt="Daddy Hub" style="width: auto;height: 40px;">
+                        </a>
                     </div>
                     <div class="ul">
                         <div class="li">
                             <div class="dropdown">
                                 <span>Movies</span>
                                 <div class="dropdown-content">
-                                    <a href="#">Bollywood</a>
-                                    <a href="#">Hollywood</a>
+                                    <a href="http://localhost:3000/category/bollywood">Bollywood</a>
+                                    <a href="http://localhost:3000/category/hollywood">Hollywood</a>
                                 </div>
                             </div>
                         </div>
                         <div class="li">
-                            <span>Web-Series</span>
+                            <a href="http://localhost:3000/category/web">
+                                <span>Web-Series</span>
+                            </a>
                         </div>
                     </div>
                     <div class="last container-fluid">
@@ -179,6 +183,7 @@
                                                             </option>
                                                             <% } %>
                                                                 <% } %>
+                                                                
                                                                     <% } %>
                 </select>
 
@@ -235,21 +240,34 @@
 
             <div class="main-poster">
                 <div class="posting">
+
+                    <% let arr = []; %> 
                     <% for(let i=0; i < 8; i++){ %>
-                        <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                        <% let rand; %> <% rand = Math.floor(Math.random()*16);%> 
+                        <% if(arr.length > 0){ %> 
+                            <% for(let i = 0; i < arr.length ; i++){ %> 
+                                <% if(rand == arr[i]){ %> 
+                                    <% rand =  Math.floor(Math.random()*16); %> 
+                                <% } %> 
+                            <% } %> 
+                        <% } %> 
+                            
+                        <% arr.push(rand); %> 
+
+                        <a href="http://localhost:3000/movie/<%= data[rand].name %> ">
                             <div class="con">
-                                <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
+                                <img src="<%=data[rand].poster%> " alt="<%= data[rand].name %> " class="image">
                                 <div class="overlay">
                                     <div class="desc">
                                         <span>
-                                            <%= data[i].name %>
+                                            <%= data[rand].name %>
                                         </span>
                                         <p>
-                                            <%= data[i].length %>
-                                                <%= data[i].genre %>
+                                            <%= data[rand].length %>
+                                                <%= data[rand].genre %>
                                         </p>
                                         <p>
-                                            <%= data[i].language %>,<%= data[i].year %>
+                                            <%= data[rand].language %>,<%= data[rand].year %>
                                         </p>
                                     </div>
                                 </div>
@@ -281,9 +299,9 @@
                 </a></li>
         </ul>
         <ul class="menu">
-            <li class="menu__item"><a class="menu__link" href="#">Home</a></li>
-            <li class="menu__item"><a class="menu__link" href="#">Feedback</a></li>
-            <li class="menu__item"><a class="menu__link" href="#">Contect us</a></li>
+            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/">Home</a></li>
+            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/feedback">Feedback</a></li>
+            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/contect us">Contect us</a></li>
         </ul>
 
         <div class="copyright" align="center" style="color: rgb(185, 185, 185);">
