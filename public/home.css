@@ -385,6 +385,8 @@ button.btnsearch {
   height: 50px;
   margin-bottom: 2%;
 }
+
+
 .buttonmain {
   transition: 1s;
   width: 25%;
@@ -394,10 +396,16 @@ button.btnsearch {
   margin: 0px auto;
 }
 .jaydeep {
-  color: rgb(194, 194, 194);
-  width: auto;
+  width: 50px;
+  color: black;
+  display: flex;
   transition: 0.2s;
-  height: auto;
+  background-color: white;
+  border-radius: 100px;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: hsla(140, 100%, 50%, 0.56) 0px 22px 70px 4px;
 }
 .jaydeep a {
   color: rgb(194, 194, 194);
@@ -410,10 +418,17 @@ button.btnsearch {
   text-decoration: none;
 }
 .jaydeep svg {
-  margin: auto 0px;
+  margin-top: 5px;
+  color: black;
+}
+.jaydeep svg:hover {
+  color: rgb(255, 255, 255);
 }
 .jaydeep:hover {
+  transition: 0.75s;
+  background-color: black;
   color: white;
+  box-shadow: hsla(182, 100%, 85%, 0.56) 0px 22px 70px 4px;
 }
 
 /* FOOTER  */

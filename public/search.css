@@ -417,7 +417,38 @@ button.btnsearch {
 .jaydeep:hover {
   color: white;
 }
+.ho{
+  width: 100%;
+  display: flex;
+  height: auto;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
 
+.hoo{
+  font-size: 2rem;
+  color: #000;
+  margin: 0 10px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  transition: 0.5s;
+  background: white;
+  border-radius: 35px;
+  margin-top: -25px;
+  box-shadow: hsla(140, 100%, 50%, 0.56) 0px 22px 70px 4px;
+}
+.hoo:hover{
+  transition: 0.75s;
+  color: white;
+  background-color: black;
+  box-shadow: hsla(0, 0%, 97%, 0.56) 0px 22px 70px 4px;
+}
+.hoo ion-icon {
+  margin: 8px 0px 0px 9px;
+}
 /* FOOTER  */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 
@@ -426,6 +457,7 @@ button.btnsearch {
   width: 100%;
   background: rgb(19, 25, 39);
   min-height: 100px;
+  margin-top: 4%;
   transition: 1s;
   padding: 20px 50px;
   display: flex;
