@@ -137,8 +137,15 @@
                             class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
                             <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
                         </svg><span style="font-size: 16px;color: #adb5bd;">
-                            <%= datam.year %>
-                        </span>
+                            <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
+                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
+                        </svg> <% if(datam.language == "Hindi"){ %> 
+                            <%= datam.language %> | English
+                        <% }else{ %> 
+                            <%= datam.language %>
+                        <% } %>  
+                        </span> 
 
                         <p style="color: #adb5bd;">
                             <%= datam.story %>
