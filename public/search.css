@@ -99,10 +99,9 @@
 }
 .logoo {
   margin-left: 2%;
-}
-.logoo img {
-  padding-top: 3%;
-  margin-top: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .ul {
