@@ -126,6 +126,16 @@ app.get("/search", (req, res) => {
 
   res.render("search", { arr });
 });
+
+app.get('/suggestion',(req,res) =>{
+  res.render('suggestion',{});
+})
+app.get('/tips',(req,res) =>{
+  res.send('HELLO')
+  // res.render('tips',{});
+})
+
+
 app.get("*", (req, res) => {
   res.send("NOT FOUND");
 });
