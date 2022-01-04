@@ -324,7 +324,6 @@ button.btnsearch {
   height: fit-content;
   margin: auto 0px;
   padding: 0% 6%;
-  overflow: scroll;
   color: #adb5bd;
 }
 .in-desc h3 {
@@ -739,6 +738,9 @@ select::-ms-expand {
   .head2 {
     margin-top: 5%;
   }
+  .slidder{
+    width: 100%;
+  }
 }
 @media only screen and (max-width: 600px) {
   .innerMaster {
@@ -776,6 +778,9 @@ select::-ms-expand {
     margin-top: 2em;
     margin-left: 0px;
   }
+  .logoo{
+    margin-left: 5%;
+  }
 }
 @media only screen and (max-width: 500px){
   .ooo{
@@ -794,7 +799,7 @@ select::-ms-expand {
     width: max-content;
     height: auto;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 18px;
     padding: 1%;
   }
   .fixin {

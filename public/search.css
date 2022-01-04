@@ -415,6 +415,10 @@ button.btnsearch {
 .jaydeep:hover {
   color: white;
 }
+
+.jaydeep:hover svg{
+  color: white
+}
 .ho{
   width: 100%;
   display: flex;
@@ -573,11 +577,18 @@ button.btnsearch {
   .main-poster {
     margin: 14% auto;
   }
+  .slidder{
+    width: 100%;
+  }
+  
 }
 
 @media only screen and (max-width: 576px) {
   .main-poster {
     margin: 16% auto;
+  }
+  .logoo{
+    margin-left: 5%;
   }
 }
 
@@ -594,7 +605,7 @@ button.btnsearch {
     width: max-content;
     height: auto;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 18px;
     padding: 1%;
   }
   .fixin {
