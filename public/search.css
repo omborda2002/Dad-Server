@@ -313,12 +313,12 @@ button.btnsearch {
 .con {
   position: relative;
   z-index: 3;
-  margin: 15px 5px;
+  margin: 15px 3px;
   height: 222px;
   border-radius: 10px;
   transition: 1s;
   overflow: hidden;
-  width: 160px;
+  width: 145px;
   max-width: 300px;
 }
 

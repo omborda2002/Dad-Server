@@ -342,12 +342,12 @@ button.btnsearch {
 .con {
   position: relative;
   z-index: 3;
-  margin: 15px 5px;
+  margin: 15px 3px;
   height: 222px;
   transition: 1s;
   overflow: hidden;
   border-radius: 10px;
-  width: 160px;
+  width: 145px;
   max-width: 300px;
 }
 
@@ -625,4 +625,5 @@ button.btnsearch {
   .ul {
     width: 20%;
   }
+  
 }
