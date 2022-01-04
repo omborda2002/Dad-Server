@@ -30,15 +30,15 @@
                     </div>
                     <div class="ddown">
                         <a class="navFix" href="#">Movies</a>
-                        <a class="navFix" href="http://localhost:3000/category/web">Web-Series</a>
-                        <a href="http://localhost:3000/suggestion">Suggestion</a>
-                        <a href="http://localhost:3000/tips">Tips</a>
+                        <a class="navFix" href="https://daddyhub.in/category/web">Web-Series</a>
+                        <a href="https://daddyhub.in/suggestion">Suggestion</a>
+                        <a href="https://daddyhub.in/tips">Tips</a>
                     </div>
                 </div>
 
                 <div class="fixin">
                     <div class="logoo">
-                        <a href="http://localhost:3000/">
+                        <a href="https://daddyhub.in/">
                             <img src="/images/logo_bgLess.png" alt="Movie City" style="width: auto;height: 40px;">
                         </a>
                     </div>
@@ -47,20 +47,20 @@
                             <div class="dropdown">
                                 <span>Movies</span>
                                 <div class="dropdown-content">
-                                    <a href="http://localhost:3000/category/bollywood">Bollywood</a>
-                                    <a href="http://localhost:3000/category/hollywood">Hollywood</a>
+                                    <a href="https://daddyhub.in/category/bollywood">Bollywood</a>
+                                    <a href="https://daddyhub.in/category/hollywood">Hollywood</a>
                                 </div>
                             </div>
                         </div>
                         <div class="li">
-                            <a href="http://localhost:3000/category/web">
+                            <a href="https://daddyhub.in/category/web">
                                 <span>Web-Series</span>
                             </a>
                         </div>
                     </div>
                     <div class="last container-fluid">
                         <div class="searchField ">
-                            <form action="http://localhost:3000/search" class="input-group" method="get">
+                            <form action="https://daddyhub.in/search" class="input-group" method="get">
                                 <input type="search" id="search-input" type="search" id="form1" name="q"
                                     placeholder="Search" class="sear">
                                 <button type="submit" class="btnsearch">
@@ -89,17 +89,17 @@
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner h-auto">
                             <div class="carousel-item active">
-                                <a href="http://localhost:3000/movie/<%= bigImg[0].name %>">
+                                <a href="https://daddyhub.in/movie/<%= bigImg[0].name %>">
                                     <img class="d-block w-100" src="<%= bigImg[0].poster %>" alt="<%= bigImg[0].name %>"">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="http://localhost:3000/movie/<%= bigImg[1].name %>">
+                                <a href="https://daddyhub.in/movie/<%= bigImg[1].name %>">
                                     <img class="d-block w-100" src="<%= bigImg[1].poster %>"" alt="<%= bigImg[1].name %>"">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="http://localhost:3000/movie/<%= bigImg[2].name %>">
+                                <a href="https://daddyhub.in/movie/<%= bigImg[2].name %>">
                                     <img class="d-block w-100" src="<%= bigImg[2].poster %>"" alt="<%= bigImg[2].name %>"">
                                 </a>
                             </div>
@@ -136,7 +136,7 @@
                 <% let i = 16 * num , j = 8 * (num + increment); %> 
 
                 <% for(let i = 16 * num; i < j; i++){ %> 
-                    <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                    <a href="https://daddyhub.in/movie/<%= data[i].name %> ">
                         <div class="con">
                             <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
                             <div class="overlay">
@@ -164,7 +164,7 @@
                 <% let m = 8 * (increment + num) ,n = 16 * increment %>
 
                 <% for(let i = m; i < n; i++){ %>
-                    <a href="http://localhost:3000/movie/<%= data[i].name %> ">
+                    <a href="https://daddyhub.in/movie/<%= data[i].name %> ">
                         <div class="con">
                             <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
                             <div class="overlay">
@@ -185,7 +185,7 @@
                 <div class="jaydeep">
 
                     <% if(parseInt(num) == 0){ %> 
-                        <a href="http://localhost:3000/">
+                        <a href="https://daddyhub.in/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                                 class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
@@ -193,7 +193,7 @@
                             </svg>
                         </a>
                     <% }else if( num == 1){ %> 
-                        <a href="http://localhost:3000/page/<%=num-1%>">
+                        <a href="https://daddyhub.in/page/<%=num-1%>">
                             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                                 class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
@@ -212,7 +212,7 @@
 
                     <% if(num+1 < tot){  %> 
 
-                        <a href="http://localhost:3000/page/<%= num+1 %>">
+                        <a href="https://daddyhub.in/page/<%= num+1 %>">
                             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                                 class="bi bi-arrow-right-circle" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
@@ -222,7 +222,7 @@
 
                     <% }else{%>
 
-                        <a href="http://localhost:3000/page/<%= num %>">
+                        <a href="https://daddyhub.in/page/<%= num %>">
                             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                                 class="bi bi-arrow-right-circle" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
@@ -255,8 +255,8 @@
                 </a></li>
         </ul>
         <ul class="menu">
-            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/">Home</a></li>
-            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/feedback">Feedback</a></li>
+            <li class="menu__item"><a class="menu__link" href="https://daddyhub.in/">Home</a></li>
+            <li class="menu__item"><a class="menu__link" href="https://daddyhub.in/feedback">Feedback</a></li>
         </ul>
 
         <div class="copyright" align="center" style="color: rgb(185, 185, 185);">
