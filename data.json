@@ -312,6 +312,22 @@
         "type" : "bollywood"
       },
 
+      
+
+      {
+        "name":"Project Power",
+        "year": 2020,
+        "length" : "1h 53m",
+        "imdb": 6.0,
+        "popularity" : "82K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "On the streets of New Orleans, word begins to spread about a mysterious new pill that unlocks superpowers unique to each user. The catch: You dont know what will happen until you take it. While some develop bulletproof skin, invisibility, and super strength, others exhibit a deadlier reaction. But when the pill escalates crime within the city to dangerous levels, a local cop (Joseph Gordon-Levitt) teams with a teenage dealer (Dominique Fishback) and a former soldier fueled by a secret vendetta (Jamie Foxx) to fight power with power and risk taking the pill in order to track down and stop the group responsible for creating it.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EcKnDThGhv5BvCiP4qK-mWoBlNfkeQoUmOS2NW-740SteQ?e=QBAnfI",
+        "type" : "bollywood"
+      },
+
       {
         "name":"Suraj Pe Mangal Bhari",
         "year": 2020,
@@ -347,7 +363,7 @@
         "imdb": 5.7,
         "popularity" : "31K",
         "genre" : "Action",
-        "language" : "English",
+        "language" : "Hindi",
         "story": "After a disease killed 98% of children and young people in the United States, the 2% who managed to survive have developed superpowers, but have been locked in internment camps after being declared a threat. 16-year-old, Ruby, manages to escape from her camp and joins a group of teenagers fleeing government forces.",
         "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Darkest_Minds_poster.png",
         "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Efdf7G2ku2BAvZB8mI6nfTABvs9m0Mi68qDSMNke5mfRfw?e=KLzfN4",
@@ -720,7 +736,15 @@
         "story": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
         "poster": "https://images-na.ssl-images-amazon.com/images/I/91gX8nfM+lL.jpg",
         "download_links" : [
-          "bjjhjah"
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ea05pInP9NdNsy4dnUNPB6sBVnFMMUBtONO672Evh8WiGg?e=zIZY3D",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXT3rDITVWNNqhSp6MAoeowBhhJ1cOk1LE8pdxc-R1fqvg?e=8n9AGZ",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbzATBLVSthMs3J2t2mPyVEBuQCcDWKZb2K99Fe1yYwyqA?e=oF2SsW",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZOeK8zdNq1IsUSQJTKhKhQBUmO4QU4rWk61pc1-utIJOQ?e=cQaMHi",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfSm3gGm-BNDriJBLQ0KT24BoccGoS3muarFGbkE41Yyqw?e=pscZFs",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERN4o5QqS99Ao-YWDBPnLykBVIhJRgwEEUrksImr7gjH-A?e=la8bUZ",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXwKuiyuzdxBuQMo1ghQ3C0BjotaA8ZR46JAWzaauUhbkQ?e=kjU6dx",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EdIazlNy6XdMlYFhB3ZUoD0BfvFBn0uXDVjAwrxxg4pH_A?e=Ciq7Ir",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfaqHMrl9q9Jij27OFUhDaEBD8gJjS2LSSTeszbvO7AqfQ?e=8Lcvv5"
          ],
         "type" : "web",
         "season": 1,
@@ -1061,20 +1085,6 @@
       },
 
       {
-        "name":"Super 30",
-        "year": 2019,
-        "length" : "2h 34m",
-        "imdb": 8.0,
-        "popularity" : "28K",
-        "genre" : "Biography",
-        "language" : "Hindi",
-        "story": "Anand Kumar, a Mathematics genius from a modest family in Bihar who is made to believe that only a Kings son can become a king is on a mission to prove that even the poor man can create some of the worlds most genius minds. He starts a training program named Super 30 to help 30 IIT aspirants crack the entrance test and make them highly successful professionals.",
-        "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
-        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ecwl-IskogBOoGUPWtlWPJQBdOjAVj_ALJlq2Ls7J7z8Qg?e=Szuagu",
-        "type" : "bollywood"
-      },
-
-      {
         "name":"Pirates of the Caribbean: The Curse of the Black Pearl",
         "year": 2003,
         "length" : "2h 23m",
@@ -1324,8 +1334,893 @@
         "poster": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
         "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eba8_ZfY20VJuBW1U3zrXkgBgUtRQMNCNjBO_MDS1uX1GA?e=c50B2A",
         "type" : "hollywood"
+      },
+
+      {
+        "name":"Avengers: Infinity War",
+        "year": 2018,
+        "length" : "2h 29m",
+        "imdb": 8.4,
+        "popularity" : "961K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQvyXKjP6PlOpraODaMcyk8B76QTnqH8uiubwTp5M4fCyQ?e=xKWMdC",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Batman 2: The Dark Knight",
+        "year": 2008,
+        "length" : "2h 32m",
+        "imdb": 9.0,
+        "popularity" : "2.5M",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as The Joker appears in Gotham, creating a new wave of chaos.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ee4l9zxxbVhIg0G0iiIUj8sBif9CGc0qHxsYiSRKgneLqQ?e=TGGEzT",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Batman v Superman: Dawn of Justice",
+        "year": 2016,
+        "length" : "2h 32m",
+        "imdb": 6.4,
+        "popularity" : "672K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "The general public is concerned over having Superman on their planet and letting the Dark Knight - Batman - pursue the streets of Gotham. While this is happening, a power-phobic Batman tries to attack Superman. Meanwhile, Superman tries to settle on a decision, and Lex Luthor, the criminal mastermind and millionaire, tries to use his own advantages to fight the Man of Steel.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Batman_v_Superman_Dawn_of_Justice_poster.jpg/220px-Batman_v_Superman_Dawn_of_Justice_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Efyg6_i6K7BDs7tr1Evdh4cBT5nf0HXU5Tmjps3y9mcmuQ?e=WlOx7K",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Battleship",
+        "year": 2012,
+        "length" : "2h 11m",
+        "imdb": 5.8,
+        "popularity" : "243K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "An international fleet of naval warships encounters an alien armada while on a Naval war games exercise and faces the biggest threat mankind has ever faced. An intense battle is fought on sea, land and air. If they lose, the world could face a major extinction event and an alien invasion. Will humans win this alien war, what are the aliens doing here, and what do they want?",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Battleship_Poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfTuy4bn33lHrM2eb4xKWy8BaYNZ1Bva3DeiV4esigHY4A?e=4b8VvU",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Black Panther",
+        "year": 2018,
+        "length" : "2h 14m",
+        "imdb": 7.3,
+        "popularity" : "696K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After the events of Captain America: Civil War, Prince TChalla returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his countrys new king. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. ",
+        "poster": "https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXBuXU4PZtpCpfAfGozjvB4BzllaWpdrGh4UKoSlVAdatw?e=ibMI0s",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Captain Marvel",
+        "year": 2019,
+        "length" : "2h 3m",
+        "imdb": 6.8,
+        "popularity" : "510K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After crashing an experimental aircraft, Air Force pilot Carol Danvers is discovered by the Kree and trained as a member of the elite Starforce Military under the command of her mentor Yon-Rogg. Six years later, after escaping to Earth while under attack by the Skrulls, Danvers begins to discover theres more to her past. With help from S.H.I.E.L.D. agent Nick Fury, they set out to unravel the truth.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERVFADGMbXRAjfnfYVGa6sEBd7HHDj3gIAUAV5In0G4fAw?e=BQmeRQ",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Captain America: Civil War",
+        "year": 2016,
+        "length" : "2h 27m",
+        "imdb": 7.8,
+        "popularity" : "728K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a heros actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfmsjHo4XE1MsXgqiqLjAi4BB0alQ6BlwlEOuVXbpXh_Kw?e=cbt4h1",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Captain America: The Winter Soldier",
+        "year": 2014,
+        "length" : "2h 16m",
+        "imdb": 7.7,
+        "popularity" : "794K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "For Steve Rogers, awakening after decades of suspended animation involves more than catching up on pop culture; it also means that this old school idealist must face a world of subtler threats and difficult moral complexities. That becomes clear when Director Nick Fury is killed by the mysterious assassin, the Winter Soldier, but not before warning Rogers that SHIELD has been subverted by its enemies",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ed_n95kuSRFJoIxybZIfL-gBvwQ5ZA19iGzjNBkEK0BseA?e=Unv2hP",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Deadpool",
+        "year": 2016,
+        "length" : "1h 48m",
+        "imdb": 8.0,
+        "popularity" : "969K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWtoSbx5zRVHmLZ6eCMAixMBhJOCTF0Cey2USorPkXwrYA?e=oFom4X",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Deadpool 2",
+        "year": 2018,
+        "length" : "1h 59m",
+        "imdb": 7.7,
+        "popularity" : "534K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After losing Vanessa (Morena Baccarin), the love of his life, 4th-wall breaking mercenary Wade Wilson aka Deadpool (Ryan Reynolds) must assemble a team and protect a young, fat mutant Russell Collins aka Firefist (Julian Dennison) from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future, and must also learn the most important lesson of all: to be part of a family again.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ESWzlXJ_9G1DvtXLkMOynWIBinsDpcw8czayc8BeRlaz-A?e=u37E2H",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Vikings S01",
+        "year": 2013,
+        "imdb": 8.5,
+        "popularity" : "484K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "The adventures of a Ragnar Lothbrok: the greatest hero of his age. The series tells the saga of Ragnars band of Viking brothers and his family as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods: legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/Vikings_Season_1.jpg",
+        "download_links" : [
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ed6boVeYWF1PvXi1kK_40QcBsOEvlOnYoXEdXjZsmVRrcA?e=5LVN9W",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERPlSfw_mdZHsy7snborD5wBcYTeAxubImVRnUETupjzyw?e=X0qAl5",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EaGuJYWeaRxMuUOw1h8ZK0YB5FylgItfzl80zOxNISFf4w?e=v5OF7D",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EapuejBDnx5Bi4Fs7F_08eoB3035iolUeJv6rVD97O34kg?e=iAwUE4",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZheRaS3mERIpg7kurVOaeUBTbDDDWw2UfPivPTvSRGWdg?e=YGjhsS",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYt-M4rucs5JpaQscdj0iiMBTHzHrNNuUWZNIvaWmRRubQ?e=8h4wIp",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUoxtKdKNclHtiVdj4RbgbABlOUHfaoRLmC9VxNcrOxePQ?e=8lCWr6",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eb6UWX6BxNhMsoPmCydubRgBuTLlp2dkrupjvc8yXiAyCA?e=XWUcgK",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eeddv45zjTNGoxZ_nfa1ihQBGZb-FCKjxmQlKIUb6tlQMw?e=Kssbya"
+         ],
+        "type" : "web",
+        "season": 1,
+        "episodes": 9
+      },
+
+      {
+        "name":"Doctor Strange",
+        "year": 2016,
+        "length" : "1h 55m",
+        "imdb": 7.5,
+        "popularity" : "667K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Marvel's Doctor Strange follows the story of the talented neurosurgeon Doctor Stephen Strange who, after a tragic car accident, must put ego aside and learn the secrets of a hidden world of mysticism and alternate dimensions. Based in New York Citys Greenwich Village, Doctor Strange must act as an intermediary between the real world and what lies beyond, utilising a vast array of metaphysical abilities and artifacts to protect the Marvel Cinematic Universe.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERJBSNH7whBLvjns98rSL1gBtZpVl1QY6IqGikJqZzHfTQ?e=HdeSrF",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Dolittle",
+        "year": 2020,
+        "length" : "1h 41m",
+        "imdb": 5.6,
+        "popularity" : "58K",
+        "genre" : "Advanture",
+        "language" : "Hindi",
+        "story": "After his wifes death, Dr. John Dolittle (Robert Downey, Jr.) decided to hide from the world with his beloved animals. But he has to take a journey to a mysterious island to find a healing tree, which is the only medicine that can help the dying Queen Victoria (Jessie Buckley) in Buckingham Palace.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Dolittle_%282020_film_poster%29.png",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eb4zeTTV8NBGg82HgBfgQXABG80uQI8s2g4kjjdRtUIvzg?e=qcAh53",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Evil Dead",
+        "year": 2013,
+        "length" : "1h 31m",
+        "imdb": 6.5,
+        "popularity" : "165K",
+        "genre" : "Horror",
+        "language" : "Hindi",
+        "story": "Five twenty-something friends become holed up in a remote cabin. When they discover a Book of the Dead, they unwittingly summon up dormant demons living in the nearby woods, which possess the youngsters in succession until only one is left intact to fight for survival.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/EvilDead2013Poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ETXpMJjDzWRGm8XD_WhjCOsB8CeuKOus4B8wY7hQ_5qJJQ?e=9fempV",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Fast & Furious Presents: Hobbs & Shaw",
+        "year": 2019,
+        "length" : "2h 17m",
+        "imdb": 6.5,
+        "popularity" : "200K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EX5bZhyRdfxLgDP0repmM3kBMsR9lpmLYY77kYhiEMF4jA?e=JzuCfD",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Johnny English Reborn",
+        "year": 2011,
+        "length" : "1h 41m",
+        "imdb": 6.2,
+        "popularity" : "127K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Johnny English, the accidental secret agent who doesnt know fear or danger and the most unlikely intelligence officer in Her Majestys Secret Service, must stop a group of international assassins before they eliminate a world leader and cause global chaos. In the years since MI7s top spy vanished off the grid, he has been honing his unique skills in a remote region of Asia. ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODY2MjU1Nl5BMl5BanBnXkFtZTcwMzc1ODUzNg@@._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eb1RWLTb3gdJjw9HFb6YPXsB-ughOIGnStzCjP7mWIGQ9Q?e=UsnC1w",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Johnny English",
+        "year": 2003,
+        "length" : "1h 27m",
+        "imdb": 6.2,
+        "popularity" : "155K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "When a funeral of a British spy is attacked, all of the remaining spies are killed. Only one spy is left and is now Britains last hope. Johnny English and his sidekick, Bough have been assigned the case of investigating the theft of the British Crown Jewels. The prime suspect is a mysterious French entrepreneur, known as Pascal Sauvage. ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDkxODhlNmItYjhiMC00ZjNmLWE2YmMtOTQ3NmQxM2YzOGFiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYeEe9BnPcZAva6YvZd8VVcBo_lO3H310nwTIrPrT2q8Zw?e=cnjutc",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Kingsman: The Golden Circle",
+        "year": 2017,
+        "length" : "2h 21m",
+        "imdb": 6.7,
+        "popularity" : "301K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After the Kingsman headquarters are blown up by a psychotic criminal named Poppy Adams (Julianne Moore), the surviving agents find their way to an allied secret organization based in Kentucky, named Statesman. The two agencies must now work together in order to save the world and take down the so called Golden Circle",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWpdf75hISVOkbOa05z4TxcBt6Oey7crnLVN3IB67BhfQQ?e=j0VzEs",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Kong: Skull Island",
+        "year": 2017,
+        "length" : "1h 58m",
+        "imdb": 6.6,
+        "popularity" : "304K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A washed up monster chaser convinces the U.S. Government to fund a trip to an unexplored island in the South Pacific. Under the guise of geological research, the team travels to Skull Island. Upon arrival, the group discover that their mission may be complicated by the wildlife which inhabits the island. The beautiful vistas and deadly creatures create a visually stunning experience that is sure to keep your attention.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/34/Kong_Skull_Island_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYkocA0j52BGlqTgkg-36PYBXKcQDPdGr4AuiMHZNxe3MQ?e=5aZabL",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"The Martian",
+        "year": 2015,
+        "length" : "2h 24m",
+        "imdb": 8.0,
+        "popularity" : "810K",
+        "genre" : "Advanture",
+        "language" : "Hindi",
+        "story": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYKN3DjZsv5Kn2Xs4ZtFhVkBkBTLF44aVteciiSvfD2qdA?e=Ls03qL",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Mechanic: Resurrection",
+        "year": 2016,
+        "length" : "1h 38m",
+        "imdb": 5.7,
+        "popularity" : "82K",
+        "genre" : "Advanture",
+        "language" : "Hindi",
+        "story": "Arthur Bishop, the master assassin who faked his death in hopes of putting that part of his ;life behind him, now lives a quiet life in Rio. But someone who knows who he is shows up and tells him, that if he wants to continue living this life, he will do three jobs for someone. Bishop tries to tell them he has the wrong man but they know who he is and if he wont do the job, they will take him but he gets away.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/40/Mechanic_Resurrection_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYWTM4CJrJ1InirBMhF2kCkB-yw34RE1AoQXOf31VTla1g?e=23kSCt",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Men in Black",
+        "year": 1997,
+        "length" : "1h 38m",
+        "imdb": 7.3,
+        "popularity" : "544K",
+        "genre" : "Advanture",
+        "language" : "Hindi",
+        "story": "Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agencys finest men only going by the name K (Tommy Lee Jones) , is recruiting for a new addition to the agency. He has chosen James Edwards (Will Smith) of the N.Y.P.D. Then, one day, a flying saucer crashes into Earth.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Men_in_Black_Poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYkLiK7-b1BJuTdoA1MdMWcBKmpQ_OoNZBXfuiVBGn2F7w?e=BWRiOt",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Men in Black II",
+        "year": 2002,
+        "length" : "1h 28m",
+        "imdb": 6.2,
+        "popularity" : "161K",
+        "genre" : "Advanture",
+        "language" : "Hindi",
+        "story": "Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIBs untarnished mission statement: protecting the earth from the scum of the universe. Its been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/Men_in_Black_II_Poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfHwPaZdfXFCtNbEgGHIVmkB_OezU0BxFy31PwrDAZ9KJA?e=hkQjSj",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Men in Black 3",
+        "year": 2012,
+        "length" : "1h 46m",
+        "imdb": 6.8,
+        "popularity" : "650K",
+        "genre" : "Advanture",
+        "language" : "Hindi",
+        "story": "After breaking out of LunarMax, a moon-based maximum security prison, Boris the Animal (Jemaine Clement) decides to go back in time and eliminate the person who arrested him - Agent K (Josh Brolin). When he does so, Agent J (Will Smith) realizes that the timeline has been changed and he too travels back to July 15, 1969, the day before Agent K is killed.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Men_In_Black_3.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWiezHe2N4xEgrgE_JE4J-QBbMGntsZE-1QUCIj6TuiYcw?e=gQbMfy",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Mission: Impossible - Rogue Nation",
+        "year": 2015,
+        "length" : "2h 11m",
+        "imdb": 7.4,
+        "popularity" : "359K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "CIA chief Hunley (Baldwin) convinces a Senate committee to disband the IMF (Impossible Mission Force), of which Ethan Hunt (Cruise) is a key member. Hunley argues that the IMF is too reckless. Now on his own, Hunt goes after a shadowy and deadly rogue organization called the Syndicate.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Mission_Impossible_Rogue_Nation_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYXPYU9rLnNKom2cLERQKPUBA9X-bIoRTHve4bDOd4rlrA?e=wSLUx4",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Mission: Impossible - Ghost Protocol",
+        "year": 2011,
+        "length" : "2h 12m",
+        "imdb": 7.4,
+        "popularity" : "474K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "In the fourth installment of the Mission Impossible series, Ethan Hunt and a new team race against time to track down Hendricks, a dangerous terrorist who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt by the team to stop him at the Kremlin ends in a disaster, with an explosion causing severe damage to the Kremlin and the IMF being implicated in the bombing.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/b5/Mission_impossible_ghost_protocol.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EdtPDLB07TNMhmOztF6km2kBShGnnyrbZMuTDc-zqhz0_Q?e=TarpUc",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Mission: Impossible - Fallout",
+        "year": 2018,
+        "length" : "2h 27m",
+        "imdb": 7.7,
+        "popularity" : "313K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Two years after Ethan Hunt had successfully captured Solomon Lane, the remnants of the Syndicate have reformed into another organization called the Apostles. Under the leadership of a mysterious fundamentalist known only as John Lark, the organization is planning on acquiring three plutonium cores. Ethan and his team are sent to Berlin to intercept them, but the mission fails when Ethan saves Luther and the Apostles escape with the plutonium.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQHZjp1HHaBIoANWgMvEAY0BCA06X38WAcJdIDk3jw4DJw?e=eOU31h",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Night at the Museum: Battle of the Smithsonian",
+        "year": 2009,
+        "length" : "1h 45m",
+        "imdb": 6.0,
+        "popularity" : "188K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "Ben Stiller returns as night watchman Larry Daily, now a successful business man, who gets back to the museum just in time to find that he needs to get his friends out of trouble. This new installment takes us to the Smithsonian, and introduces us to new characters, such as Amelia Earhart, General Custer, and many more!",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/Night_at_the_Museum_2_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWlE5NPE29VPsZw-YR6BEWYBX9NHyFTJ9fx9zlJlK_us2A?e=UKUHeb",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Olympus Has Fallen",
+        "year": 2013,
+        "length" : "1h 59m",
+        "imdb": 6.5,
+        "popularity" : "269K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "When the White House (Secret Service Code: Olympus) is captured by a terrorist mastermind and the President is kidnapped, former Presidential Secret Service Agent Mike Banning finds himself trapped within the building. As our national security team scrambles to respond, they are forced to rely on Bannings inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Olympus_Has_Fallen_poster.jpg/220px-Olympus_Has_Fallen_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ESHBVIAXSAJIvdpHvUrh3EIBtzkSWjneUs3X13SXk-xXiQ?e=5m06sk",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Passengers",
+        "year": 2016,
+        "length" : "1h 56m",
+        "imdb": 7.0,
+        "popularity" : "380K",
+        "genre" : "Drama",
+        "language" : "Hindi",
+        "story": "The spaceship, Starship Avalon, in its 120-year voyage to a distant colony planet known as the Homestead Colony and transporting 5,258 people has a malfunction in one of its sleep chambers. As a result one hibernation pod opens prematurely and the one person that awakes, Jim Preston (Chris Pratt) is stranded on the spaceship, still 90 years from his destination.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8e/Passengers_2016_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYtsw81tIhRPolG5UnWp3yYB1jhoGHIyb67P81HhPVy_yg?e=EKVsDd",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Spider-Man: Far from Home",
+        "year": 2019,
+        "length" : "2h 9m",
+        "imdb": 7.4,
+        "popularity" : "422K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peters plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUZ7zq6qymhIop2CFSZXUkABBSK5qtN6V0AEB1VhN-lWAA?e=s1GnPW",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Spider-Man: Homecoming",
+        "year": 2017,
+        "length" : "2h 13m",
+        "imdb": 7.4,
+        "popularity" : "591K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A young Peter Parker/Spider-Man begins to navigate his newfound identity as the web-slinging super hero Spider-Man. Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark. Peter tries to fall back into his normal daily routine - distracted by thoughts of proving himself to be more than just your friendly neighborhood Spider-Man - but when the Vulture emerges as a new villain, everything that Peter holds most important will be threatened.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQWEOHCpgAJGt4VHTVoQ5f4Bi99Eht0qpphzA4QymF5i7g?e=fXe3Rw",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Loki S01",
+        "year": 2021,
+        "imdb": 8.3,
+        "popularity" : "248K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of Avengers: Endgame.",
+        "poster": "https://cdn.vox-cdn.com/thumbor/oNf9-YF5pbXsBRzXUH5QREznJqs=/0x0:1687x2500/1200x0/filters:focal(0x0:1687x2500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22382443/Loki_Digital_KeyArt_Teaser_v4_Lg.jpg",
+        "download_links" : [
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EdBz7bN3RkJFhrw4XLFzOxkBXcBk9K3h2quU7MMe0tULJA?e=V2kFe6",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXq4GKrb8UFJmz3d3HUjxyABvg14id2oRCh5dcKhm1xuUA?e=Da04yE",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EdJQh8v5PbZAmhAjwYpj8Z8BkOD8B399cLQLEc9AtlQy9w?e=dZJgE0",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EcJyEFl8uVNDhjZZdSIu0EwBio1se-YEzYU72eIS-HlJkQ?e=QNrmaS",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQh6d_TmKEhIurjRa2JL-voBPMfKVcX0cmaS2rLwn_4ecw?e=72vPjR",
+          "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYI5Mas6il5IiT8t5A0ngLwBWU1vYIxsTqqHi8aemm6amQ?e=RY7q41"
+         ],
+        "type" : "web",
+        "season": 1,
+        "episodes": 6
+      },
+      
+      {
+        "name":"The Avengers",
+        "year": 2012,
+        "length" : "2h 23m",
+        "imdb": 8.0,
+        "popularity" : "1.3M",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseracts power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbX8JBUW0vVKuYqS3D3GowQB20nC3eojuGVLJDKmSUnyUg?e=66kMUk",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"The Dark Knight Rises",
+        "year": 2012,
+        "length" : "2h 44m",
+        "imdb": 8.4,
+        "popularity" : "1.6M",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Despite his tarnished reputation after the events of The Dark Knight (2008), in which he took the rap for Dents crimes, Batman feels compelled to intervene to assist the city and its Police force, which is struggling to cope with Banes plans to destroy the city.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Efp0JPzUix1JoUYoACKZNngBkRrPfhR1z6PW9-NPdxecbQ?e=peHVJD",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"The Expendables 2",
+        "year": 2012,
+        "length" : "1h 43m",
+        "imdb": 6.6,
+        "popularity" : "301K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Barney Ross is approached by CIA man Church, who wants him and his guns for hire to go to the former Soviet Union to retrieve something that was on a plane that crashed. Church does not tell him what he is getting. And Church sends a woman, Maggie with him to make sure he gets it. They find the plane and get the thing but some men take one of Barney people hostage and the leader tells him to give him what they got or he will kill his hostage.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/The_Expendables_2_poster.jpg/220px-The_Expendables_2_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYXNGWlgdUFPvBca4rykHVEBM_qyQbtl96OeHWxyGfjgsA?e=2c39HL",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Captain America: The First Avenger",
+        "year": 2011,
+        "length" : "2h 4m",
+        "imdb": 6.9,
+        "popularity" : "799K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "It is 1942, America has entered World War II, and sickly but determined Steve Rogers is frustrated at being rejected yet again for military service. Everything changes when Dr. Erskine recruits him for the secret Project Rebirth. Proving his extraordinary courage, wits and conscience, Rogers undergoes the experiment and his weak body is suddenly enhanced into the maximum human potential.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ES7nATS6umlEi9tZrkmqCaoBv9gpyM3n82odwP6IX0szUg?e=Y5yz9n",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"The Incredible Hulk",
+        "year": 2008,
+        "length" : "1h 52m",
+        "imdb": 6.6,
+        "popularity" : "465K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Depicting the events after the Gamma Bomb. The Incredible Hulk tells the story of Dr Bruce Banner, who seeks a cure to his unique condition, which causes him to turn into a giant green monster under emotional stress. Whilst on the run from military which seeks his capture, Banner comes close to a cure. But all is lost when a new creature emerges: The Abomination.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUyyq8SrKn9LiOXjTSJeUyoBPkSE7XpXXsBdtdGpIg_SRg?e=74l8W1",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"The Meg",
+        "year": 2018,
+        "length" : "1h 53m",
+        "imdb": 5.6,
+        "popularity" : "163K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Five years ago, expert sea diver and Naval Captain Jonas Taylor encountered an unknown danger in the unexplored recesses of the Mariana Trench that forced him to abort his mission and abandon half his crew. Though the tragic incident earned him a dismissal from service, what ultimately cost him his career, his marriage and any semblance of honor was his unsupported and incredulous claims of what caused it - an attack on his vessel by a mammoth, 70-foot sea creature, believed to be extinct for more than a million years.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Meg_2018_film_cover.png",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVJbdRdgys9BliSCHM9YP1oBhL6FmzHMLt0NVnXJOK-xSg?e=PerkPu",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Thor",
+        "year": 2011,
+        "length" : "1h 55m",
+        "imdb": 7.0,
+        "popularity" : "799K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "The warrior Thor (Chris Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Sir Anthony Hopkins) for his arrogance and sent to Earth to live amongst humans. Falling in love with scientist Jane Foster (Natalie Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ec4J6MzqixZLtrNck0RLit8B3Rt8mwMWIIM1Z6MvDtP31A?e=MV7r7y",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Thor: The Dark World",
+        "year": 2013,
+        "length" : "1h 52m",
+        "imdb": 6.8,
+        "popularity" : "642K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Thousands of years ago, a race of beings known as Dark Elves tried to send the universe into darkness by using a weapon known as the Aether. Warriors from Asgard stopped them, but their leader Malekith (Christopher Eccleston) escaped to wait for another opportunity. The warriors find the Aether, and since it cannot be destroyed, they try to hide it",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Thor_The_Dark_World_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZC1bMWO7DFMqjbi3Ymb-nIBTzb1Cf17C-MSn9Uyqq0izA?e=bDRpFJ",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"White House Down",
+        "year": 2013,
+        "length" : "2h 11m",
+        "imdb": 6.3,
+        "popularity" : "216K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Capitol Policeman John Cale has just been denied his dream job with the Secret Service of protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nations government falling into chaos and time running out, its up to Cale to save the president, his daughter, and the country.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/5d/White_House_Down_poster_with_billing_block.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EcfN2jWpmw1Lh5qprT9_jbIBqOZQwwSHAOWYRefb7OzKrA?e=503Ifc",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"World War Z",
+        "year": 2013,
+        "length" : "1h 56m",
+        "imdb": 7.0,
+        "popularity" : "635K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/World_War_Z_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWc0uZtC2otHl5BC4AsgESsBZ6-mCt081rLXN7os0iKacQ?e=hLhRQG",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"The Fast and the Furious",
+        "year": 2001,
+        "length" : "1h 46m",
+        "imdb": 6.8,
+        "popularity" : "372K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian OConnor, an officer of the LAPD, joins the ranks of Torettos highly skilled racing crew undercover to convict Toretto. However, OConnor finds himself both enamored with this new world and in love with Torettos sister, Mia. As a rival racing crew gains strength, OConnor must decide where his loyalty really lies",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/54/Fast_and_the_furious_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWEtq1jRC21PuNf8NcGTHLYBuGB67IGLNrJcERQocVIrbA?e=z26nSI",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"2 Fast 2 Furious",
+        "year": 2003,
+        "length" : "1h 47m",
+        "imdb": 5.9,
+        "popularity" : "266K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "EX LAPD cop Brian O Conner (Paul Walker) teams up with his ex-con friend Roman Pearce (Tyrese Gibson) and works with undercover U.S. Customs Service agent Monica Fuentes (Eva Mendes) to bring Miami-based drug lord Carter Verone (Cole Hauser) down.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Two_fast_two_furious_ver5.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQdwauE6jZ5BnZydS55qtq4BMlxHthzfDuoSTyNX3D8TVg?e=MGkCHc",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "length" : "1h 44m",
+        "imdb": 6.0,
+        "popularity" : "261K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "An American teenager named Sean Boswell is a loner in school, however he challenges his rival for an illegal street racing, and he totals his car in the end of the race. To avoid time in prison he is sent to Tokyo to live with his father who is in the military. As soon as he arrives he discovers a new, fun but dangerous way of street racing in the underworld of the streets of Tokyo, Japan.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eey6uG2LvNRHjseuwAC3PsIB-Xr4UwrwBQkXsBZlht1xYA?e=KNEgIl",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Fast & Furious",
+        "year": 2009,
+        "length" : "1h 47m",
+        "imdb": 6.6,
+        "popularity" : "278K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Heading back to the streets where it all began, two men rejoin two women to blast muscle, tuner and exotic cars across Los Angeles and floor through the Mexican desert. When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O Connor. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EetvI3ktwnJKp68mHHH08JABbcc_e8-U4OTyjS5HaZRoHQ?e=P8zZlP",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Fast Five",
+        "year": 2011,
+        "length" : "2h 10m",
+        "imdb": 7.3,
+        "popularity" : "370K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they have blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom. As they assemble their elite team of top racers, the unlikely allies know their only shot of getting out for good means confronting the corrupt businessman who wants them dead.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/Fast_Five_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbzZCExKLoJPgUWDjAH8zWIBjkMoSuRv5igk41y1Hb5eJw?e=QAgEKr",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Fast & Furious 6",
+        "year": 2013,
+        "length" : "2h 10m",
+        "imdb": 7.0,
+        "popularity" : "385K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Since Dom (Diesel) and Brians (Walker) Rio heist toppled a kingpins empire and left their crew with $100 million, our heroes have scattered across the globe. But their inability to return home and living forever on the lam have left their lives incomplete. Meanwhile, Hobbs (Johnson) has been tracking an organization of lethally skilled mercenary drivers across 12 countries, whose mastermind (Evans) is aided by a ruthless second-in-command revealed to be the love Dom thought was dead, Letty (Rodriguez). ",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/30/Fast_%26_Furious_6_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ed9aG2md4pFHo4SwN2rZ6PsBJWmgJbqg7_5sj44znJNh-w?e=e3UH1J",
+        "type" : "hollywood"
+      },
+
+      {
+        "name":"Furious 7",
+        "year": 2015,
+        "length" : "2h 17m",
+        "imdb": 7.1,
+        "popularity" : "379K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Dominic and his crew thought theyd left the criminal mercenary life behind. Theyd defeated international terrorist Owen Shaw and went their separate ways. But now, Shaws brother, Deckard Shaw, is out killing the crew one by one for revenge. Worse, a Somalian terrorist called Jakarde and a shady government official called Mr. Nobody are both competing to steal a computer terrorism program called Gods Eye, that can turn any technological device into a weapon. ",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbAkpxYXZzpIvfMXS2qKWt8B0f3vfWFj9ouNeGO34x1C-g?e=7Z8F8a",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"The Fate of the Furious",
+        "year": 2017,
+        "length" : "2h 16m",
+        "imdb": 6.6,
+        "popularity" : "222K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Now that Dominic Toretto (Vin Diesel) and Letty Ortiz (Michelle Rodriguez) are on their honeymoon, and Brian (Paul Walker) and Mia (Jordana Brewster) have retired from the game, and the rest of the crew has been exonerated, the globetrotting team has found a semblance of a normal life. But when a mysterious woman seduces Dom into the world of crime he can not seem to escape, and a betrayal of those closest to him, they will face trials that will test them as never before.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ebs8WOLrZ-pPkooUPZZFb0kB-bIYDOFqVZJRDlJqAPPTtQ?e=Nv8qwl",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Sorcerer's Stone",
+        "year": 2001,
+        "length" : "2h 32m",
+        "imdb": 7.6,
+        "popularity" : "725K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "This is the tale of Harry Potter (Daniel Radcliffe), an ordinary eleven-year-old boy serving as a sort of slave for his aunt and uncle who learns that he is actually a wizard and has been invited to attend the Hogwarts School for Witchcraft and Wizardry. Harry is snatched away from his mundane existence by Rubeus Hagrid (Robbie Coltrane), the groundskeeper for Hogwarts, and quickly thrown into a world completely foreign to both him and the viewer.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfAVYX7gDz5GhCrvcRf5SBgBkZbc6TCSN_pKYRk4XG-pGA?e=WzQeZx",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "length" : "2h 41m",
+        "imdb": 7.4,
+        "popularity" : "597K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "Forced to spend his summer holidays with his muggle relations, Harry Potter (Daniel Radcliffe) gets a real shock when he gets a surprise visitor: Dobby (Toby Jones) the house-elf, who warns Harry against returning to Hogwarts, for terrible things are going to happen. Harry decides to ignore Dobbys warning and continues with his pre-arranged schedule.",
+        "poster": "https://pbs.twimg.com/media/EyT0vjSWYAkF3BY.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZ7l_2jF9JNIrT6p3cOyUtIBsNL-j0GsG39z5RJsCZEAkA?e=FSdvr1",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Prisoner of Azkaban",
+        "year": 2004,
+        "length" : "2h 22m",
+        "imdb": 7.9,
+        "popularity" : "595K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "Harry Potter (Daniel Radcliffe) is having a tough time with his relatives (yet again). He runs away after using magic to inflate Uncle Vernons (Richard Griffiths) sister Marge (Pam Ferris), who was being offensive towards Harrys parents. Initially scared for using magic outside the school, he is pleasantly surprised that he wont be penalized after all",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ETdqHlNqzUVJj33nB9nfrCcBZcB13Xowyc_rXXClkbvQtw?e=zgHKWy",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Goblet of Fire",
+        "year": 2005,
+        "length" : "2h 37m",
+        "imdb": 7.7,
+        "popularity" : "588K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "Harrys (Daniel Radcliffes) fourth year at Hogwarts is about to start and he is enjoying the summer vacation with his friends. They get the tickets to The Quidditch World Cup Final, but after the match is over, people dressed like Lord Voldemorts (Ralph Fiennes) Death Eaters set a fire to all of the visitors tents, coupled with the appearance of Voldemorts symbol, the Dark Mark in the sky, which causes a frenzy across the magical community",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EY6C4qSVIc1KuMaB4EJSQhkBEcK5yDQN0D3ivk3OXrOXiw?e=AQRjfs",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Order of the Phoenix",
+        "year": 2007,
+        "length" : "2h 18m",
+        "imdb": 7.5,
+        "popularity" : "547K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "After a lonely summer on Privet Drive, Harry (Daniel Radcliffe) returns to a Hogwarts full of ill-fortune. Few of students and parents believe him or Dumbledore (Sir Michael Gambon) that Voldemort (Ralph Fiennes) is really back. The ministry had decided to step in by appointing a new Defense Against the Dark Arts teacher, Professor Dolores Umbridge (Imelda Staunton), who proves to be the nastiest person Harry has ever encountered. ",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/Harry_Potter_and_the_Order_of_the_Phoenix_Coverart.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXmBtJdgyWRDqGTpTHwmjSQBV_iaiJQ_f7hCH3Q2miFzUQ?e=xWaXOI",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Half-Blood Prince",
+        "year": 2009,
+        "length" : "2h 33m",
+        "imdb": 7.6,
+        "popularity" : "512K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "In Harry Potters (Daniel Radcliffes) sixth year at Hogwarts School of Witchcraft, he finds a book marked mysteriously, This book is the property of the Half Blood Prince, which helps him excel at Potions class and teaches him a few dark and dangerous ones along the way. Meanwhile, Harry is taking private lessons with Dumbledore (Sir Michael Gambon) in order to find out about Voldemorts (Ralph Fiennes) past so they can find out what might be his only weakness",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQw8B4F_94FHqXk8rhTedB0BMbFJwC8BrlxcFlnLMWDYXA?e=QaWlKq",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Deathly Hallows: Part 1",
+        "year": 2010,
+        "length" : "2h 26m",
+        "imdb": 7.7,
+        "popularity" : "515K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "Voldemorts (Ralph Fiennes) power is growing stronger. He now has control over the Ministry of Magic and Hogwarts. Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) decide to finish Dumbledores (Sir Michael Gambons) work and find the rest of the Horcruxes to defeat the Dark Lord. But little hope remains for the trio and the rest of the Wizarding World, so everything they do must go as planned.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ETr7qcBzFlZFl823n3yxMRMBowVnnJjUuDpOM3vGDUuA4g?e=tP6BbM",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "length" : "2h 10m",
+        "imdb": 8.1,
+        "popularity" : "820K",
+        "genre" : "Adventure",
+        "language" : "Hindi",
+        "story": "Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) continue their quest of finding and destroying Voldemorts (Ralph Fiennes) three remaining Horcruxes, the magical items responsible for his immortality. But as the mystical Deathly Hallows are uncovered, and Voldemort finds out about their mission, the biggest battle begins, and life as they know it will never be the same again.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYWhyfTozxVCnszj4XOZGk0Ba-G47sH5Nhr1s9IMJ9jaCA?e=GoBMag",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Iron Man",
+        "year": 2008,
+        "length" : "2h 6m",
+        "imdb": 7.9,
+        "popularity" : "1.9M",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, hes given a ride on enemy lines. That ride ends badly when Starks Humvee that hes riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQryjPHBoEJMiYyIGHgA_80B-1SRucMdvLjvhj_OBXE5aw?e=lIrMWP",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Iron Man 2",
+        "year": 2010,
+        "length" : "2h 4m",
+        "imdb": 7.0,
+        "popularity" : "774K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James Rhodey Rhodes at his side, must forge new alliances - and confront powerful enemies.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERjbhP2iIUROvy-IItUhybkBdE42ElK1CwKbBtmVn2fUJw?e=nFYjkl",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Iron Man 3",
+        "year": 2013,
+        "length" : "2h 10m",
+        "imdb": 7.1,
+        "popularity" : "807K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Marvels Iron Man 3 pits brash-but-brilliant industrialist Tony Stark/Iron Man against an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemys hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EaqDSmpOLbhJmb3o1hOQwZABYxjh29WCzIb11FgbENbaag?e=WYNkzN",
+        "type" : "hollywood"
       }
-
-
-
+      
 ]
