@@ -95,6 +95,19 @@
                         <div class="con">
                             <img src="<%=arr[i].poster%> " alt="<%= arr[i].name %> " class="image">
                             <div class="overlay">
+                                <div class="pri">
+                                    <div class="print shadow-lg">
+                                        <% let pcheck;%> 
+                                        <span><%  if(arr[i].cam_print == "y"){ %> 
+                                            <% pcheck = 'CAM' %>
+                                            <%= pcheck %>  
+                                        <% }else{ %> 
+                                            <% pcheck = 'HD' %>
+                                            <%= pcheck %>
+                                        <% } %> 
+                                        </span>
+                                    </div>
+                                </div>
                                 <div class="desc">
                                     <span><%= arr[i].name %> </span>
                                     <p><%= arr[i].length %> <%= arr[i].genre %></p>

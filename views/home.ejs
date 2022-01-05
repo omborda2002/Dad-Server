@@ -139,6 +139,19 @@
                         <div class="con">
                             <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
                             <div class="overlay">
+                                <div class="pri">
+                                    <div class="print shadow-lg">
+                                        <% let pcheck;%> 
+                                        <span><%  if(data[i].cam_print == "y"){ %> 
+                                            <% pcheck = 'CAM' %>
+                                            <%= pcheck %>  
+                                        <% }else{ %> 
+                                            <% pcheck = 'HD' %>
+                                            <%= pcheck %>
+                                        <% } %> 
+                                        </span>
+                                    </div>
+                                </div>
                                 <div class="desc">
                                     <span><%= data[i].name %> </span>
                                     <p><%= data[i].length %> <%= data[i].genre %></p>
@@ -167,6 +180,19 @@
                         <div class="con">
                             <img src="<%=data[i].poster%> " alt="<%= data[i].name %> " class="image">
                             <div class="overlay">
+                                <div class="pri">
+                                    <div class="print shadow-lg">
+                                        <% let pcheck;%> 
+                                        <span><%  if(data[i].cam_print == "y"){ %> 
+                                            <% pcheck = 'CAM' %>
+                                            <%= pcheck %>  
+                                        <% }else{ %> 
+                                            <% pcheck = 'HD' %>
+                                            <%= pcheck %>
+                                        <% } %> 
+                                        </span>
+                                    </div>
+                                </div>
                                 <div class="desc">
                                     <span><%= data[i].name %> </span>
                                     <p><%= data[i].length %> <%= data[i].genre %></p>

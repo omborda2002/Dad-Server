@@ -1,6 +1,7 @@
 [
     {
         "name": "1962 The War in the Hills S01",
+        "cam_print": "y",
         "year": 2021,
         "imdb": 6.3,
         "popularity": "1.3K",
@@ -27,6 +28,7 @@
 
     {
         "name":"Aashram S01",
+        "cam_print": "y",
         "year": 2020,
         "imdb": 7.4,
         "popularity" : "32K",
@@ -46,6 +48,7 @@
 
     {
         "name":"Asur: Welcome to Your Dark Side",
+        "cam_print": "",
         "year": 2020,
         "imdb": 8.5,
         "popularity" : "38K",
@@ -216,6 +219,7 @@
 
       {
         "name":"Khuda Haafiz",
+        "cam_print": "y",
         "year": 2020,
         "length" : "2h 13m",
         "imdb": 7.4,

@@ -275,6 +275,19 @@
                             <div class="con">
                                 <img src="<%=data[rand].poster%> " alt="<%= data[rand].name %> " class="image">
                                 <div class="overlay">
+                                    <div class="pri">
+                                        <div class="print shadow-lg">
+                                            <% let pcheck;%> 
+                                            <span><%  if(data[rand].cam_print == "y"){ %> 
+                                                <% pcheck = 'CAM' %>
+                                                <%= pcheck %>  
+                                            <% }else{ %> 
+                                                <% pcheck = 'HD' %>
+                                                <%= pcheck %>
+                                            <% } %> 
+                                            </span>
+                                        </div>
+                                    </div>
                                     <div class="desc">
                                         <span>
                                             <%= data[rand].name %>
