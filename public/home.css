@@ -434,7 +434,7 @@ button.btnsearch {
   height: 50px;
   align-items: center;
   justify-content: center;
-  box-shadow: hsla(140, 100%, 50%, 0.56) 0px 22px 70px 4px;
+  box-shadow: hsl(140, 100%, 50%) 0px 22px 70px 4px;
 }
 .jaydeep a {
   color: rgb(194, 194, 194);
