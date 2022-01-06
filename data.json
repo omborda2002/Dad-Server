@@ -1,7 +1,6 @@
 [
     {
         "name": "1962 The War in the Hills S01",
-        "cam_print": "y",
         "year": 2021,
         "imdb": 6.3,
         "popularity": "1.3K",
@@ -28,7 +27,6 @@
 
     {
         "name":"Aashram S01",
-        "cam_print": "y",
         "year": 2020,
         "imdb": 7.4,
         "popularity" : "32K",
@@ -48,7 +46,6 @@
 
     {
         "name":"Asur: Welcome to Your Dark Side",
-        "cam_print": "",
         "year": 2020,
         "imdb": 8.5,
         "popularity" : "38K",
@@ -219,7 +216,6 @@
 
       {
         "name":"Khuda Haafiz",
-        "cam_print": "y",
         "year": 2020,
         "length" : "2h 13m",
         "imdb": 7.4,
@@ -243,20 +239,6 @@
         "story": "Nandan Kumar working in a newspaper printing press lives a normal life with wife Lata and son Ayush he finds difficult to meat ends financially. Once while returning from night shift he finds an abandoned suitcase full of cash Nandan takes the bag along with him and hides it in his neighbors house whose in his village.",
         "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Lootcase_film_poster.jpg",
         "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EW7V2_ZgH1RFqCmEkKcYnuEBqxxln3Nv2VjE6PqtSSaq4Q?e=5iA5V2",
-        "type" : "bollywood"
-      },
-
-      {
-        "name":"Marjaavaan",
-        "year": 2019,
-        "length" : "2h 32m",
-        "imdb": 3.7,
-        "popularity" : "3.7K",
-        "genre" : "Action",
-        "language" : "Hindi",
-        "story": "Marjaavaan is an upcoming Indian action romance film directed by Milap Zaveri starring Ritesh Deshmukh, Sidharth Malhotra, Tara Sutaria and Rakul Preet Singh. The co producer of the film Bhushan Kumar described the film as a violent, dramatic love story.",
-        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Marjaavaan_poster.jpg/220px-Marjaavaan_poster.jpg",
-        "download_links" : "ffgvghvvhhb",
         "type" : "bollywood"
       },
 
@@ -2225,6 +2207,1342 @@
         "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
         "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EaqDSmpOLbhJmb3o1hOQwZABYxjh29WCzIb11FgbENbaag?e=WYNkzN",
         "type" : "hollywood"
-      }
+      },
       
+      {
+        "name":"Enola Holmes",
+        "year": 2020,
+        "length" : "2h 3m",
+        "imdb": 6.6,
+        "popularity" : "155K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "England, 1884 - a world on the brink of change. On the morning of her 16th birthday, Enola Holmes (Millie Bobby Brown) wakes to find that her mother (Helena Bonham Carter) has disappeared, leaving behind an odd assortment of gifts but no apparent clue as to where shes gone or why. After a free-spirited childhood, Enola suddenly finds herself under the care of her brothers Sherlock (Henry Cavill) and Mycroft (Sam Claflin), both set on sending her away to a finishing school for proper young ladies.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/e6/Enola_Holmes_poster.jpeg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EV4lMp3TyLFNlNMs72E-6NMBaVTcqVAwpwEpSEKGUwepoQ?e=k9iVmU",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Sherlock Holmes",
+        "year": 2009,
+        "length" : "2h 8m",
+        "imdb": 7.6,
+        "popularity" : "611K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After finally catching serial killer and occult sorcerer Lord Blackwood, legendary sleuth Sherlock Holmes and his assistant Dr. Watson can close yet another successful case. But when Blackwood mysteriously returns from the grave and resumes his killing spree, Holmes must take up the hunt once again. Contending with his partners new fiancée and the dimwitted head of Scotland Yard, the dauntless detective must unravel the clues that will lead him into a twisted web of murder, deceit, and black magic - and the deadly embrace of temptress Irene Adler.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVzqiWZ1bA9CjnW4yLjG5JQBE6HJE9cKPb4F28kPAnejTQ?e=bcYOKi",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Sherlock Holmes: A Game of Shadows",
+        "year": 2011,
+        "length" : "2h 9m",
+        "imdb": 7.5,
+        "popularity" : "439K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "With Dr. John Watson about to marry and end their partnership, a disconsolate Sherlock Holmes occupies his time investigating the schemes of his archenemy, Professor James Moriarty. However, when Moriarty warns that he considers the Watsons a legitimate target for his retaliation against the detective, Holmes must save them and get John involved in one last case.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ESiZgYGfSFhMrA5aXh61_44BOY9F4U0rhPDg2xu-1xvqYQ?e=YeHTDa",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Transformers",
+        "year": 2007,
+        "length" : "2h 24m",
+        "imdb": 7.0,
+        "popularity" : "619K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "High-school student Sam Witwicky buys his first car, who is actually the Autobot Bumblebee. Bumblebee defends Sam and his girlfriend Mikaela Banes from the Decepticon Barricade, before the other Autobots arrive on Earth. They are searching for the Allspark, and the war on Earth heats up as the Decepticons attack a United States military base in Qatar. ",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUew4Mb4ElBIsau9yt4WVPEBjpz9AT0LUWGAx5KkWT7R6Q?e=vYj4vm",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Transformers: Revenge of the Fallen",
+        "year": 2009,
+        "length" : "2h 29m",
+        "imdb": 6.0,
+        "popularity" : "398K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A youth chooses manhood. The week Sam Witwicky starts college, the Decepticons make trouble in Shanghai. A presidential envoy believes its because the Autobots are around; he wants them gone. Hes wrong: the Decepticons need access to Sams mind to see some glyphs imprinted there that will lead them to a fragile object that, when inserted in an alien machine hidden in Egypt for centuries, will give them the power to blow out the sun.",
+        "poster": "https://i.pinimg.com/originals/41/41/b6/4141b602b64d2d5c4264ff7f899145a4.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ear9qnnby9dLmddqEVT2aWgB1955ihAA5mfLlD3cd0WskA?e=m2DVqM",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Transformers: Age of Extinction",
+        "year": 2014,
+        "length" : "2h 45m",
+        "imdb": 5.6,
+        "popularity" : "307K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After the battle between the Autobots and Decepticons that leveled Chicago, humanity thinks that all alien robots are a threat. So Harold Attinger, a CIA agent, establishes a unit whose sole purpose is to hunt down all of them. But it turns out that they are aided by another alien robot who is searching for Optimus Prime. Cade Yeager, a robotics expert, buys an old truck and upon examining it, he thinks its a Transformer. When he powers it up, he discovers its Optimus Prime.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/Transformers_Age_of_Extinction_Poster.jpeg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfqW3MTCGr1IsjISWYXKY6IBSqt-TZEuWKdReSCedv9YCw?e=hgvfcc",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Transformers: The Last Knight",
+        "year": 2017,
+        "length" : "2h 34m",
+        "imdb": 5.2,
+        "popularity" : "145K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Optimus Prime finds his dead home planet, Cybertron, in which he comes to find he was responsible for its destruction. He finds a way to bring Cybertron back to life, but in order to do so, Optimus needs to find an artifact that is on Earth.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/Transformers_The_Last_Knight_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EU3sdf-qLSxKiOy9twzPkkgBtm_aZy1veHVyfhWmM7Q7xg?e=dC0zQE",
+        "type" : "hollywood"
+      },
+      
+      {
+        "name":"Antim: The Final Truth",
+        "year": 2021,
+        "length" : "2h 18m",
+        "imdb": 7.2,
+        "popularity" : "36K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "After witnessing the pain and suffering his family went through, a farmers son rises to power as he starts his journey as a gangster and spirals into a dark game of politics and power, meanwhile a strict cop starts following his trail to stop him before he becomes all powerful in the city.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Antim-_The_Final_Truth.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EX7bTX7MRJ5OjWb8AkOzkmgBetP7JCHtMsNTWPsfyCkc7w?e=w2vO65",
+        "type" : "bollywood"
+      },
+      
+      {
+        "name":"Atrangi Re",
+        "year": 2021,
+        "length" : "2h 18m",
+        "imdb": 6.8,
+        "popularity" : "16K",
+        "genre" : "Comedy",
+        "language" : "Hindi",
+        "story": "Rinku is traced by goons her own uncles at a junction while trying to flee with her boyfriend,Vishu and his friend Madhusudhan see her throwing bottles at those men.Rinku his bough home were her grandmother wants her to get married to any boy be it of any caste and creed.Vishu is soon to be married to Mandakini but the goons kidnap him and forcefully marry to Rinku thou their target was Madhusudhan.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Atrangi_Re_film_poster.jpg/220px-Atrangi_Re_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EcUoBUL3HB9IlLD6nfoobaABY-B5ye1bIE9o4eHqbjfmcA?e=neFiP0",
+        "type" : "bollywood"
+      },
+      
+      {
+        "name":"'83",
+        "year": 2021,
+        "length" : "2h 42m",
+        "imdb": 7.4,
+        "popularity" : "18K",
+        "genre" : "Biography",
+        "language" : "Hindi",
+        "story": "March 1983 Indian cricket team gets selected for the third world cup to be held in England in June but none have their expectations from the team,while officials are not happy with appointment of new captain Kapil Dev over Sunil Gavaskar.Indian cricket team starts with a bang at the world cup by winning their first two matches against giant West Indies and Zimbabwe but loosing their next two matches against West Indies and Australia puts them in a do or die situation against Zimbabwe to stay in the tournament.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/83_film_poster.jpg/220px-83_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbxYGCY5D3JPlq47rIe0898BNphdirD3jM88L4dqVQLyUQ?e=kwYvTq",
+        "type" : "bollywood",
+        "cam_print" : "y"
+      },
+            
+      {
+        "name":"Harry Potter 20th Anniversary: Return to Hogwarts",
+        "year": 2022,
+        "length" : "1h 42m",
+        "imdb": 8.2,
+        "popularity" : "17K",
+        "genre" : "Documentry",
+        "language" : "English",
+        "story": "Cast members from all Harry Potter films reunite in a retrospective special to celebrate the anniversary of the first film, including interviews and cast conversations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTZkNWEyZTgtYzJlOS00OWNiLTgwZjMtZGU5NTRhNDNjOTRhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_QL75_UY281_CR46,0,190,281_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXd2r2KCS99Pny-BaW4OnJ4B2UEfXu6K5KSocpVDQxP8mg?e=Xq4Zuz",
+        "type" : "hollywood"
+      },
+            
+      {
+        "name":"Hellaro",
+        "year": 2019,
+        "length" : "2h 1m",
+        "imdb": 8.7,
+        "popularity" : "1.3K",
+        "genre" : "Drama",
+        "language" : "Gujarati",
+        "story": "A group of suppressed women from a village in Gujarat find someone in the desert and their lives are changed forever.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Hellaro_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXd2r2KCS99Pny-BaW4OnJ4B2UEfXu6K5KSocpVDQxP8mg?e=Xq4Zuz",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"A AA 2",
+        "year": 2019,
+        "length" : "2h 04m",
+        "imdb": 7.0,
+        "popularity" : "36K",
+        "genre" : "Romance",
+        "language" : "Hindi",
+        "story": "A man meets this girl in the US, and they fall in love. They met during the rains, fell for each other by the winters. Unfortunately, not long after that, the two of them part ways. The man is unstable because of the breakup, and the girl still wonders if they would ever get back together. This story is a bumpy roller-coaster ride for their relationship. A AA 2 is a modern-day romance at its best",
+        "poster": "https://i.pinimg.com/550x/97/b6/90/97b690c9e8e6c9cdd11f13259bb2dc06.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQ5A-N8nLuxMu53aKM6x-aYB1-evuXjrrUlFBTOGnnWzIA?e=AxXRub",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"A AA",
+        "year": 2016,
+        "length" : "2h 04m",
+        "imdb": 7.3,
+        "popularity" : "39K",
+        "genre" : "Comedy",
+        "language" : "Hindi",
+        "story": "Anasuya, the daughter of a rich woman, falls in love with Aanand. However, they face several obstacles while trying to convince their families about their relationship.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzFjZTVhODktNGE0Ni00MGZmLTk1M2QtZGQyZDU4Mzc1ZTYxXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUxGccS9f3VBpmb89LyJteEBWUn3LBYwyZkFzJIqWBgLsA?e=K6iJ8E",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"A1 Family",
+        "year": 2016,
+        "length" : "2h 04m",
+        "imdb": 7.3,
+        "popularity" : "39K",
+        "genre" : "Comedy",
+        "language" : "Hindi",
+        "story": "Anasuya, the daughter of a rich woman, falls in love with Aanand. However, they face several obstacles while trying to convince their families about their relationship.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWFiZDgzOTQtNjJiNS00YTIxLTgyZDgtYjg2NjM5OTBhMWU1XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUxGccS9f3VBpmb89LyJteEBWUn3LBYwyZkFzJIqWBgLsA?e=K6iJ8E",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"Action",
+        "year": 2019,
+        "length" : "2h 38m",
+        "imdb": 6.9,
+        "popularity" : "3.9K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "An agent, sent by the Indian army to observe a terrorist, finds his mission complicated when he discovers undercover agents in his own country.",
+        "poster": "https://www.cinema.com.my/images/movies/2019/7action00_450.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVHtEFjYMxFKpGMEtkRMtRMBbM80pKpiB_-lcFUaeG03hQ?e=Bm331b",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"Arjun Power Of One",
+        "year": 2018,
+        "length" : "2h 15m",
+        "imdb": 7.8,
+        "popularity" : "2.9K",
+        "genre" : "Comedy",
+        "language" : "Hindi",
+        "story": "While Arjun doesnt want to get married, his parents set up a blind date for him at his place. The story revolves around Arjun, how he falls for the girl hes about to meet, why and how he changed his decision to get married.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Chi_La_Sow.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbnwjXyei5hIr0JT3lsVJhcBuvq10rvaQAwf0qUTJBxh7Q?e=AoHOpX",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"Chennai vs China",
+        "year": 2011,
+        "length" : "2h 48m",
+        "imdb": 6.5,
+        "popularity" : "12K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "The story revolves around Subha, a genetic engineering student and Arvind, a worker at Bombay Circus. Arvind is a Descendent of the legendary Bhodi Dharma, who lived during the 6th Century AD. As per the story, Bhodi Dharma is an exceptionally skilled fighter and a Medic. Subhas theory is that the DNA sample of a person contains the memory strands of their ancestors.",
+        "poster": "https://static.digit.in/OTT/v2/images/tr:w-1200/chennai-vs-china-158006.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EcpCAxqL1tVNjlkjWTF7OlsBw9eVCnUyvMw6GaIUikN7Sw?e=J8abm4",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"Family ek deal",
+        "year": 2016,
+        "length" : "2h 48m",
+        "imdb": 7.6,
+        "popularity" : "9.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Abhi (Jr NTR) takes up a mission to bring down multi-billionaire Krishna Murthy (Jagapathi Babu) to ground zero as he cheated his father Prasad (Rajendra Prasad). Abhis father wants to take revenge on Krishna Murthy before he dies, so he plans a mind game to fulfill his fathers final wish. Rest is about the mind games between Abhi and Krishna Murthy.",
+        "poster": "https://i.pinimg.com/564x/d1/2a/3a/d12a3ab47bce0cad8e5df19b4eb77b79.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EerQnxQkqXFMtSghxGqZOX8Bk2LL3jShy0kV02oSpH92Sw?e=ZQecEY",
+        "type" : "bollywood"
+      },
+           
+      {
+        "name":"Ramarjuna",
+        "year": 2021,
+        "length" : "2h 14m",
+        "imdb": 6.1,
+        "popularity" : "1.9K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A smart insurance agent realises the value of life after losing his dear ones. How he transforms and seeks justice after the incident forms the rest of the story.",
+        "poster": "http://www.purplereels.com/pr/wp-content/uploads/2019/08/ECKlWm9UEAA-arK.jpeg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eb_0P2fuwdtCvyVRrlNFtFwBG2dTGhWSX4yfGbqf4y0OMQ?e=HQ2EYb",
+        "type" : "bollywood"
+      },      
+           
+      {
+        "name":"Dhruva",
+        "year": 2016,
+        "length" : "2h 45m",
+        "imdb": 7.8,
+        "popularity" : "6.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Dhruva is an upcoming Action Thriller film directed by Surender Reddy and produced by Allu Aravind under his banner Geetha Arts. It features Ram Charan, Rakul Preet Singh and Aravind Swamy. It is an official remake of the Tamil film Thani Oruvan (2015). The film will feature music by Hiphop Tamizha, who composed for the Tamil original. and cinematography is handled by P. S. Vinod.",
+        "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/old_images/vertical/MOVIE/2697/1000192697/1000192697-v",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYpi2TdV-ONLr1t8UgunZNEBEYQp6NK2Rc5tmRnzYehbyw?e=918L1L",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"DJ Duvvada Jagannadham",
+        "year": 2017,
+        "length" : "2h 32m",
+        "imdb": 5.9,
+        "popularity" : "4.5K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A man from an orthodox, protective family is also a secret vigilante who directly kills culprits with the help of a cop as he does not believe in prolonged justice system. When his own uncle dies due to land mafia, he sets out to provide justice to all other victims and confronts the real culprit.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/DJ_film_poster.jpg/220px-DJ_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVKOqPeJY1lFp33jX6Bjs6IBZkDwhtwHhLXI_sqk3Mgwew?e=2Eee3w",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Dumdaar Khiladi",
+        "year": 2018,
+        "length" : "2h 20m",
+        "imdb": 7.1,
+        "popularity" : "2.3K",
+        "genre" : "Comedy",
+        "language" : "Hindi",
+        "story": "After a rocky start, a friendship develops between a happy-go-lucky youth and a girl from the city.",
+        "poster": "https://woodfasr263.weebly.com/uploads/1/2/5/4/125419529/839842319.png",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYbXpmlpkjJIu7JyObmx1v4B29R4tU6VV5JuMAFXn2HCIA?e=kh8N3B",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Forensic",
+        "year": 2020,
+        "length" : "2h 14m",
+        "imdb": 6.8,
+        "popularity" : "4.6K",
+        "genre" : "Crime",
+        "language" : "Hindi",
+        "story": "Samuel John Kattookkaran (Tovino Thomas) is a medico-legal advisor (forensic personnel), who is assigned to the case of a serial killer targeting little girls. Samuel uses his forensic skills and makes breakthroughs in a serial killing case as further victims are added to the list. The investigation team is headed by the chief investigating officer, Rithika Xavier IPS (Mamta Mohandas),who is Samuels sister-in-law.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Forensic_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERyLKLjp_qdMkD1cgrT1-AwB9jeYcBYLXtV4Ps14JJEiQQ?e=KAfyII",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Chanakya",
+        "year": 2019,
+        "length" : "2h 27m",
+        "imdb": 5.5,
+        "popularity" : "2.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Arjun aka Ramakrishna is a RAW marshall from Delhi who has a 100% success rate at nabbing terrorists. What happens when he makes enemies out of Indias most wanted Ibrahim Qureshi and his son Sohail?",
+        "poster": "https://1.bp.blogspot.com/-9au4R0v-DV8/X_XkioiuqgI/AAAAAAAAADM/YqyZ_AC7JCQei2wTyq-xcrUEt2dBRzisQCLcBGAsYHQ/s640/Gopichand%2BChanakya%2B%25282020%2529%2BNew%2BSouth%2BHindi%2BDubbed%2BFull%2BMovie%2BHD.gif",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVIT1mX0XEVFscbGmeucFMsBGeg_tGqq5-1pDzG3zvkq9w?e=WIxEsx",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"The Hacker",
+        "year": 2019,
+        "length" : "2h 1m",
+        "imdb": 8.5,
+        "popularity" : "4.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "An undercover RAW agent searching for a group of hackers who stole important data from social network, emergency sector, telecom and banking sectors; RAW agent faces many problems to catch the hackers.",
+        "poster": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/the-hacker-et00090041-04-12-2018-02-10-36.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVLEfb9qHDREg29uOafIhqoB-VRkN4OEdx7L1YKVBPu4QA?e=i4kAWK",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Heart Attack 2",
+        "year": 2013,
+        "length" : "2h 30m",
+        "imdb": 7.1,
+        "popularity" : "2.6K",
+        "genre" : "Comedy",
+        "language" : "Hindi",
+        "story": "Nitin saw a girl and fell for her.After searching for her he gets her number from a friend. He contacts her and they both fall in love, but little does he know that he was talking to another girl. The movie is about how he finds his true love.",
+        "poster": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/heart-attack-2-et00071765-01-03-2018-01-24-26.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZhrNsmieiNFvHj7Ef9RJNcBJp-hhsVfLBwxeEsjeinjMg?e=OyAY0h",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Hebbuli",
+        "year": 2017,
+        "length" : "2h 21m",
+        "imdb": 7.1,
+        "popularity" : "2.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A fearless commando arrives home at the news of his brother's suicide until he starts to deeply investigate the reason behind his mysterious demise.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjDUTG6PucF6J_ff6ucIxQtIN_7x3q67M8A&usqp=CAU",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ETGH0pG4BDxHsVnlsSSV-uIByYnc6iePGFukXs7ebSSUWQ?e=Bf47Ww",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Indian Fighter",
+        "year": 2019,
+        "length" : "1h 43m",
+        "imdb": 6.1,
+        "popularity" : "2.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "This is the story of great indian fighter. This movie is in different language and niw this is dubbed into the hindi.",
+        "poster": "https://4.bp.blogspot.com/-6Y3zHmfT83E/Xq5cw98EwVI/AAAAAAAAKro/JGoTzJthxJ457AqQseD_TRavryJiNMx7gCK4BGAYYCw/s1600/MV5BOGMyMTg3OWMtNzNhZS00MTFkLWEzZTktZWMwOTA3NjA1OTc1XkEyXkFqcGdeQXVyNTE0NDY5Njc%2540._V1_UY1200_CR90%252C0%252C630%252C1200_AL_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EadEyc2Ip7pGuGIloYlllxkBtsL2taKgSq4YvoEe44ZNtw?e=u2hiUY",
+        "type" : "bollywood"
+      },
+         
+      {
+        "name":"Intelligent",
+        "year": 2018,
+        "length" : "2h 7m",
+        "imdb": 6.6,
+        "popularity" : "2.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A deputy superintendent of police (DSP) and his two subordinates are on a mission to hunt down a psychotic serial killer, whose murder patterns and method are always so flawless and ironclad. The investigation leads the trio down the dark paths of the case, where they discover a haunting secret.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Nibunan_poster.jpg/220px-Nibunan_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EeXgnrqrejdPjGeZ5OGaHqkBJ8FPOAQocN6_sV1f5haxZg?e=LpZwgr",
+        "type" : "bollywood"
+      },
+              
+      {
+        "name":"iSmart Shankar",
+        "year": 2019,
+        "length" : "2h 20m",
+        "imdb": 5.6,
+        "popularity" : "3.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Ismart Shankar is a crazy contract killer who murders a high profile politician, Kasi Viswanath. Cops start chasing him and Shankar escapes with his girlfriend Chandni. On the other hand, Arun is a cop who is handling the same case. Just when he is about to nab the actual culprit behind the murder, he gets killed. In a crazy turn of events, the cops transfer Aruns memory to Shankar with the help of Aruns girlfriend Sarah to get the case details.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Ismart_Shankar_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ea2ERMbbDPVDnrmrm-KDDGkBSuCXIfTGEZf43FCZKGQSYw?e=GL4LoF",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Jai Lava Kusa",
+        "year": 2017,
+        "length" : "2h 30m",
+        "imdb": 7.0,
+        "popularity" : "5.6K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Jai, Lava and Kusa are identical triplets whose personalities are very different from each other. Lava the innocent guy, Kusa the kind hearted cunning guy and Jai the most dangerous bad guy. The story is about how they get separated in a very small age and in what circumstances they meet and what happens after they get together.",
+        "poster": "https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_auto,q_auto/resources/0-0-movie_1000238693/portrait/jai_lav_kusha_1920x770.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EdgN6O8tuUdFuvsqJ8tuQogB0bAd6ImmQwdkfHLKBXrT8Q?e=V8Sekz",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Janta Garage",
+        "year": 2016,
+        "length" : "2h 42m",
+        "imdb": 7.3,
+        "popularity" : "6.7K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "An environmental activist comes to Hyderabad to attend a seminar, where an unexpected encounter with a man who runs an organization for the oppressed, changes his purpose in life.",
+        "poster": "https://lh5.googleusercontent.com/p/AF1QipNct-wpXefElLLWGv1OeiNPUPMUnMDiqDE2WcSN=w1080-k-no",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXmDm0z02TVJsmxsidUQQBkBTCi1knf2WWvLMLPDRnXkxg?e=Dxkvgg",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"K.G.F: Chapter 1",
+        "year": 2018,
+        "length" : "2h 36m",
+        "imdb": 8.3,
+        "popularity" : "51K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "The movie dates back to 1951. Here, two incidents take place; The birth of the hero and other in the Kolar Gold Fields (K.G.F) they get gold. The hero is brought up in poverty. When he is very young itself he goes to Mumbai to become a mafia don. His mothers wish was to see her son rich and powerful. After being in Mumbai for some time he returns back. Will he be able to become a Don? Will he set his people free from the age old slavery? Forms the plot of the movie?",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzJmYzExZGEtMTUwYy00YzIyLWJmOTEtZWFkNTU0YThlYzdmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWNPcA1hF4pBkL_g_TCZLDcBnvjVa_keRN9XASrDlfVTtA?e=W48mRk",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Kaithi",
+        "year": 2019,
+        "length" : "2h 25m",
+        "imdb": 8.5,
+        "popularity" : "21K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "On a night where the entire police officers got into an immovable situation, a paroled convict is forced to help the police, so that he can see his daughter for the first time in life. How he helps the department forms the story of this action packed entertainer.",
+        "poster": "https://movies.technologymanias.com/wp-content/uploads/2021/06/f9a912ab9b72db87858dce7fd74ffd31.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUbbkVF6jCFAl3TArGS0V2IBZKtfrgKWqLrrH15YbABUFw?e=52RrWk",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Kalki",
+        "year": 2019,
+        "length" : "2h 21m",
+        "imdb": 4.8,
+        "popularity" : "2.1K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Nanchenkotta is beset by problems and civilian life in here is a nightmare. However, the arrival of a fearless police officer with a strong sense of justice is about to change Nanchenkottas law and order situation - once and for all.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Kalki_Malayalam_Movie_poster.jpeg/220px-Kalki_Malayalam_Movie_poster.jpeg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQcx6QfOBopBld8Ipl2nyb8BPNuk7Xcn0Idad7IWIkHa0A?e=lC3gWG",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Katamarayudu",
+        "year": 2017,
+        "length" : "2h 26m",
+        "imdb": 5.7,
+        "popularity" : "2.3K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Katamarayudu (Pawan Kalyan) and his brothers settle the issues in a violent way. Katamarayudu hates love and marriage as that sours their relationship. Though being stubborn, Katamarayudus brothers fall in love. When they plan to marry his brother may reject them. For that they plan to get him married to Avantika (Shruti Hassan). Finally Katamarayudu and Avantika fall in love. When Avantika gets to know about his violent way of dealing, she starts hating him.",
+        "poster": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/512/512/0/70/94/80ee2060565111e983dc89a77e3cdd3f_1557474589310_p_medium.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EX5y7hzyqPpEtIPpiwUuhckBO5-HE1X9B7n54bibHeBxMQ?e=WeA4ls",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Krack",
+        "year": 2021,
+        "length" : "2h 34m",
+        "imdb": 7.2,
+        "popularity" : "6.2K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Krack is a action entertainer based on real incidents, Ravi Teja plays a tough and fierce police officer who does not think twice before bashing up anyone. Loaded with deadly goons, high-octane action, chase sequences and captivating dialogues, Krack promises to be a full-blown entertainer.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzExZTk0ZjctOGY2Yy00YmVhLWJiNWYtNDcyYjEzMTJhOWU3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_FMjpg_UX1000_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ef0hSFXqav9CgAwkHXHpnWoBxNkTWr2laeonzJwhIVmA2w?e=Xu99DW",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"LIE",
+        "year": 2017,
+        "length" : "2h 25m",
+        "imdb": 6.0,
+        "popularity" : "1.2K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Sathyam is hired by the National Investigation Agency to help catch Padmanabham, the master of disguise, by following a suit which he is assumed to have an obsession with.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Lie_release_date_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERQ77znP6YVFiGelDQx8T0gBFC5zJVQyKg1dQQRRAsSOyQ?e=L5reUh",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Mersal",
+        "year": 2017,
+        "length" : "2h 52m",
+        "imdb": 7.8,
+        "popularity" : "32K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Maaran, a sincere doctor who fights against corruption and Vettri a magician who is out for a revenge. Both of them are estranged brothers and once they come together, they get to know about their common enemy, Daniel, who had killed their father and mother.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDNmOGVhMWQtODA2ZS00NjJkLTgwNWEtMTg5MDhkYjA2MTNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EV-RZwni2AdPkQFGHuJyackBI045vfkzaUv0xPtrzXXH_A?e=ZfymcI",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"Nela Ticket",
+        "year": 2018,
+        "length" : "2h",
+        "imdb": 4.5,
+        "popularity" : "1.0K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "A carefree young man is forced to grow up fast after he incurs the wrath of a corrupt politician.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxakCyX5HF-eHRqWXsJwA-eRs6lpPQf5J2kg&usqp=CAU",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ee6VOZ8LystJmKU4akxSDhMBfilC9MEMZKPrVhtzQZd1PQ?e=dhYLoI",
+        "type" : "bollywood"
+      },
+       
+      {
+        "name":"1: Nenokkadine",
+        "year": 2014,
+        "length" : "2h 50m",
+        "imdb": 8.1,
+        "popularity" : "45K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Gautham (Mahesh Babu) is in search of the identity of his parents who were killed. He faces a psychological disorder which makes the search even more difficult. taking support of sameera(Kriti ) and figuring out ways to get to know what happened in the past makes the story.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/1_Nenokkadine_film_poster.jpg/220px-1_Nenokkadine_film_poster.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWz-G465WL5FibIwRNKjTNUB6aCQfi7lWPIcm4-0wPorgg?e=gakbJt",
+        "type" : "bollywood"
+      },
+             
+      {
+        "name":"Shoorveer 2",
+        "year": 2017,
+        "length" : "2h 30m",
+        "imdb": 7.0,
+        "popularity" : "1.1K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "Jeeva (Allu Sirish) leads a happy life with his lover turned life partner Surabhi, until he gets to know his neighbor and their life. The couple witnesses bizarre coincidences and similarities between situations happening in their neighboring couples (Avasarala Srinivas - Seerat Kapoor) life and their own lives. As they get to see an unfortunate incident in Avasarala Srinivas family, now, going by the parallel lives theory, is what the thrilling Okka Kshanam is all about.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUeS3ElYq8uJR2sXzSB5W3Ll3K6rTQ3V5JmMS5z2lrcgj00OF2dL5Gbmk10cKaRi8fwKg&usqp=CAU",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERxNsrhu6oBCoNtY-h0bbeIBI6pjW2C4AybiNHJB01bJXQ?e=QTV7wD",
+        "type" : "bollywood"
+      },
+             
+      {
+        "name":"Pataas",
+        "year": 2015,
+        "length" : "2h 7m",
+        "imdb": 6.7,
+        "popularity" : "1.1K",
+        "genre" : "Action",
+        "language" : "Hindi",
+        "story": "ACP Kalyan Sinha is transfered to Hyderabad. But his negative attitude makes trouble for the Police Department. Why is Kalyan Sinha behaving like this, and is there a hidden agenda in his mind.",
+        "poster": "https://bestoftheyear.in/wp-content/uploads/2018/06/pataas.jpg",
+        "download_links" : "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZbQrJY46KVPtTOycyEtwnUBTgvevg9f89EYjIQV8-XtiQ?e=3dxxsE",
+        "type" : "bollywood"
+      },
+
+      {
+        "name": "Pyaar ki jeet",
+        "year": "2018",
+        "length": "2h 29m",
+        "imdb": "6.8",
+        "popularity": "1.5K",
+        "genre": "Romance",
+        "language": "Hindi",
+        "story": "An ambitious software engineer, Karthik, has a dream of climbing up the corporate ladder and get a high paying job in USA. He stays away from family, sacrifices his social life and personal interests for his ambition. He employs a short film actress to act as his girlfriend, Siri, to avoid an arranged marriage. The quirky girl is more than he bargained for and impresses his father. Karthik too falls in love with her but as soon as he notices that he is drifting from his professional goals, he decides to avoid her. But when she returns to his life, he introspects his personal and professional choices in life.Liked a song and the dance moves in the same.\nBut, there are many negatives in the film.The emotional scenes are badly directed. Heroines acting is really bad., that could have been a game changer if that went well. Sudheer Babus acting is descent though. Screenplay is very bad in the film.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzFmY2FiNjItM2Q2ZS00ZDg1LWJjYzItNDQ1YmRlZWMzNjQyXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWJaPHcOiX9Krx85MGAhDRIByowF03EdrLabuM4_n9wIIQ?e=k7AV3P",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "R.A.W Officer",
+        "year": "2019",
+        "length": "2h 27m",
+        "imdb": "5.5",
+        "popularity": "1.0K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Arjun aka Ramakrishna is a RAW marshall from Delhi who has a 100% success rate at nabbing terrorists. What happens when he makes enemies out of Indias most wanted Ibrahim Qureshi and his son Sohail?Interesting movie, no superman stuff,\nI love gopi chand movies....min guarantee movie\nHe is a good actor from nowhere....",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmI4ZDEyMjItMGI0MS00OTJjLWE1MDYtMzBiNDAwNDg1YjcwXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links":"https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EU7i5ylMgAJFh49v5dXkFw0BpGgRNrVfVd9T-9cNp12GVQ?e=cD0yFg",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Real shingham 3",
+        "year": "2017",
+        "length": "2h 35m",
+        "imdb": "6.3",
+        "popularity": "6.3K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Following the prequel, Duraisingam is transferred to Mangalore to investigate the death of the commissioner. In that process he gets involved with Australian toxic waste dealing mafia. Also Duraisingam discovers that Australian mafia is involved in this. The rest of the story is how Duraisingam catches the culprit though he face many work pressures and political pressures —krishna vamsiSingam 3 was one of the most anticipated Tamil film of 2017 starring Suriya as the protagonist.As like the prequels Durai Singam is set for another risky crime investigation where he encounters great challenges which he overcomes and eventually succeeding in his mission.The movie is all about Singam and Suriya yet again has proved that he is the master in acting films of these sorts.The acting has been complete and dominating throughout the movie.The overall cast let us down as some of the actors lacked their part and failed to grab much attention of the audience.The tone of the movie was in no much difference with its prequels.The romance set between the story didnt rise up to the mark. The BGM was quite loud whereas most songs in the movie failed to impress.The climax was too predictable after the first half.The direction was pretty ordinary ,mixing up comedy and serious scenes.The story sometimes went out of logic but the stunts were really awesome and pulsating.The stunts were of high class even though it was a little exaggerated. Overall the movie is a good entertainer for the its stunts and comedies but only a one time watch for the story.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDZmNmVkYTgtYjFhZC00ZWRiLWJjOTItMzgwYzk3MDAzZDQzXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ERSUihrGRoVPj5Jvha1pBaABt-lGtsjlyL6l9MrSK1Lmyw?e=hSglPh",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Sarrainodu",
+        "year": "2016",
+        "length": "2h 39m",
+        "imdb": "6.6",
+        "popularity": "5.6K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Vairam Dhanush a cruel person, anyone who comes against his way would be brutally killed. In such a process Ghana (Allu Arjun) an ex military officers earns the wrath of Vairam Dhanush. The rest of the story is how Ghana is going to finish off his atrocities. —Bharat TataMass Commercial Action Packed Family Entertainer. What A Performance Of Allu Arjun,Adhi And Others. Pa... Mind Blowing. I Felt Like As If I Was Inside The Moive. Vera Level Direction By Boyapati Seenu. Top Class Cinematography, Mind Blowing Bgm,and songs By S.S.Thaman. Fight Sequences Was Brilliantly Done By Masters (Especially Intro,Interval and Climax). I Had Goosebumps During Fight Scenes. All Over A Packa Mass Paisa Vasool Commercial Action Packed Family Entertainer. Thanks To Sarrainodu Team For Giving Us A Wonderful Film.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzM3OTEzNWMtYmE3MS00OTkxLWFlMjEtZWUwYTJmYTY0YjI1XkEyXkFqcGdeQXVyNjE2ODM1ODk@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUud_BWbaU9MvCZnruzZGaIB26YbFOkljctNExQZw2Fghw?e=T5060F",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Savitri",
+        "year": "2016",
+        "length": "2h 8m",
+        "imdb": "5.7",
+        "popularity": "88",
+        "genre": "Comedy",
+        "language": "Hindi",
+        "story": "Savitri is a girl who is fascinated with wedding ceremonies. When she gets engaged, she travels to Shirdi and in the train she meets a doctor Rishi, who falls in love with her. Meanwhile, his parents arrange a marriage for him but he rejects the girl without meeting her. The twist is that the alliance is with none other than Savitri. What happens next forms the rest of the story.Savitri (Nanditha) was born during a wedding, and that shapes her life in that all she wants groiwng up is to be a bride. When her family finally set up a wedding for her, she is overjoyed, and takes a trip to ask a blessing for her marriage. On that trip, Savitri meets Rishi (Nara Rohit), who falls in love with her instantly, shaking up both of their marriage plans.This cute Telagu romance is laugh-out-loud funny in places, reminding me of a 1940s Hollywood screwball comedy. Unfortunately, as a lot of the humor was spoken in quick deliveries, it was hard to keep up while reading subtitles. In addition, there was a subplot that didnt make complete sense, nor particularly add to the plot. Rohit was excellent, easily pulling the audience to his side, and his action scenes were great fun. Nandithas part was such that the viewer has to warm to her, and she played it well. The pair had good chemistry together. Overall, though silly in parts, it was an enjoyable film.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ0NWM1ZWQtNDA3YS00NjRjLWI3MmUtMGFkMGVhMjJkYTk5XkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ETfhTXKwhnhIozgaZRqy7moBBFx1Ep9uS9YwPFxYEPzdbg?e=q2kUGA",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Savyasachi",
+        "year": "2018",
+        "length": "2h 31m",
+        "imdb": "5.4",
+        "popularity": "1.4K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Vikram Aditya is a guy who suffers from alien hand syndrome where the left hand does not be in his control most of the time. On the other hand, Vikram falls in love with Chitra(Niddhi Agarwal) and when things seem to be going absolutely fine, his life turns upside down as his brother in law gets killed and his niece gets kidnapped. Rest of the story is as to how Vikram saves his niece and where does Madhavan feature in this entire setup. —Shiva Prasad ReddyActually, i liked the concept, so wanted to give it a try. OMG! Chaitanya, should improve his acting skills in emotional scenes. The big wrong went with the director is, commercializing and making the concept movie fit into a formula movie. Madhavan was good, however, his talent wasnt utilized.\nWhat can one do, when the story went wrong( Its not madhavans fault).\nChandu mondeti..... I dont know, what pressure you were under, you compromised with a good concept and you spoilt the plot.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWY5OWNiZGUtNjJlMC00NmYyLWFkODEtMzhlOWIyYjczOGNhXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_QL75_UY281_CR15,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ech8DQY1s4xGp1kH4iuDBkcBY7vfga3EtPFeLSDp0xPtjw?e=ciOJbD",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Seetha",
+        "year": "2019",
+        "length": "2h 41m",
+        "imdb": "4.9",
+        "popularity": "849",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "A four-year-old Ram is left in a monastery by a person named Anand Mohan and is promised that Sita will come to take care of him. Ram is innocent and cute. He makes Ram promise that he too, will take care of Sita in return. However, after 20 years of waiting, when Sita finally meets Ram, she is far from good intentions towards Ram and is only after the 5000 crore estate. The plot revolves around the final fate of Ram and Sita in light of these discoveries.Comic entertainer. Sonu sood was really good at delivering his dialogues and created laugh riot. Kajal played a real tough role that is different from all her other movies.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjNkM2M1YTItYjUwZC00NmFiLWFiMzgtY2I1YWU4ZGQ0YmJjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZ1m4mWIYJ1LiUh9Gii6ftYBVkKQcvNg9OJOK7IYvqtezQ?e=g2ro3Y",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Spyder",
+        "year": "2017",
+        "length": "2h 35m",
+        "imdb": "6.6",
+        "popularity": "9.9K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "An intelligence officer attempts to save the city from a psychotic serial killer who kills people just to hear their loved ones cry.Its a good movie. But the story is inspired and some scenes are the exact copy of Christopher Nolans batman movie THE DARK KNIGHT. But S.J.Surya nailed it",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA0M2JkZDMtZTVmMS00ZTMzLTk5MjktMDcxMTc1ODU1Mjg3XkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EeBFOm34rptCl4Cu-Q9DDJkBVEDCS4JLiAPKo9k541ckzw?e=gcGS44",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Srinivasa Kalyanam",
+        "year": "2018",
+        "length": "2h 20m",
+        "imdb": "6.1",
+        "popularity": "1.1K",
+        "genre": "Drama",
+        "language": "Hindi",
+        "story": "Vasu \"Nithin\" is a well-educated youth who belongs to a joint family. He falls in love with Sri(Raashi Khanna) and confronts her father \"Prakash Raj\" about his love. On the other hand, Sris father is a rich businessman who does not believe in old-school formalities of marriage and traditions. Rest of the story is as to how Vasu takes things into his hands and makes his wedding happen on a traditional note by changing Sris fathers mindset. —Shiva Prasad ReddySrinivasa Kalyanam is not just a movie, its an emotion, a sentiment and a thought provoking journey. Challenging the ideas of how the modernist views ideas such as marriage, family and traditions this informative piece of cinema is the right balance of humor and introspection. The family orientated nature of this flick makes it to be an enjoyable experience for both young and old!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzkwZWQ3OTQtODQwYS00MmVkLWEyMzAtNTg1ODg0ZDc2NmFlXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eat1dj3oiIlEpx1fcsT40_UB0u_hOh1ivO7k5TjJ4XuD9g?e=yRpyYM",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Surya The Soldier",
+        "year": "2018",
+        "length": "2h 43m",
+        "imdb": "6.8",
+        "popularity": "6.7K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Surya is a hardcore military man who has anger management issues. Hes suspended from the Indian Army for misconduct. Now, he must get a certificate from a pyschologist, to prove that he is fit to join the army and fullfill his dream of serving at the border.A fresh new story with some good performances...allu arjun as good as he is... totally a full time pass entertainment. .liked it .......story idea is different. .all film made in south india has a good plot and this one is also\n.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzk2NWQxMTAtY2M0ZS00Y2Q4LWJlYTEtZjUwNjYyMzc2ZGFkXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_QL75_UY281_CR6,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EaUQ_QgTazVBgyKPzl9NHjcB8LzINsb-eeyjaqGeXfjF2w?e=G9Nwla",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Thadam",
+        "year": "2019",
+        "length": "2h 18m",
+        "imdb": "8.2",
+        "popularity": "6.7K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Ezhil is a civil engineer who dreams of settling down with the woman he sees in the elevator of his high-rise office. One stormy night, a man is murdered and the police find photographic evidence of a suspect leaving the scene. Inspector Gopalakrishnan recognizes the face as Ezhil and brings him in for questioning. Hours later, con man Kavin is brought in for drunk driving and the police realize the two men are identical in appearance. Gopalakrishnan and Sub-Inspector Malarvizhi are divided in opinion as to which man is guilty and they each search for evidence to convict the killer. —L. HamreI watch movies. I am a movie buff. And in terms of Indian films, I like Tamil movies very much. The execution of there movies is fantastic they always try new genre and they are fantastic in creating suspence in there films.And this movie Thadam is an example of that. God damn !! What a beautiful movie Director Magizh Thirumeni has made. I even salute the screen play and story writers. And the actors have earned my applause too.This film is one of the best Crime/Thrillers I have watched in a recent times. There was an another Tamil movie called Ratchasan which had blown out my mind. And now this one does the same.Hats off Tamil Cinema you are the best !!My review 10/10.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGMyNjFjYWItYzMwZi00ZDJmLWFlYTMtMGVjNWEyYWRkZGE2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfB06QImYQRJlh3Ew-i6dJcBWHfn2hPxvCH9W_j7-xRDwg?e=LfBBCC",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "The Real Jackpot",
+        "year": "2013",
+        "length": "2h 30m",
+        "imdb": "6.7",
+        "popularity": "1.1K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Gautham Varma, an A.T.M security guard, goes on a treasure hunt for the diamonds hidden by his grandfather in the Hinglaj temple during the time of the India - Pakistan partition.Chandrasekhar Yeleti tends to come up with novel themes or ideas. In Sahasam, he has taken a concept of a treasure hunt which has not been seen in cinema for some time. He blends history, reality, fiction with a good dose of adventure and thrill which engages the viewer. Also, he imparts an ancient-medieval look to the film in the parts where it is necessary be it through sepia-tint, patina, cobwebs, etc which lends a certain authenticity.However, in Pakistan, he has the locals talking in Telugu which seemed out of place and inaccurate.Yeleti has been able to get the best out of his technicians be it his writing team, cinematographer Shamdat, editor Kotagiri Venkateswara Rao, music director Sri or art director Ramakrishna. Shamdats camera is top-notch.He shoots the action sequences and the treasure hunt, especially towards the climax excellently.Ramakrishnas art work, especially the set used for the climax, is commendable. Sris background score was apt for this kind of a film. Kotagiri Venkateswara Raos editing was fine too.Gopichand carried the film ably on his shoulders showing the necessary emotions. Taapsee has done well in the film especially in certain sequences like the Buzkashi. Shakti Kapoor plays the menacing don to perfection. Ali doesnt have much to do.Chandrasekhar Yeleti should be complimented for making such a different and engrossing film . Sahasam is certainly worth a watch!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDVmYTk4NTItN2U2ZS00YzAwLWEzMTItZjNiMmUwZTRiNDI5XkEyXkFqcGdeQXVyNjU0OTk1MDk@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ec6e39Art0pChm1Witeb1ToBcJReaKShemsXEqa_rE4eqQ?e=KcTFo3",
+        "type": "bollywood"
+      },
+      
+      {
+        "name": "The Real Tevar",
+        "year": "2015",
+        "length": "2h 38m",
+        "imdb": "7.6",
+        "popularity": "12K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "The simple yet, inspiring tale of Srimanthudu is about the scion of a wealthy business family, who is disinterested in merely making money. His thoughts and later circumstances move him to adopt a nondescript village and develop it against various odds. A wealthy entrepreneur (Jagapathi Babu) is a worried lot owing to his sons (Mahesh Babu) indifferent and aloof attitude. He wishes his son to acquire and continue the monumental business empire that he built over his lifetime. But, the latter does not agree to it, stating that he wishes to acquire respect first. His thoughts lie elsewhere. He meets a girl (Shruthi Haasan) and they soon fall in love owing to the similarity in their thoughts. However, when she gets to know his identity, she simply ignores him. When confronted, she chides him that he is too rich and does not even know the place of his birth. She is later revealed to be the daughter of a benevolent village head (Dr Rajendra Prasad). Incidentally that is the same village. Later, the hero visits and adopts the village, financing and taking active part in construction of a school, roads etc. This brings him an inevitable clash with a selfish union minister and his brother, who grip the village in a reign of terror and fear. How the hero convinces his father and embarks on a difficult path forms thus, the crux of the story. —Mass_SonuTollywood was suffering from routine formula storys.Writers were too afraid and directors were not willing to take any risk with new formulas.As a result we get to eat same stuff cooked in new bowl every Friday.But this Friday is different with srimanthudu.This movie deals with strong content which we dont usually get.That strong content is expressed with strong emotions with extraordinary actors.No forced comedy,No forced punch dialouges,No forced fights.Srimanthudu is very neat and i mean it in every different way.Koratala siva has mastered the village nativity and we should really thank him for what he was trying to do with srimanthudu.What words were left to describe mahesh babu.He is defeating himself in acting with every movie.Shruthi hassan was beautiful and she did her job very well.Music was soul of the movie.Srimanthudu song was played as background song in some scenes and every time this song is played,it was right on time.Jaago song was highlight of the movie.it changes the momentum of the movie and mahesh babus attitude in this song was like never seen before.Every body did beat in their job and result was srimanthudu.Plz dont miss this,because this type of movies,presented in every perfect way are rare in tollywood.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWQxMDUyOGQtZTg1Yy00NTU2LTgxOGYtMzQ0M2Y5MWZmNGNmXkEyXkFqcGdeQXVyMjMyNjkwMTY@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQQQd04PcfZDrsSJVcfsZ8wBC6DOJemvIsguDPBeEmTf7A?e=eBN3iS",
+        "type": "bollywood"
+      }, 
+
+      {
+        "name": "The Return of Abhimanyu",
+        "year": "2018",
+        "length": "2h 40m",
+        "imdb": "7.7",
+        "popularity": "4.5K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "The movie is an action thriller that concerns hacking and the leak of information, how in the days of interconnections, the privacy of a person doesnt hold power, as anyone can be hacked and their personal information stolen from them. —SanthoshThis film shows how data can be misused and whats happening in our country with such a online fraudulent activities rising each day.Vishal is a new day hunk with such a fine action and energy also Arjun is unbeatable till the climax.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzcyN2VkYTAtMWM3NS00M2RhLThhZGEtNDJhNjE3ZWYyOGMzXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EcQRN07Geg1FucaDy5Hst0sBg5QUGbdf1HV0c-FyBoqM0Q?e=7AIX8e",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "The Return of Rebel",
+        "year": "2012",
+        "length": "2h 48m",
+        "imdb": "4.8",
+        "popularity": "1.8K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Rishi is seeking revenge for his late parents who were murdered.I never search for any kind of logic in these kind of movies, but this was way pass that category.I always have high hopes when the cast is this much good, but I was painfully disappointed. Normally this movie was supposed to be full of entertainment. But alas the movie has no good dialogues , neither a strong story line, writer forcefully included some emotional scenes which are not much relevant to the movie. And the most disastrous part was the comedy. There was hardly any comedy which is unlike for a telegu movie.The good things are the action is good, and the actor-actress are eye candy which helped me a lot throughout the movie.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1ZWYwMjItNzk0My00MjI4LTk3OGItZDgzYTNiNTA1Y2U0XkEyXkFqcGdeQXVyNjU1OTU2NTE@._V1_QL75_UY281_CR12,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ES_-Ybgy4kFPsyBD_Yzv93oBIeZc9qvmNOYVsl53fB0vug?e=J4hrYr",
+        "type": "bollywood"
+      },
+      
+      {
+        "name": "The Return Of Rebel 2",
+        "year": "2009",
+        "length": "2h 29m",
+        "imdb": "6.2",
+        "popularity": "1.9K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Billa, a ruthless international crime lord wanted in at least eleven countries, operates from Kuala Lumpur. The only person he answers to is his unseen boss: \"Devil.\" ACP Krishna Murthy is one of several officers working with Interpol to catch Billa. But when one of his informants is killed, Murthy begins to suspect a mole within the police. Eventually, Billa is killed, and Murthy is the only witness. When he learns of Ranga, a pickpocket and Billa-lookalike; Murthy sets up a secret operation. Ranga takes Billas place to learn the gangs secrets. Chased by the law, suspected by the gang, and hunted by a vengeful femme-fatale; Ranga finds himself in extreme danger from all sides. —L. HamreIt is Action Movie.You can Watch This Movie For enjoyable.Billais a 2009 Telugu language film directed by Meher Ramesh, an exact remake of the Tamil Film Billa (2007 film). But some scenes were changed to suit the Telugu audience. It also drew inspirations from the Telugu film, Yugandhar (1979) which drew inspirations from another Hindi film titled Don and one of Rajinikanths Tamil film with the same title. Prabhas Raju Uppalapati plays the lead role, where he plays dual roles of the characters Billa and Swami Ranga, with Anushka Shetty and Namitha playing the heroines.(1) The film, which began in October 2008, released in April 2009.(2) Actress Jayasudha, who had earlier starred in Yugandhar (1979) as Jaya, the first Telugu remake of Don, has a guest role as Janaki in this\nIt is Action Movie.You can Watch This Movie For enjoyable.Billais a 2009 Telugu language film directed by Meher Ramesh, an exact remake of the Tamil Film Billa (2007 film). But some scenes were changed to suit the Telugu audience. It also drew inspirations from the Telugu film, Yugandhar (1979) which drew inspirations from another Hindi film titled Don and one of Rajinikanths Tamil film with the same title. Prabhas Raju Uppalapati plays the lead role, where he plays dual roles of the characters Billa and Swami Ranga, with Anushka Shetty and Namitha playing the heroines.(1) The film, which began in October 2008, released in April 2009.(2) Actress Jayasudha, who had earlier starred in Yugandhar (1979) as Jaya, the first Telugu remake of Don, has a guest role as Janaki in this\nIt is Action Movie.You can Watch This Movie For enjoyable.Billais a 2009 Telugu language film directed by Meher Ramesh, an exact remake of the Tamil Film Billa (2007 film). But some scenes were changed to suit the Telugu audience. It also drew inspirations from the Telugu film, Yugandhar (1979) which drew inspirations from another Hindi film titled Don and one of Rajinikanths Tamil film with the same title. Prabhas Raju Uppalapati plays the lead role, where he plays dual roles of the characters Billa and Swami Ranga, with Anushka Shetty and Namitha playing the heroines.(1) The film, which began in October 2008, released in April 2009.(2) Actress Jayasudha, who had earlier starred in Yugandhar (1979) as Jaya, the first Telugu remake of Don, has a guest role as Janaki in this",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MTIwMDg0N15BMl5BanBnXkFtZTgwNjA3OTcwMzE@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eaj71LJVr0ZHoCo8qdmDVZ0BMx1f_wfmfbIeSD2eT2cw3Q?e=2zcmfl",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Udaan",
+        "year": "2020",
+        "length": "2h 33m",
+        "imdb": "9.1",
+        "popularity": "106K",
+        "genre": "Drama",
+        "language": "Hindi",
+        "story": "Inspired by the book Simply Fly, the film tells the story of Nedumaaran Rajangam known to friends as Maara, the son of a teacher, who sets out to make the common man fly and takes on the most capital intensive industry in the world with the help of his friends, family and sheer will power.Soorarai Pottru is one of the best movie of surya.such an excellent making by sudha kongara.one of the most ablest thing is that G V Prakashs music.Niketh Bommireddys cinematography is good for the movie.Such a great performance by Surya, paresh rawal, urvasy and aparna. Sudha kongara is a gem for the indian cinema.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGVjYmM0ZWEtNTFjNi00MWZjLTk3OTItMmFjMDAzZWU1ZDVjXkEyXkFqcGdeQXVyMTI2Mzk1ODg0._V1_QL75_UX190_CR0,18,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXd4XUXJzMZKrEBmraDSRg8BTgsuAY11E5PnROOda2wNAw?e=iYzXLm",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "V",
+        "year": "2020",
+        "length": "2h 20m",
+        "imdb": "7.0",
+        "popularity": "7.7K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "DCP Aditya, a celebrated cop, faces his most unsettling case yet involving a mysterious serial killer who has been brutally killing his targets and leaving behind notes challenging Aditya to nab him. Teaming with Apoorva, an aspiring crime novelist, and the police force, Aditya finds himself walking on thin ice upon discovering the killer has another challenge for him: to prevent four more murders from happening or give up his medals and resign. What he is yet to find out is the killers past and his desperation to carry out the killing spree without fail. —Prashast SinghYou would enjoy the film if you keep your Holmes Instinct aside and just watch it for its technical stuff and Nani. Characters are very 2D. Writing is lazy and doesnt make a viewer inquisitive. You can pretty much guess where the plot is headed. It has its moments but tapers down to clichés. Overall an enjoyable flick if you keep your brains aside.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWMyNDI5NjYtNGMxMy00N2VhLWExNGYtZWU0OTgzODJlYTViXkEyXkFqcGdeQXVyMTIzNTE5MDkz._V1_QL75_UY281_CR17,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXn3E3BtO9lLmrsJtlq3NPMBy0BGbmpeCeKl6y7Q1XAecg?e=oz2boo",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Venky Mama",
+        "year": "2019",
+        "length": "2h 29m",
+        "imdb": "5.5",
+        "popularity": "1.2K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "A story of nephew and a son which revolves around their emotions and village drama and army based story.Venky mama : Not a proper Content Not a perfect entertainment Only For Venky sir one man show and last 30 Minutes was good Remaining nothing One time watchable for family audience If you have any free time not a must watched film",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTU2NzJmYjgtNzAzZi00NzE4LTgyZDUtODJlY2FjYzZhYTA0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYHl1c8uVdpAk4uZ2av8jngB1IEc2YF7NGOMIOddmZa08Q?e=tT5XyG",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Veer - Vivegam",
+        "year": "2017",
+        "length": "2h 29m",
+        "imdb": "5.5",
+        "popularity": "12K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "A celebrated covert operation specialist Ajay Kumar is assigned a high risk mission to retrieve the detonation codes for deadly plutonium weapons stolen by terrorists to upset the world order. After putting his unparalleled skills to use he finds himself on the verge of successfully completing the mission, only to be shocked by treasonous acts which he wouldnt have even dreamt of. He is then left to deal with overwhelming odds stacked against him in order to survive. —PipingHotViewsWHY IS THIS RATED 7 STARS. I am a die hard fan of Ajith and i could not bare even first five minutes of this movie. my review in short words. I do not even want to waste my time to review this film.Cliché. Boring. Shoots at-least a 100 men in 5 seconds and do not event get a scratch. Worst direction. Worst cinematography. Shitty dialogues.Please do not make movies like this ever. I am begging to everyone who are making dumb films like this.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzViNWY1NmQtNWNkYS00ZWE5LWEyZDQtZjE0NDY4NDk5Y2JmXkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQfVEzJ3y4lBpVmvsv_qLtYBrR1ps1d4sFBHA_bzxzfp3A?e=gfrBan",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Yevadu 2",
+        "year": "2015",
+        "length": "2h 30m",
+        "imdb": "7.6",
+        "popularity": "2.5K",
+        "genre": "Adventure",
+        "language": "Hindi",
+        "story": "Yevade Subramanyam has wrapped its shooting and the movie is reported to be the only Indian film to be shot at some of the highest points of Everest. Directed by Sekar Kammulas protege Nag Ashwin, Yevade Subramanyam is the journey of a guy who sets out to find his true self. —Times of IndiaI wondered after watching this magnificent self realization movie. Especially director nagi, hes really amazing..In the early stage and that too first movie with such a subject succeeded in carrying the soul throughout the movie. Rarely such connect or feeling happens to viewers. Undoubtedly this an unconventional break through film shown an entirely different path to Telugu film industry. All the actors did a fantastic job. Wonderful movie. Thank you so much Naagi!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzEzNDc2NF5BMl5BanBnXkFtZTgwMzA2NTQ0NjE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUx1D9QQTdJCu91uIcLbPqwBh1OQbiwCPMDf_u4I5xYfRA?e=fGFK7i",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Yevadu 3",
+        "year": "2018",
+        "length": "2h 38m",
+        "imdb": "4.6",
+        "popularity": "3K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "An exiled heir to billionaire, returns after his father was murdered, as a regular employee to find out the killers and make things right in his company.It lacks all the elements. Even Trivikrams humor failed. Only two songs are good. The scenes are boring. Directors attempt to follow the format Last 20 minutes Humor that saved Attarintiki Daredi failed here.I believe Trivikram is a Good Writer but poor directional skills. Also Pavan Kalyan looks Aged. Craze is never a Saviour as Content. \nHope \"Jai Simha\" film of star Ballayya will be a good entertainer for this festival.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmY5YmQ0YjgtZTA0NC00MTRhLWFiMmMtNjBhMjA3YmQwNThiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUgPJaN-cY9EoMVgYVJndeEByjuM30mUXjIgy97o6lCx4A?e=eokTJ2",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Pulimurugan",
+        "year": "2016",
+        "length": "2h 41m",
+        "imdb": "6.8",
+        "popularity": "7.6K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Murugan has a rivalry towards tigers from childhood. From childhood he gets trained to hunt tigers,which are danger to villagers. Now he is Pulimurugan, but he has to face the tigers as well as the dangerous humans, as he is forced to move out of forest. This forms the rest of the story. —Akash M SWithout doubt,Pulimurugan was the most anticipated Malayalam movie this year that took two years in production taking its budget to a whooping 25 Crore making it the most expensive Mollywood film as per the makers.To my surprise,I was welcomed by the huge full-sheet paper ad this morning,first of its kind as far as Mollywood is concerned.Height of faith in ones creation??Ahh! Maybe.The movie started of with some stellar frames of the lush green forests,presenting the childhood back-story of Lalettan which was portrayed brilliantly by one debutant child artist,a promising prodigy to lookout for in future.Vysakh proved his mettle once again by presenting a normal formulaic storyline by Udayakrishna thats lifted up a level by the convincing narration and good screen presence of Mohanlal .The first half was really impressive with never-before seen breathtaking action sequences choreographed by Peter Hein,well-presented VFX,lovable performance by Mohanlal and hilarious counters shared between Mohanlal and Lal.The second half was little weak in comparison with the first,but made up to a large extent by the brilliantly presented climax fight sequence.Peter Hein deserves a special mention for those spine-tingling action sequences which for itself makes up for a delightful watch from the big screens.The VFX team did their part notably well,adding to the brilliance of the action choreography.The action sequences were top-notch and undoubtedly the best to comeout from mollywood till date.The initial and climax fights were the best part of the presentation and received huge applause from the crowd.On the negative side,the storyline was pretty predictable particularly to the second half that follows the normal pattern of masala entertainers that we have seen many a times before.The sub-plot involving Namitha,continuous praise of the protagonist by people around and a few double intenders could have been avoided to gain more pace and appeal among the family audience.The backgroundscore by Gopi Sunder was thrilling and boosted the appeal of the title character.Songs were average with the pick being the lullaby sung by Vani Jayaram.Shaji Kumar did a brilliant job behind the camera,elevating the impact of few trivial seqeunces on the silverscreen.Editing by John Kutty was fine.Coming to the performances Mohanlal was the backbone of the storyline and played the role of Murugan convincingly winning the hearts particularly in the emotional and action sequences.Another pic among the cast was the child artist who played the childhood part of Murugan brilliantly.Lal excelled with his amazing comic-timing.SurajVenjaramood,Vinu Mohan etc were good.Kamalini Mukherjee was okayish.Namitha didnt have much to perform than being the usual eye-candy as in her previous films.Jagapathy Babu was apt for portraying the role of the antagonist and portrayed his character effectively.Overall,Pulimurugan is a wholesome entertainer with some stunning stunts as the major highlight.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODUyYThiZmEtZDhlYy00NWMyLWJlZDktNDcxNzE0M2VkMzlhXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EfQtzLJScu9AqoDKIcPZnUMBfNnYkV4tB_ec1HGXPowtBg?e=uhTRSQ",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "9",
+        "year": "2009",
+        "length": "1h 19m",
+        "imdb": "7.1",
+        "popularity": "137K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "In a world destroyed in a war between man and machine, a hand-stitched doll with the number 9 written on its back comes to life. The world he has awakened in is frightening, but he quickly learns that he is not alone and that there are others like him, also with a single digit written on their back. The first one he encounters is 2 who tells him something of what happened to the world. 2 is also thrilled with the disk 9 is carrying, one with three unique symbols on the front. 9 soon learns that the disk and some of the other dolls who are prepared to die for the good of humankind may be the last hope for mans salvation. —garykmcdI dont know how much of a market there is for animated films like this but as someone who appreciates good artwork and computer animation, I enjoyed it. Yeah, the story is only so-so but the characters keep your attention - both good and bad guys, and it is deceptively involving.The \"good guys\" in here are burlap-looking sewn puppets. Why they are who they are is explained near the end of the movie. The \"bad guys\" are the machines. Yes, this is familiar \"Terminator\" country, theme-wise, but the machines in this movie are brutal and scary. This movie is definitely not for little kids!If you keep your expectations in the \"fair\" range, and watch it on Blu-Ray, you should enjoy it. As mentioned, the story draws you in. On the other hand, if you are looking for something fantastic, you might be disappointed.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY2ODE1MTgxMV5BMl5BanBnXkFtZTcwNTM1NTM2Mg@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EaxeFnJcVzBGoDlPO0EbVFQBTRHNHkQxZqEr_iVa2CBCRw?e=KRfHvA",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Cars",
+        "year": "2006",
+        "length": "1h 57m",
+        "imdb": "7.1",
+        "popularity": "395K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "While traveling to California for the dispute of the final race of the Piston Cup against The King and Chick Hicks, the famous Lightning McQueen accidentally damages the road of the small town Radiator Springs and is sentenced to repair it. Lightning McQueen has to work hard and finds friendship and love in the simple locals, changing its values during his stay in the small town and becoming a true winner. —Claudio Carvalho, Rio de Janeiro, BrazilPixar again shows us their superior skills in 3D animation and to a lesser extent this time, the storytelling. There is so much attention to detail, that you are left gazing at the screen in awe. The 2 hours races by, and afterwards you are left with the satisfaction of having just seen something quite unique and surreal.Its a kids film of course, so there is little need to point out the predictable story elements - which exist in Cars more so than previous Pixar films such as The Incredibles. Cars is less daring, is safer in its approach. There are no surprising or wild deviations on the fairly straight road the story follows. But nevertheless, its all very cool stuff, and the story is entertaining enough. Cars is a must see Pixar film - even if the visuals steal the show.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EU5mziGE34RLklIQ5-QDSMABqeRXNdyteXlYLCJ0qlHzqA?e=qdbG7e",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Cars 2",
+        "year": "2011",
+        "length": "1h 46m",
+        "imdb": "6.1",
+        "popularity": "176K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "The famous race car Lightning McQueen and his team are invited to compete in the World Grand Prix race. There, McQueens best friend Mater finds himself involved in international espionage, and alongside two professional British spies attempts to uncover a secret plan led by a mysterious mastermind and his criminal gang, which threatens the lives of all competitors in the tournament. —MadMovieManiacWe all know that Pixar makes incredible movies, I personally have never disliked a Pixar film. The first \"Cars\" film, was a great movie, not a perfect film. It was one of the least better films, Pixar has made, but thats like saying, Insomnia was one of Christopher Nolans worst films. I had high expectations when coming to see the film, like I always have before I see a Pixar film.After my viewing of the film, I have to say Pixar never fails to produce a great, entertaining film. Although it doesnt reach the heights of Wall-E, Toy Story 3, etc. It still stands by itself pretty high up there. The animation is extremely well done, the look of the film is amazing. The voice actors are great, I miss Paul Newman though. Although the film is not perfect. The movie is not perfect though, the story is not great, but not bad, the movie does not have the emotional as other Pixar films, but it is definitely not a heartless film. But the film is definitely entertaining and a great beginning to 2011 Summer movie season. Take your whole family to see this movie, it will probably not disappoint. It will not only satisfy kids, but also the adults, this film is for everyone. Fun for kids, but the adults can also connect with it and will have a great time watching this movie in theaters. It is quite an adventure and I will be glad to give it a second viewing.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWXZofM0bThPnfpx7AfwADYBIOZtIsjL8gO8rB1MhhwbRQ?e=Pm0lXW",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Cars 3",
+        "year": "2017",
+        "length": "1h 42m",
+        "imdb": "6.7",
+        "popularity": "89K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isnt through yet will test the heart of a champion on Piston Cup Racings biggest stage! —PixarI agree Cars 3 improves upon Cars 2, not by much though.The story for this does feel more rounded than the preceding film, even if it ends rather lamely. The whole production builds up around Lightning McQueen, rightly, before strangely having a conclusion that focuses on newbie Cruz Ramirez. I like the idea of what they were going for, but the way the do it is actually quite poor - it feels too forced, as well as chucking most of the development for McQueen across acts one and two out the window.With that said, it isnt a massive hindrance. I still had a fun time with this. Owen Wilson remains good as McQueen, while Cristela Alonzo gives an accomplished performance as Ramirez. One thing I do rate about Alonzo is that Disney didnt go down the obvious, lovey-dovey route with her.None of the rest of the cast standout all that much, though its cool to hear Kerry Washington as Natalie Certain. Mater (Larry the Cable Guy) is arguably underused, which is weird as he is overused in the 2011 sequel - they dont seem to know how to fit him in ideally.The overall premise itself is interesting, while the animation remains in top gear. The ending doesnt fit perfectly for me, but I can still recommend that you give this a viewing.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbyxKj6OtddEvD5cie0prtoBlOpmYxXiViPamBREBU_bZg?e=klukGJ",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Eiga Doraemon: Shin Nobita no uchû kaitakushi",
+        "year": "2009",
+        "length": "1h 43m",
+        "imdb": "6.7",
+        "popularity": "341",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "The twist of hyperspace had been brought about by an accident when Nobitas room connected to Roppurus spaceship door. Nobita who made friendship with Roppuru helps him to cultivate the wild planet where he is settled. On the planet that has far less gravity than the Earth, Nobita is like Superman. He confronts the company that hunts down resources of the planet with his toy guns.Its weird how the poster shows Nobita and Doraemon in cowboy hats, when this has nothing to do with that. This gets a little confusing at first with how we cant tell whether or now what were seeing is Nobitas dream or not. This is actually pretty unique for a Doraemon film. We actually get a really clear cut villain in it. I admit that it does get silly at times. Alright, I guess an anime about a cat robot is going to be like that, but I mean more so than usual. The characters in this look like members of Team Galaxy. Its just something with those green haircuts.It was pretty cool to see Nobita and Doraemon use their light weight to fight the villains. Well, they did have these guns, so I guess thats kind of like a cowboy, right? Im proud to be the first person to review these films. Im just that much into other cultures. I saw two of these films pretty close together. I guess the animation doesnt look that impressive anymore with its improvements but its still very nice. It is kind of weird how it tries to be more serious, especially near the end. Its still good. ***",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U3OTkwYTMtZjZkYy00MTI2LWI1OTctOTUzYjAyMDgxNzJiXkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXYyRirVHMBJqvhC2cTpFLQB43x9d_fslhNUOM-SyKcyqA?e=iruUly",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Doraemon the Movie: Nobita's Treasure Island",
+        "year": "2018",
+        "length": "1h 48m",
+        "imdb": "6.7",
+        "popularity": "717",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Doraemon, Nobita, Shizuka, Gian, and Suneo set out on an adventure in the Caribbean Sea. Nobita is the captain of a ship and fights his enemies on board. Shizuka gets kidnapped, and a storm impedes their journey. Mini-Dora help Nobita and friends on their journey. When the adventurers finally find the mysterious Treasure Island, they discover it is more than just an ordinary island. —Khush SidhuNo other animated character can claim to have had one big-screen feature each year for the past 12 years, but that alone is testament to the popularity of the time-travelling blue robot cat (not raccoon dog, mind you, which happens to be one of the running jokes in this movie). This 38th feature instalment in the Doraemon anime franchise sees the titular character and his boy companion Nobita embark on a seafaring journey to explore a mysterious island that has suddenly appeared off the southern coast of Japan, although when they eventually reach the volcanic land mass, they discover that there is more, much more, to the island than meets the eye.As penned by novelist Genki Kawamura (who produced some of the most successful Japanese feature animations in recent memory, like Your Name, Fireworks and The Boy and the Beast), the story deliberately draws from some of the more memorable references of Robert Louis Stevensons classic Treasure Island novel, so those who remember the book will certainly recall the pirate named John Silver, his talking parrot and the boy whom Silver is fond of. In any case, the opening minutes of the movie give a quick rundown of these references, just before Nobita wakes up from his daydream and muses how hed like to go on a real-life modern-day pirate adventure.Nobitas wish - and perhaps to an equal extent, his pestering - become Doraemons command, who pulls out a magical Treasure Hunter map to look for a yet-unexplored treasure island, as well as a miniature sailboat DIY kit and a magnifying glass to construct the square-rigged ship that they will use to reach the island. Nobita uses the Anywhere Door to ask his best friend and love interest Shizuka along, while the quick-tempered bully Gian and fox-faced rich kid Suneo invite themselves along the way. The quintet are also joined by the Mini-Doras, who prove resourceful as ever when the rest get into tight spots, so if youre keeping score, only Doraemons younger sister Dorami sits out this one. Without giving too much away, lets just say that Shizuka is kidnapped during their initial encounter with Flint and his band of pirates, owing to a striking resemblance she has with Flints younger daughter Sarah. At the same time, Nobita will pick up Flints elder son Flock, who reveals not only that he has run away from his father but also that Flint has some nefarious plan up his sleeve that will threaten the very fate and future of Planet Earth. Its not a literal adaptation of the book of course, but youll appreciate the generous creative liberties that Kawamura and director Kazauki Imai have taken with the source material, even turning Flints parrot into a chaperone robot named Quiz who likes to greet anyone and everyone he meets with riddles.Make no mistake, this isnt just a feature-length version of the Saturday morning cartoons youd probably acquaint the Doraemon character with; rather, Imais film is really a rollicking adventure fit for the whole family (except of course for the fact that youll have to be old enough to be able to read the subtitles to understand the dialogue). There is a genuine childlike sense of wonder and thrill every step of the way, thanks to Kawamuras inventive plotting as well as Imais rich and vivid visual imagination. There are loads of humour and witticisms, courtesy of Doraemons boundless gadgets and Quizs verbal puzzles. And last but not least, there is even surprising poignance at the end of it, as Silvers ostensible selfish motivations are revealed to be no more than misguided obsessions about completing his beloved late wifes legacy.It is no coincidence that Nobitas Treasure Island has since gone and become the highest grossing instalment in Doraemon history, seeing as how there is plenty here to entertain those among us who are growing up and those among us who had grown up with the lovable robot cat. In particular, the latter will probably find the conclusion unexpectedly moving just as we did, and in fact come to sympathise with how Silver just wanted to do right for the sake of his children and their future. Like we said at the start, no other animated franchise has been as prolific or enduring, and this latest film is itself reason why Doraemon is so beloved and will likely continue to be for generations to come. There is treasure indeed in this fascinating time-travelling tale of discovery, friendship and reconciliation, so embrace your inner child and hop on for the adventure!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDc0MjI0OGMtYTg1ZC00NDE1LTgzMzktNWIwY2RmYzJjNWE3XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EWBernzlFNtOjy5lrctdbEYBJGwR4ufXnncfDuTuBI03Lg?e=AtdVQD",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "How to Train Your Dragon",
+        "year": "2010",
+        "length": "1h 38m",
+        "imdb": "8.1",
+        "popularity": "704K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Long ago up North on the Island of Berk, the young Viking, Hiccup, wants to join his towns fight against the dragons that continually raid their town. However, his macho father and village leader, Stoik the Vast, will not allow his small, clumsy, but inventive son to do so. Regardless, Hiccup ventures out into battle and downs a mysterious Night Fury dragon with his invention, but cant bring himself to kill it. Instead, Hiccup and the dragon, whom he dubs Toothless, begin a friendship that would open up both their worlds as the observant boy learns that his people have misjudged the species. But even as the two each take flight in their own way, they find that they must fight the destructive ignorance plaguing their world. —Kenneth Chisholm (kchishol@rogers.com)I saw the trailer and I enjoyed it but I was afraid that all the good parts from the movie will be there and that will be all, like it was with many films lately. That was certainly not the case. There are way better parts that were left to be discovered and I definitely congratulate the choice.I didnt read the book, so I dont know the story, witch might have suffered, as stories usually do from books to picture, but I think a writer couldnt hope for a better image, better portraits of characters, especially the black dragon who one definitely falls in love with - the mimic and the gestures and the face expressions, so complex and real. I agree its not the kind of movie that makes you keep thinking too much once its finished bot its not meant to be. Its just lovely, from the beginning to the end, I really laughed and I was anxious for the characters when they suffered (and Im 22). The film wasnt too long, it didnt have stupid lines whatsoever and it put to silence the annoying child behind me from the first five minutes or so, which I believe says it all.I dont know if I will actually go to the cinema but I definitely want to see it again. Great special effects and, again, a very lovely dragon.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVrgBsgloS9EpC6bb33G0O8B3I6MX-39wzuwNPws-otVag?e=YWrKvi",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "How to Train Your Dragon: The Hidden World",
+        "year": "2019",
+        "length": "1h 44m",
+        "imdb": "7.5",
+        "popularity": "118K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccups reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind. —JC JamisonI promise not to spoil the film below.\nThis film is both emotionally and visually beautiful. The film took a good five years to produce and you can see every second of it was put to good use. The plot is outstanding, and works perfectly as a third chapter for this trilogy. The character has completed some of the most outstanding growths in what Id consider to be films as a whole. Getting to watch these characters grow from children to adults has been one of the most realistic experiences Ive ever seen put to film. This movie is amazing, now go watch it!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_QL75_UX190_CR0,10,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EU2lLJ1oFoFLgg9xeR_pEvEBEliCPi609-2PrZVFl5zH_Q?e=oHz7va",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Planes",
+        "year": "2013",
+        "length": "1h 31m",
+        "imdb": "5.7",
+        "popularity": "44K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Dusty Crophopper is a little cropduster plane with a fear of heights and a crazy dream of being a racer. While his friends need convincing, Dusty gets the training he needs from Skipper, a veteran fighter, and qualifies for the Wings Across the World race. In the event, Dusty finds competitors who soon learn that there is something special about this underdog as he is tested to his physical and emotional limits. In doing so, Dusty soon finds enemies, and more importantly friends, who are inspired by his dream. In the face of all obstacles, the winner of this air race will be anyones guess. —Kenneth Chisholm (kchishol@rogers.com)Disney takes the Pixar Formula that made Cars and Cars 2. Instead they make it about the planes that inhabit the Cars world. the Story is actually Very simple. Dusty Crophopper is a Crop duster. but he dreams of being a big time racer. His friends tell him he wasnt made to be a racer stick to dusting crops. But he has two friends that believe in him. And when they actually get him ready to qualify for the big race and He to everyones amazement Does Qualify. Dusty becomes much more then just a dust cropper. He seeks the advice of a old World War II corsair named Skipper who pushes Dusty thru his paces and makes Dusty perfect because of Skippers intense training. When the race begins Dusty is met with scorn and isnt given much of a chance. The Current Champion ripslinger hates him because Dusty represents all of the planes that have no business racing. but slowly Dusty Makes friends and impresses everyone with his heart and courage.And not once does he ever give up on his dreams. There is a wonderful story here. But a Better lesson for kids who want to be something and are told no they cant because of whatever reasons.I took my kids to see it and they loved it. Sure its a kids movie but its so well made it can be for adults as well. Never give up on your dreams put the hard work in thats needed to succeed and you too can be a winner.Some people say its lazy film making but it isnt. There was a lot of hard work and hard thought that went into this movie and a lot of inspiration. I took a group of five year old boys to see it. Two of them have ADHD and they sat thru this movie and paid attention. That alone should tell you everything you need to know.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODc5NzYzOF5BMl5BanBnXkFtZTcwNTk4MjEzOQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EVyol3uaCHRPngsgFiVJfRQBSfajY4xIkJL3nzyvcevyew?e=ObmSnz",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Smurfs: The Lost Village",
+        "year": "2017",
+        "length": "1h 30m",
+        "imdb": "6.0",
+        "popularity": "21K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her best friends Brainy, Clumsy, and Hefty on an exciting and thrilling race, through the Forbidden Forest, filled with magical creatures to find a mysterious lost village before the evil wizard Gargamel does. Embarking on a roller-coaster journey full of action and danger, the Smurfs are on a course that leads to the discovery of the biggest secret in Smurf history! —Sony Pictures EntertainmentI went to see this movie over the holidays and i absolutely loved it there were plenty of new friends to make and it was super fun my only gripe is that it took so long to get to the girl Smurfs when the previews made it seem like they were gonna be in the entire movie but aside from that it was good and i definitely recommend that you go see it take the family and have a good smurfiing time",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NjgyMTYzM15BMl5BanBnXkFtZTgwMzIxNDc4MDI@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ecgp8d2NPR1Cv9rsMTvhFD8BCv_3fqJrYwv01j5uvW6P4Q?e=jbh9hI",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Stand by Me Doraemon",
+        "year": "2014",
+        "length": "1h 35m",
+        "imdb": "7.4",
+        "popularity": "7.3K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "In the suburbs of Tokyo some time ago, there lived a clumsy boy about 10 years old. There appeared in front of him named Sewashi, Nobitas descendant of four generations later from the 22nd century, and Doraemon, a 22nd century cat-type caretaker robot who helps people with its secret gadgets. Sewashi claims that his family is suffering from the debts Nobita made even to his generation, so in order to change this disastrous future, he brought along Doraemon as Nobitas caretaker to bring happiness to his future, although Doraemon is not happy about this. And so Sewashi installed an accomplishment program into Doraemon forcing him to take care of Nobita. Unless he makes Nobita happy, Doraemon can no longer go back to the 22nd century. This is how the life of Doraemon and Nobita begins. Will Doraemon succeed this mission and return to the 22nd century? —VoGuySome of the plots were old, but I still enjoyed watching this. Doraemon is the best, ever.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EeShU4zpjelCoWsOPWYkS5cBngCZBaVzOA-ejU2IesWXEQ?e=6sjjjh",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "The Boss Baby",
+        "year": "2017",
+        "length": "1h 37m",
+        "imdb": "6.3",
+        "popularity": "120K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Seven-year-old Tim Templeton has always had an overactive imagination--and for the past seven years--life has been all peaches and cream, getting all the love and affection from his caring parents. However, after the arrival of Boss Baby, an unexpected new brother dressed in a black suit complete with a tie and a briefcase, little by little, Tim realises that the cute newcomer has taken over the whole house, robbing him of his happiness. But, soon, Tim and the new boss in a diaper will need to put differences aside and join forces, as a sneaky scheme involving the head of Puppy Co. threatens to tilt the balance of power towards their insidiously adorable furry antagonists. Now, the next pet convention is only in two days. So, brothers, hurry up. —Nick RiganasHes cute! He has got a big head! And he is in theaters this weekend. He is the Boss Baby and his movie is the focus of this review. Hi fans, Robbie K is back again with another review, and this time on the latest animation movie to hit the silver screen. What does this animated feature film have in store? Im happy to share some thoughts on the subject, so why dont we get started shall we? LIKES:  Good animation  Cute  Unique Twist on a story  Incredibly Fun  Funny and Clever  Movie ReferencesSummary: As you saw in the trailers, Boss Baby is another example of how incredible our animation technology is and this time it is wrapped up in a cute as a button package. This film may be one of the most adorable animation pieces to hit this year, and many will fall in love with the whimsical charm of this film. Now that we have the obvious wrapped up let us get to the real gold of this film. Its difficult to find a unique twist on a story, but the risk taken with Boss Babys story was well executed. The tale has many layers to it involving adapting to new family members, pursuit of your dreams, and of course what is better babies or puppies. With surprising detail and character development, the story is very entertaining and fun as baby and brother try to stop the dastardly puppies from taking over. And the best part is the whole adventure is fun and fast paced, with seldom a boredom moment in this fast-moving flick. Lets hit the comedy now. Boss Baby again excels in this aspect providing a variable mix of comedic styles to entertain all ages. Young (and young at heart) will enjoy the simplistic comedy that involves the characters dropping mindless (meme-worthy) one liners, various screams of fear, and dopey run-ins with a wall. The real comedic diamonds though are the cleverer puns, one-liners, and adult references hidden in this movie. Alec Baldwins sarcastic delivery and edginess worked for me, adding just the right touches to maximize the laughs. Yet, Im a sucker for all the movie references integrated into this plot and how key they were to the adventure. And if you are nerd like me, you may get an extra thrill keeping your eye out for the next reference. DISLIKES:  Predictable  A bit of a stretch  A little preachy at times  More Babycorp use  Better EditingSummary: Despite how much I enjoyed the story, much of it is still predictable. Boss Baby has some surprising twists, but no manner of fun, can hide the blatantly obvious ending that is to come. While predictability is difficult to avoid, Boss Baby could have tidied things up a bit to give the finale a little more flare. In addition, they could have worked hard to not be so preachy near the end about the importance of family and all that lovey-dovey mush that animation films do all the time. Lets talk about some developmental issues I had with the movies. First off, the movie has moments that are a bit of a stretch. Yes, I know this movie is ridiculous and a stretch to begin with, but hear me out. Boss Babys adult cast are a bit idiotic at best, somehow not hovering over the newborns to hear them speaking. If that wasnt enough, some of the more dangerous stunts involved were also not as \"noticeable\", which after some point should have been discovered. Although fun, this ridiculousness didnt fit so much into the grand scheme of the plot. Next up is Babycorp, the organization the boss baby works for. This large plot point has dramatic build up and gets a large sequence to explain the wonders of this magnificent corporation. Yet after that, the film fails to deliver more on the potential plot points that could have come with it. Had the trailers not built up the baby vs. puppy rivalry as they did, I could have let this go, but with all the advertising I would have liked to see more of this. Finally, the editing of the movie. Boss Baby has a lot of great parts that foster imagination, love, and all those positive qualities we love in an animated movie. However, much of these moments were not necessary, often just extending the run time under the guise of character development. While I dont think they needed to eliminate these parts (after all it is only 90 minutes), they certainly could have altered these scenes to be a little more relevant to the adventure. The VERDICT:Despite all the lower scores, Boss Baby was an entertaining spectacle that is fun, funny, and clever at many points. This movie is certainly adorable and is the perfect family film (for all ages) to hit the screen this year. Yes, it is simplistic and silly, and doesnt have as much magic as a Disney film, but its nice to have unique, story that doesnt involve making a political ordeal out of it. This reviewer recommends this one for the theater for group outings and those with kids, but definitely check this one out when it hits homes. My scores are: Animation/Comedy/Family: 7.5 Movie Overall: 6.5",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EYIf2T9TVvRDgP7IKxnkSF8B0ffqiQATzwPaWVlUeioMdQ?e=vtOYgv",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "The Incredibles",
+        "year": "2004",
+        "length": "1h 55m",
+        "imdb": "8.0",
+        "popularity": "691K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Bob Parr (A.K.A. Mr. Incredible), and his wife Helen (A.K.A. Elastigirl), are the worlds greatest famous crime-fighting superheroes in Metroville. Always saving lives and battling evil on a daily basis. But fifteen years later, they have been forced to adopt civilian identities and retreat to the suburbs where they have no choice but to retire as superheroes to live a \"normal life\" with their three children Violet, Dash and Jack-Jack (who were secretly born with superpowers). Itching to get back into action, Bob gets his chance when a mysterious communication summons him to a remote island for a top secret assignment. He soon discovers that it will take a super family effort to rescue the world from total destruction. —Anthony Pereyra {hypersonic91@yahoo.com}An amazing family film and also one of the best superhero films of all time.\nAction is amazing, especially in the final act with such a range of powers all used brilliantly.\nAnd do I need to say anything about the animation? Pixar just knocks it out of the park every time.\nThe Incredibles is just full of personality and charm, making it endlessly rewatchable.Also we need a Frozone solo movie.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ESSrfYPU-rVBnGStwrRJS5wBV0nrr_a34zcI3x9PiIvMiQ?e=xgGmvd",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "The Nut Job",
+        "year": "2014",
+        "length": "1h 25m",
+        "imdb": "5.7",
+        "popularity": "28K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "In a city park, Surly the Squirrel has finally gone too far with his latest caper . Now exiled, Surly and his rat buddy Buddys collective nightmare on the streets ends when they discover a nut store to raid. With no other options, she arranges a deal to help in Surlys heist for the colony, even while Surly fully intends to betray it. However, there is more going on with the nut store being a front for bank robbers while Raccoon has his own agenda to ensure his own power. In the mayhem to come, Surly finds himself challenged in ways he never expected and discovering the real prize to treasure in this adventure. —Kenneth Chisholm (kchishol@rogers.com)Surly, an adjective and a name apparently, embarks on an adventure to obtain food for the approaching winter. He runs across some wacky characters and antics ensue. The Good: Art- The time spent on the animal and human designs was readily apparent throughout the film. I could pick out individual hairs in the animals coats. I also liked that the artists paid attention to the animals mouths. They were not just mere flaps of skin covering teeth, but it looked like the mouth region actually had some depth, that the lips were also 3D along with the rest of the animal. The humans had a distinct look and style about them that made me think of 2D cartoons. Big and imposing, shady and dangerous, cute and cuddly, the artwork certainly helped draw a person in. Ambition- The Nut Job tried to draw on several genres of film. It attempts to reshape these stories and form into a family friendly movie. I could spot a crime drama, a voyage of self discovery, a tale of redemption and rejoining society, just to name a few. The film also provided some rudimentary information about the animal species through dialogue, so it did have some educational moments. Whether or not the film succeeded in its ambitions will be covered in the not-so-good section. The Not-So-Good: Pacing- What a colossal mess. The Nut Job is a short 86 minutes and the film tried to show at least three different story arcs. The audience is not shown how the characters will respond to any event because the next event is following hot on the heels of its predecessor. Because of this, any connection or concern for the characters is lost in the fray of action and fart jokes...yes, Ill get there too. Characters- Unfortunately the pacing of the film allows the survival of only the most basic character types. Might as well forget about character development too. And learning. And change for the better. Comedy- I had hoped that the family film genre had grown past this, I really did. Situational and character-based comedy has made significant headway into the family films. Granted it may be a little silly to laugh at Mr. Potato-Heads parts stuck in a flour tortilla, but I found it to be incredibly funny. Or how about when a mermaid becomes a human and, as a result of misguiding information told to her in a previous scene, she puts a fork and a pipe to hilarious use at the dinner table. Fart jokes. Maybe with the compressed story arcs, the only form of comic relief could come from this. The Nut Job tried to meld several different genres and in so doing, did not execute any of them well. Youve seen better representatives of the genres attempted here and Id suggest seeing them instead. 4/10",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ech7HP2PTbBNuDpBjdCblCYBeFrH9YvYgeoEKr_fdLOgkA?e=tPTtwh",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Tom and Jerry Blast Off to Mars!",
+        "year": "2005",
+        "length": "Not RatedNot Rated",
+        "imdb": "6.2",
+        "popularity": "2.1K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "While carrying on their usual hi-jinks, they inadvertantly stow-away on a spaceship bound for Mars. They meet up with the local Martian residents and cause them to invade the Earth, aided by the \"Invincitron\", a vacuum-wielding giant robot. Tom, Jerry and their Martian ally, Peep, save the day. —Steven Bernsteinjust saw this film on a special cartoon network screening and once again the legendary cat and mouse do not disappoint.This comes after their last motion picture, entitled The magic ring back in 2002. In my opinion I thought that was one of the best action/animation films Ive seen, and its a shame it only made it on to video. But this latest installment goes one better. The producers make sure they dont take away that true spirit that Tom & Jerry have carried for so long. There are some hilarious scenes and the usual frantic chases which makes the film complete.All in all I loved this film, it has everything and its a joy to watch. I hope they continue to make solid films with these 2 for years to come. Dont miss it! 9/10",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODdjZGNhNzEtMGNhYi00NGE1LThlOTAtODQ2MDYyZmI0YjQ5XkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbVjHvp-FMFJtoww1A9Rm8gBo0riHXrxFurCEhm8foFM4A?e=q69Mhb",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Tom and Jerry: Spy Quest",
+        "year": "2015",
+        "length": "1h 12m",
+        "imdb": "6.2",
+        "popularity": "988",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "Two groups of classic cartoon characters come together in this fun-filled crossover with the popular action-adventure animated series Jonny Quest. Fans of all ages wont want to miss this heart-stopping adventure as tussling twosome Tom and Jerry join Jonny Quest and his pal Hadji and embark on a dangerous spy mission in order to save the world. Its just another day at the beach for the dueling Tom and Jerry ... until they bump into world-class junior spies Jonny Quest and Hadji and their canine companion, Bandit. When longtime Quest family nemesis Dr. Zin discovers that Jonnys father, Dr. Benton Quest, possesses a device that could solve the worlds energy problems, Zin sends his evil cat army to steal it and capture Benton and his bodyguard, Race Bannon. Thats when Jonny and his new furry friends spring into action! Get set for intrigue, thrills and suspense for the whole family. Tia Carrere and Tim Matheson lend their voices.Warner Bros have 3, maybe 4 lines of cartoon movies for the direct market. DC, Scooby Doo, Tom & Jerry and with the Flintstones vs WWE, maybe the Flintstones too. I have window shopping other T&J movies while waiting for this to arrive, and the cat and mouse team did Blast Off For Mars which is a similar title to Abbott and Costello Go To Mars. And like Abbott and Costello Meet Frankenstein, in this movie we have a slapstick comedy team sliding effortlessly into an existing adventure franchise to bring a little comedy with out diminishing the adventure of the story. If you can like a pairing of Tom and Jerry with the Quest team, this movie does not disappoint. There are a few incredulous moments you have to go with, but as the action never lets up, they are super forgivable. And if you are a fan of Tom and Jerry, this movie has 3- 5 break-out scenes of cat and mouse tomfoolery. The movie opens with a Spike and Tyke cameo, and features visits from Droopy and Jezebel Jade. (Though disappointingly there is one animation of Droopy run twice the same way.) James Hong gives Doctor Zin a level of character never before seen, and will have you wondering if the voice isnt Ken Jeong. The character designs by Dan Haskett are wonderful in a very John K type of way, when Kricfalusi isnt trying to gross people out. This is giant piles of fun that never lets up. My hope is that this movie does so well that Jonny Quest will get more direct market movies and that, like the Mummy and Invisible man sequels to A&C Meet Frankenstein, Tom and Jerry might visit Space Ghost and The Herculoids. Thundarr The Barbarian would probably be a bridge too far, for a Tom and Jerry crossover. But if they made it, I would watch it.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNDU1MzA2OF5BMl5BanBnXkFtZTgwODgyMjg5NTE@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eb6TM6i-tMhPmAEdEG53CvgB4ArD9amjqUMQz-1v3VNtaA?e=wCR2Mp",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Turbo",
+        "year": "2013",
+        "length": "1h 36m",
+        "imdb": "6.4",
+        "popularity": "92K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "After a freak accident infuses him with the power of super-speed, Turbo kicks into overdrive and embarks on an extraordinary journey to achieve the seemingly impossible: competing in the worlds fastest race, the Indianapolis 500. With the help of his tricked-out streetwise snail crew, this ultimate underdog puts his heart and shell on the line to prove that no dream is too big, and no dreamer too small. —DreamWorks Animation\"Turbo\" may not be the most original or inventive animated film ever but its a good time and pretty fun. The story is pretty simple and one that a little child can imagine. But the way it delivers the story is gorgeous. It has lovable characters and sense of humor. Theo (who prefers to be called Turbo) is a garden snail who lives as an outsider among his snail community. His dream of becoming the Indianapolis 500 champion makes him an outcast and his obsession with speed brings embarrassment to his brother, Chet. However, after an unexpected accident, Theo is granted incredible speed and also inherits some characteristics of an actual car (headlights, radio). He is then taken by a chubby guy named Tito. Tito and his brother Angelo own a taco shop that is struggling. The other tenants in the area are also facing the same problem. Tito has this idea of registering Turbo into the Indy 500 in order to help his business prosper. And there are also other snails who become Turbos buddies. \"Turbo\" may not have as much depth as some of the animated masterpieces. But \"Turbo\" doesnt aim in being that. It wants to become a fun-filled adventure about a freaking-fast snail racing in the midst of an array of monstrous cars. And it doesnt disappoint. Its enjoyable, slick and plenty of fun. The characters are likable too. Turbo is ambitious, funny, and adventurous. All the qualities of a fun character are embodied in him. Chet, his brother, is caring and more cautious but is also adorable in some moments. The other snails are also plenty of fun due to their ridiculous antics. Besides the mollusks, we also have the human characters. Tito, with his large build, is extremely chubby and funny. Titos other friends are also a joy to watch. \"Turbo\" also has a great sense of humor. I had a blast watching this film. Not all the jokes work, but most of them do. But I do want to mention that theres a joke concerning crows snatching one snail at a time, and to me it seems a bit extreme because the idea of a snail being eaten by a crow is kinda creepy, dont you think? Or maybe its just me. But the bottom line is \"Turbo\" is plenty of fun to watch. The animation is not the best Ive seen but its pretty good. It possesses beautiful sets and the colors are fluorescent. The voice cast was excellent too and Ryan Reynolds did a great job lending his voice to Turbo. \"Turbo\" is a fun and rollicking adventure and it is plenty of joy to watch these lovable characters see what theyre up to. Just dont expect too much from it and dont expect it to be a masterpiece. Rating: 7/10Final Verdict: It may not be original but \"Turbo\" is a hell of a roller-coaster ride that will provide plenty of joy and laughs with its lovable characters.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTA4NTgwMjM5MzheQTJeQWpwZ15BbWU3MDg2ODA1ODk@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ee1pArShROlBjvSxFL8WolQB9DWZ-BN8KwpSPax0MqmHOQ?e=TQKncY",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Zootopia",
+        "year": "2016",
+        "length": "1h 48m",
+        "imdb": "8.0",
+        "popularity": "468K",
+        "genre": "Animation",
+        "language": "Hindi",
+        "story": "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mysterious case. Unfortunately, that means working with Nick Wilde, a wily fox who makes her job even harder. —Jwelch5742I hadnt planned on seeing this film (I feel we are over-saturated with animated films these day, most of them mediocre), but I looked on as my kids watched it. This is a really fine film. It takes on issues of prejudice and cultural diversity. Zootopia is a city where animals live side by side, predator and prey. It is not a utopia because law and order is necessary. A little female rabbit messes with the male dominated police force. She is put on duty as a meter maid and realizes sexism along with her species is under attack. She is feisty and eventually hooks up with a con-man fox (the least trusted species) whom she enlists to help her solve a kidnapping case. Actually, its otter napping. In the process, she reveals her own prejudices and hurts her partner. The movie has stunning animation and intelligent dialogue and lots of social references. Very good stuff.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZ75M9MB2s5CrS-1hS_oHhUBliVNvf4A0V4R13nxm7Q-bQ?e=7FMRwh",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Haseen Dillruba",
+        "year": "2021",
+        "length": "2h 15m",
+        "imdb": "6.9",
+        "popularity": "24K",
+        "genre": "Crime",
+        "language": "Hindi",
+        "story": "Rishabh Saxena (Rishu) is killed in an explosion in his house the cops investigating find that it is indeed a murder and the prime suspect is his wife Rani Kashyap.Rishu was a simple looking guy having a stable job and eager to get married,he is introduced to Rani a high spirited girl who wants to live a rocking life.Rani and Rishus relationship is like strangers while she also has a dominating mother in law, her life suddenly changes when Rishus cousin Neil enters their house.Neil is the kind of guy Rani wanted to get married they both start an affair and Rani decides to leave Rishu but before anything could happen Neil ditches her.Rani and Rishu realize their relationship was like strangers and Rani feels that Rishu had to pay for her wrong doings and decides to be with him but his evil side comes up when he finds her and Neils relationship. —alex.mjacko@gmail.comStory was quite simple and a perfect viewer can know the murderer with the movie progresses. Positive thing was they didnt try a lot which would have turned the movie into a mess. Amazing dialogue content. And last but not least exceptional acting by all three actors.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWYyMzg3N2EtNTQ5MC00MWZlLWI3YWEtMmU2ZWNhZWZiNGIzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_QL75_UY281_CR46,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUGcJeu3sCFAtdGwMlmIRrEB2ws9ytr3cP1fdkBR5k3T3w?e=fy9my2",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "The Wheel of Time",
+        "year": "2021– ",
+        "imdb": "7.3",
+        "popularity": "71K",
+        "genre": "Action",
+        "language": "English",
+        "story": "Set in a high fantasy world where magic exists, but only some can access it, a woman named Moiraine crosses paths with five young men and women. This sparks a dangerous, world-spanning journey. Based on the book series by Robert Jordan.The acting is actually very good but they can only do so much when the writing is aweful.Some of the story changes are understandable, but most times the changes are nearly incomprehensible dont seem to serve a purpose. Additionally, there are a couple of moments that the writers make very poor story choices resulting in at least one instance of using the sin of \"Deus Ex Machina\" to escape their own story traps. This is lazy writing at its worst.There are also fundamental changes to the main and side characters along with fundamental changes in relationships between people and organizations. This is another major writing sin and seriously jeopardizes eliminating or watering down both major and minor themes of the original story. Inexcusable.There are other issues with poor site locations. A good example of this is picking a river next to a cliff to represent a part of a river delta for the largest river in the world. REALLY?I gutted this season out and watched every episode from beginning to end so I could give the show an honest shot and not be one of tgose people that posts an opinion based on ignorance.Season 1 did have a few moments that were at least decent, but not enough to make up for the rest of its considerable flaws and sins, therefore, I will NOT be watching season 2.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": ["https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXXLr8ZrfPlMoYWoXODP_cwBSU_6Ki_oh_5KfFp6TyLWBg?e=K3e8EY",
+            "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EZdK9ViuWZhGjUCkLmo9EuQBGAXLzDGghmfO7YSVoKYTjQ?e=fs5G8Y",
+            "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EQmPupief7pMlp4fIpAIom4B74X0Mbp-24V827tm4xX2TQ?e=bjc5fd",
+            "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Efs0fTAzONRMnzAgP7fPsuEBdIA-cQOBk-CRm0GtHQ8c1Q?e=vWYlNG",
+            "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Eep-RKAEo_RDlIJbxk40nzoBthQudCwcYhOPPewpVAPgmQ?e=edbxTP"
+        ],
+        "type": "web",
+        "season": 1,
+        "episodes": 5
+      },
+
+      {
+        "name": "Mimi",
+        "year": "2021",
+        "length": "2h 12m",
+        "imdb": "8.0",
+        "popularity": "35K",
+        "genre": "Comedy",
+        "language": "Hindi",
+        "story": "Mimi (Kriti Sanon) is a small-town girl from Rajasthan who gets offered Rs 20 lakh to act as a surrogate for an American couple. The middleman is Bhanu (Pankaj Tripathi) who, in his impeccable style, manages to convince both parties. The only hindrance being: how Mimi will hide her pregnant belly from her parents and society at large. The film touches upon the challenges of surrogacy and how society looks at it. —subratjain1This movie is very interesting and at the same time it is very unique. We want more Bollywood movies like this.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTkwMDQ4ZmEtNTdhNi00MmMzLTgwNTQtMDI1NDJjZjQ5Zjg5XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EUYTqg9q35tDql7BDJHgdi8B9_Vik1DtRWs_ziEytViavA?e=ilRhXY",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Ludo",
+        "year": "2020",
+        "length": "2h 29m",
+        "imdb": "7.6",
+        "popularity": "37K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "From a resurfaced sex tape to a rogue suitcase of money, four wildly different stories overlap at the whims of fate, chance and one eccentric criminal. Now these misfits, miscreants, lovers and losers are all unwitting pawns in this unpredictable game. The only way home? Keep playing.The movie is outstanding, it will take your heart away. I know why people are hating it so much\nFirstly, Most of the Indian viewers first watch movies like Judwaa 2, Dabangg 3, then the same people ask why films like Swadesh, Jagga Jasoos etc flopped. Basus movies are the victims of this, Basus movies are not so easy to understand, his films hide some messages that you understand after thinking a lot. That is why his films flopped because Indian viewers want item numbers as well as Oscars.\nSecond reason, Most of the Indian viewers love naked actresses dancing, liquor, cars, unrealistic cliche stories, some unrealistic happy ideal families with full of values, mockery of eunuchs on the big screen but if someone says anything about superstition (which pk, omg showed) about God, then they have problems. The movie did not say that God doesnt exist.\nHe said that your actions will decide the end of your life. We dont know whether there is hell and heaven or not, but we should always do our deeds, leave the consequences to God. The movie said that God is there, but dont do business in his name because your actions are the ultimate judge, wholl decide if youre made for heaven or hell.One star less because some scenes were confusing.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTQwOTVlMzctM2I3MS00YzllLWJiNTctYzdhMjkzMzhhY2RkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbaCVOFWGm9MiEat6O0KUE8BAQD6N4Rw0IJyP4K0ZVBp8A?e=dZjd6A",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Cruella",
+        "year": "2021",
+        "length": "2h 14m",
+        "imdb": "7.4",
+        "popularity": "203K",
+        "genre": "Adventure",
+        "language": "Hindi",
+        "story": "Before she becomes Cruella de Vil, teenage Estella has a dream. She wishes to become a fashion designer, having been gifted with talent, innovation, and ambition all in equal measures. But life seems intent on making sure her dreams never come true. Having wound up penniless and orphaned in London at 12, 10 years later Estella runs wild through the city streets with her best friends and partners-in-(petty)-crime, Horace and Jasper, two amateur thieves. When a chance encounter vaults Estella into the world of the young rich and famous, however, she begins to question the existence shes built for herself in London and wonders whether she might, indeed, be destined for more after all. —KatieTo be really honest, I had very low positive thoughts about this movie. But, boy was I in for a surprise. Emma Stone is the show stealer. Its really a fun dark movie. Did expect this from Disney. Loved it!!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ESa4GCpSQxtAvxv0m09IxJEBCuT1fDupVfg3kgLONusDDg?e=rVs1Pc",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Marjaavaan",
+        "year": "2019",
+        "length": "2h 32m",
+        "imdb": "3.7",
+        "popularity": "3.7K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Marjaavaan is an upcoming Indian action romance film directed by Milap Zaveri starring Ritesh Deshmukh, Sidharth Malhotra, Tara Sutaria and Rakul Preet Singh. The co producer of the film Bhushan Kumar described the film as \"a violent, dramatic love story\". —raidahmahmudBadla nahi intekaam lunga, 😂😂😂 Funny dialogue for funny audience. Give money to the poor instead of wathing this crap😡",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODg4MTJkNzctOTg1Yy00NTI5LTgwY2YtNDYwMDBlMTQ4NzcxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/ETtYrRojXLhImVIbY0QbFgMBkh9A6acBX8USSb2fPxblhA?e=E7ZmsG",
+        "type": "bollywood"
+      },
+
+      {
+        "name": "Resident Evil: Welcome to Raccoon City",
+        "year": "2021",
+        "length": "1h 47m",
+        "imdb": "5.2",
+        "popularity": "25K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The companys exodus left the city a wasteland with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever changed and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night. —brandon_bee_10In a movie with zombies and monsters, why the heck doesnt anyone hurry? Everyone stands around in suspended animation and endlessly talks. Very little suspense, horror or sense of urgency.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjRmMDUxODctYjg3NC00NDRhLWJhZWItMjg0OTZkMDBjNWUxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EXICpzKTevRGqLV-eNrzTgAB2BiPWpryEnP0WsX0CbkfCg?e=mk3QRx",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "The Conjuring 3",
+        "year": "2021",
+        "length": "1h 52m",
+        "imdb": "6.3",
+        "popularity": "99K",
+        "genre": "Horror",
+        "language": "Hindi",
+        "story": "A chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything theyd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense. —TiboriyoNO SPOILERS! Weakest of the series and and I have to believe the missing piece was director James Wan. The scares were way too predictable, the script felt one note and even though I went in cold I could still see the ending a mile away. Solid turns by Patrick Wilson and Vera Farmiga as they have always done but still even they couldnt elevate this one.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWRkOTYzZTQtMzQwNi00NDYwLTk4NjUtN2FjYTI4Y2UzM2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EbcPDHJG-_JMkACghe7a8fQBgHG8dA2b8nZI0QxRI5Ll9g?e=OsW0f8",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Black Widow",
+        "year": "2021",
+        "length": "2h 14m",
+        "imdb": "6.7",
+        "popularity": "315K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "In Marvel Studios action-packed spy thriller \"Black Widow,\" Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger. —topmeasureFlorence Pugh was the highlight of this drab movie... the concept was there but the execution was poor. If Disney went for an 18 rating and good script it could have been amazing.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/EevOjohmrlNDrgIbh4I4ULQBcs9vlCqw-9kiOLCKzxPi3w?e=cLspCo",
+        "type": "hollywood"
+      },
+
+      {
+        "name": "Thor: Ragnarok",
+        "year": "2017",
+        "length": "2h 10m",
+        "imdb": "7.9",
+        "popularity": "670K",
+        "genre": "Action",
+        "language": "Hindi",
+        "story": "Imprisoned on the other side of the universe, the mighty Thor (Chris Hemsworth) finds himself in a deadly gladiatorial contest that puts him against The Incredible Hulk (Mark Ruffalo), his former ally and fellow Avenger. Thors quest for survival leads him in a race against time to prevent the all-powerful Hela (Cate Blanchett) from destroying his home world and the Asgardian civilization. —Asger Jonasen aagaardMCU\nMCU rocks. hahahaa I am so ckool. This was an introduction to Mr Thor from MCU and it was funny funny marvellos and fabulous. All of us in the theatre (there was so long a queue to get in) laughed nad laughed and we all decided to start a letter writing campaign to Mr, Disney to beg for more. What are the chacnes you will be kind and make more films of MCU? We would love it.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "download_links": "https://stmarysstclairorg-my.sharepoint.com/:v:/g/personal/qb594_office-365_works/Ea3Gn2GX85hNk-NkPrfLAJsBENmTZlblVyal8ZUSwEPI8A?e=RoAK5Y",
+        "type": "hollywood"
+      }
 ]
