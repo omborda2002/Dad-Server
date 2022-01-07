@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41PMHZWD8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-C41PMHZWD8');
+    </script>
     <meta name="google-site-verification" content="Iea83kTsV4DXDXNzDbE1-C3MJWbf6FqGy3Hvq8T2Hao" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -141,15 +150,17 @@
                                 class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
                                 <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
                             </svg><span style="font-size: 16px;color: #adb5bd;">
-                                <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
-                                <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
-                            </svg> <% if(datam.language == "Hindi"){ %> 
-                                <%= datam.language %> | English
-                            <% }else{ %> 
-                                <%= datam.language %>
-                            <% } %>  
-                            </span> 
+                                <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                        fill="currentColor" class="bi bi-dot" style="color: #adb5bd;"
+                                        viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
+                                    </svg>
+                                    <% if(datam.language=="Hindi" ){ %>
+                                        <%= datam.language %> | English
+                                            <% }else{ %>
+                                                <%= datam.language %>
+                                                    <% } %>
+                            </span>
 
                         </div>
                         <div class="para">
@@ -200,13 +211,13 @@
                                                                     <% } %>
                                                                         <% } %>
                     </select>
-                    <% if(type == 'web'){ %> 
+                    <% if(type=='web' ){ %>
                         <select class="mybb">
                             <option selected value="0">1080P (Recommended)</option>
                             <option value="1">480P</option>
                             <option value="2">720P</option>
                         </select>
-                    <% } %> 
+                        <% } %>
                 </div>
 
                 <% if(type=='movie' ){ %>
@@ -263,52 +274,62 @@
             <div class="main-poster">
                 <div class="posting">
 
-                    <% let arr = []; %> 
-                    <% for(let i=0; i < 8; i++){ %>
-                        <% let rand; %> <% rand = Math.floor(Math.random()*51);%> 
-                        <% if(arr.length > 0){ %> 
-                            <% for(let i = 0; i < arr.length ; i++){ %> 
-                                <% if(rand == arr[i]){ %> 
-                                    <% rand =  Math.floor(Math.random()*51); %> 
-                                <% } %> 
-                            <% } %> 
-                        <% } %> 
-                            
-                        <% arr.push(rand); %> 
+                    <% let arr=[]; %>
+                        <% for(let i=0; i < 8; i++){ %>
+                            <% let rand; %>
+                                <% rand=Math.floor(Math.random()*51);%>
+                                    <% if(arr.length> 0){ %>
+                                        <% for(let i=0; i < arr.length ; i++){ %>
+                                            <% if(rand==arr[i]){ %>
+                                                <% rand=Math.floor(Math.random()*51); %>
+                                                    <% } %>
+                                                        <% } %>
+                                                            <% } %>
 
-                        <a href="https://daddyhub.in/movie/<%= data[rand].name %> ">
-                            <div class="con">
-                                <img src="<%=data[rand].poster%> " alt="<%= data[rand].name %> " class="image">
-                                <div class="overlay">
-                                    <div class="pri">
-                                        <div class="print shadow-lg">
-                                            <% let pcheck;%> 
-                                            <span><%  if(data[rand].cam_print == "y"){ %> 
-                                                <% pcheck = 'CAM' %>
-                                                <%= pcheck %>  
-                                            <% }else{ %> 
-                                                <% pcheck = 'HD' %>
-                                                <%= pcheck %>
-                                            <% } %> 
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <div class="desc">
-                                        <span>
-                                            <%= data[rand].name %>
-                                        </span>
-                                        <p>
-                                            <%= data[rand].length %>
-                                                <%= data[rand].genre %>
-                                        </p>
-                                        <p>
-                                            <%= data[i].language %> | <%= data[i].year %>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        <% } %>
+                                                                <% arr.push(rand); %>
+
+                                                                    <a
+                                                                        href="https://daddyhub.in/movie/<%= data[rand].name %> ">
+                                                                        <div class="con">
+                                                                            <img src="<%=data[rand].poster%> "
+                                                                                alt="<%= data[rand].name %> "
+                                                                                class="image">
+                                                                            <div class="overlay">
+                                                                                <div class="pri">
+                                                                                    <div class="print shadow-lg">
+                                                                                        <% let pcheck;%>
+                                                                                            <span>
+                                                                                                <% if(data[rand].cam_print=="y"
+                                                                                                    ){ %>
+                                                                                                    <% pcheck='CAM' %>
+                                                                                                        <%= pcheck %>
+                                                                                                            <% }else{ %>
+                                                                                                                <% pcheck='HD'
+                                                                                                                    %>
+                                                                                                                    <%= pcheck
+                                                                                                                        %>
+                                                                                                                        <% }
+                                                                                                                            %>
+                                                                                            </span>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="desc">
+                                                                                    <span>
+                                                                                        <%= data[rand].name %>
+                                                                                    </span>
+                                                                                    <p>
+                                                                                        <%= data[rand].length %>
+                                                                                            <%= data[rand].genre %>
+                                                                                    </p>
+                                                                                    <p>
+                                                                                        <%= data[i].language %> | <%=
+                                                                                                data[i].year %>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </a>
+                                                                    <% } %>
                 </div>
             </div>
         </div>

@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41PMHZWD8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-C41PMHZWD8');
+    </script>
     <meta name="google-site-verification" content="Iea83kTsV4DXDXNzDbE1-C3MJWbf6FqGy3Hvq8T2Hao" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -80,7 +89,7 @@
         </nav>
 
         <!-- Slider  -->
-        
+
 
         <!-- Poster Images  -->
         <div class="main-poster">
@@ -91,33 +100,41 @@
                 </div>
             </div>
             <div class="posting">
-                <% for(let i = 0; i < arr.length; i++){ %> 
+                <% for(let i=0; i < arr.length; i++){ %>
                     <a href="https://daddyhub.in/movie/<%= arr[i].name %> ">
                         <div class="con">
                             <img src="<%=arr[i].poster%> " alt="<%= arr[i].name %> " class="image">
                             <div class="overlay">
                                 <div class="pri">
                                     <div class="print shadow-lg">
-                                        <% let pcheck;%> 
-                                        <span><%  if(arr[i].cam_print == "y"){ %> 
-                                            <% pcheck = 'CAM' %>
-                                            <%= pcheck %>  
-                                        <% }else{ %> 
-                                            <% pcheck = 'HD' %>
-                                            <%= pcheck %>
-                                        <% } %> 
-                                        </span>
+                                        <% let pcheck;%>
+                                            <span>
+                                                <% if(arr[i].cam_print=="y" ){ %>
+                                                    <% pcheck='CAM' %>
+                                                        <%= pcheck %>
+                                                            <% }else{ %>
+                                                                <% pcheck='HD' %>
+                                                                    <%= pcheck %>
+                                                                        <% } %>
+                                            </span>
                                     </div>
                                 </div>
                                 <div class="desc">
-                                    <span><%= arr[i].name %> </span>
-                                    <p><%= arr[i].length %> <%= arr[i].genre %></p>
-                                    <p><%= arr[i].language %> | <%= arr[i].year %></p>
+                                    <span>
+                                        <%= arr[i].name %>
+                                    </span>
+                                    <p>
+                                        <%= arr[i].length %>
+                                            <%= arr[i].genre %>
+                                    </p>
+                                    <p>
+                                        <%= arr[i].language %> | <%= arr[i].year %>
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </a>
-                <% } %> 
+                    <% } %>
             </div>
         </div>
         <div class="ho">
