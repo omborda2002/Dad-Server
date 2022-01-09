@@ -48,8 +48,7 @@
 }
 .menu #menuLines svg:hover {
   transform-origin: center;
-  transition: 1s;
-  transform: rotate(135deg);
+  transition: 0.5s;
   color: white;
 }
 

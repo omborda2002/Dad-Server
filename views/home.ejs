@@ -61,13 +61,13 @@
                 <div class="menu">
                     <div id="menuLines" onclick="myFunction()"
                         style="font-size: 30px; cursor: pointer;color: rgb(188, 188, 189);">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
-                            class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
+                        <svg xmlns="http://www.w3.org/2000/svg" style="transform: rotate(0deg);" width="25" height="25"
+                            fill="currentColor" class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
                             <path
                                 d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v3h-3a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3z" />
                         </svg>
                     </div>
-                    <div class="ddown">
+                    <div style="display: none;" class="ddown">
                         <a class="navFix" href="https://daddyhub.in/category/web">Web-Series</a>
                         <a href="https://daddyhub.in/suggestion">Suggestion</a>
                         <a href="https://daddyhub.in/tips">Tips</a>
@@ -365,20 +365,17 @@
         /* When the user clicks on the button, 
         toggle between hiding and showing the dropdown content */
         function myFunction() {
-            if (screen.width <= 460) {
-                let count = 0;
-                let x = document.querySelector('.ddown')
-                if (count == 1) {
-                    x.style.display = "block";
-                    count++;
-                }
-                if (x.style.display === "none") {
-                    x.style.display = "block";
-                } else {
-                    x.style.display = "none";
-                }
+            let x = document.querySelector('.ddown')
+            let shape = document.querySelector('#menuLines svg');
+            if (x.style.display == "none") {
+                x.style.display = "block";
+                shape.style.transform = "rotate(135deg)";
+            } else {
+                x.style.display = "none";
+                shape.style.transform = "rotate(0deg)";
             }
         }
+
     </script>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
