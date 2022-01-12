@@ -3,9 +3,37 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name='robots' content='noindex, follow' />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <title>Search | Daddy Hub</title>
+    <meta name="google-site-verification" content="Iea83kTsV4DXDXNzDbE1-C3MJWbf6FqGy3Hvq8T2Hao" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41PMHZWD8"></script>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NSFL9X9');</script>
+    <!-- End Google Tag Manager -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-C41PMHZWD8');
+    </script>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Search - DaddyHub" />
+    <meta property="og:site_name" content="DaddyHub" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Search - DaddyHub" />
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie City</title>
     <link rel="stylesheet" href="/search.css">
     <link rel="shortcut icon" type="image/png" href="/images/main_logo.png" />
     <!-- CSS only -->
@@ -14,6 +42,10 @@
 </head>
 
 <body style="background-color: rgb(12,17,27);">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSFL9X9" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <!-- Master  -->
     <div class="master">
         <!-- navigation -->
@@ -22,23 +54,22 @@
                 <div class="menu">
                     <div id="menuLines" onclick="myFunction()"
                         style="font-size: 30px; cursor: pointer;color: rgb(188, 188, 189);">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
-                            class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
+                        <svg xmlns="http://www.w3.org/2000/svg" style="transform: rotate(0deg);" width="25" height="25"
+                            fill="currentColor" class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
                             <path
                                 d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v3h-3a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3z" />
                         </svg>
                     </div>
-                    <div class="ddown">
-                        <a class="navFix" href="#">Movies</a>
-                        <a class="navFix" href="http://localhost:3000/category/web">Web-Series</a>
-                        <a href="http://localhost:3000/suggestion">Suggestion</a>
-                        <a href="http://localhost:3000/tips">Tips</a>
+                    <div style="display: none;" class="ddown">
+                        <a class="navFix" href="https://daddyhub.in/category/web">Web-Series</a>
+                        <a href="https://daddyhub.in/suggestion">Suggestion</a>
+                        <a href="https://daddyhub.in/tips">Tips</a>
                     </div>
                 </div>
 
                 <div class="fixin">
                     <div class="logoo">
-                        <a href="http://localhost:3000/">
+                        <a href="https://daddyhub.in/">
                             <img src="/images/logo_bgLess.png" alt="Movie City" style="width: auto;height: 40px;">
                         </a>
                     </div>
@@ -47,20 +78,20 @@
                             <div class="dropdown">
                                 <span>Movies</span>
                                 <div class="dropdown-content">
-                                    <a href="http://localhost:3000/category/bollywood">Bollywood</a>
-                                    <a href="http://localhost:3000/category/hollywood">Hollywood</a>
+                                    <a href="https://daddyhub.in/category/bollywood">Bollywood</a>
+                                    <a href="https://daddyhub.in/category/hollywood">Hollywood</a>
                                 </div>
                             </div>
                         </div>
                         <div class="li">
-                            <a href="http://localhost:3000/category/web">
+                            <a href="https://daddyhub.in/category/web">
                                 <span>Web-Series</span>
                             </a>
                         </div>
                     </div>
                     <div class="last container-fluid">
                         <div class="searchField ">
-                            <form action="http://localhost:3000/search" class="input-group" method="get">
+                            <form action="https://daddyhub.in/search" class="input-group" method="get">
                                 <input type="search" id="search-input" type="search" id="form1" name="q"
                                     placeholder="Search" class="sear">
                                 <button type="submit" class="btnsearch">
@@ -80,7 +111,7 @@
         </nav>
 
         <!-- Slider  -->
-        
+
 
         <!-- Poster Images  -->
         <div class="main-poster">
@@ -91,24 +122,45 @@
                 </div>
             </div>
             <div class="posting">
-                <% for(let i = 0; i < arr.length; i++){ %> 
-                    <a href="http://localhost:3000/movie/<%= arr[i].name %> ">
+                <% for(let i=0; i < arr.length; i++){ %>
+                    <a href="https://daddyhub.in/movie/<%= arr[i].name %> ">
                         <div class="con">
                             <img src="<%=arr[i].poster%> " alt="<%= arr[i].name %> " class="image">
                             <div class="overlay">
+                                <div class="pri">
+                                    <div class="print shadow-lg">
+                                        <% let pcheck;%>
+                                            <span>
+                                                <% if(arr[i].cam_print=="y" ){ %>
+                                                    <% pcheck='CAM' %>
+                                                        <%= pcheck %>
+                                                            <% }else{ %>
+                                                                <% pcheck='HD' %>
+                                                                    <%= pcheck %>
+                                                                        <% } %>
+                                            </span>
+                                    </div>
+                                </div>
                                 <div class="desc">
-                                    <span><%= arr[i].name %> </span>
-                                    <p><%= arr[i].length %> <%= arr[i].genre %></p>
-                                    <p><%= arr[i].language %>,<%= arr[i].year %></p>
+                                    <span>
+                                        <%= arr[i].name %>
+                                    </span>
+                                    <p>
+                                        <%= arr[i].length %>
+                                            <%= arr[i].genre %>
+                                    </p>
+                                    <p>
+                                        <%= arr[i].language %> | <%= arr[i].year %>
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </a>
-                <% } %> 
+                    <% } %>
             </div>
         </div>
         <div class="ho">
-            <a class="hoo" href="http://localhost:3000/">
+            <a class="hoo" href="https://daddyhub.in/">
                 <ion-icon name="home-outline"></ion-icon>
             </a>
         </div>
@@ -122,9 +174,6 @@
                     <ion-icon name="logo-twitter"></ion-icon>
                 </a></li>
             <li class="social-icon__item"><a class="social-icon__link" href="#">
-                    <ion-icon name="logo-linkedin"></ion-icon>
-                </a></li>
-            <li class="social-icon__item"><a class="social-icon__link" href="#">
                     <ion-icon name="logo-instagram"></ion-icon>
                 </a></li>
             <li class="social-icon__item"><a class="social-icon__link" href="#">
@@ -132,8 +181,8 @@
                 </a></li>
         </ul>
         <ul class="menu">
-            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/">Home</a></li>
-            <li class="menu__item"><a class="menu__link" href="http://localhost:3000/feedback">Feedback</a></li>
+            <li class="menu__item"><a class="menu__link" href="https://daddyhub.in/">Home</a></li>
+            <li class="menu__item"><a class="menu__link" href="https://daddyhub.in/suggestion">Feedback</a></li>
         </ul>
 
         <div class="copyright" align="center" style="color: rgb(185, 185, 185);">
@@ -154,18 +203,14 @@
         /* When the user clicks on the button, 
         toggle between hiding and showing the dropdown content */
         function myFunction() {
-            if (screen.width <= 460) {
-                let count = 0;
-                let x = document.querySelector('.ddown')
-                if (count == 1) {
-                    x.style.display = "block";
-                    count++;
-                }
-                if (x.style.display === "none") {
-                    x.style.display = "block";
-                } else {
-                    x.style.display = "none";
-                }
+            let x = document.querySelector('.ddown')
+            let shape = document.querySelector('#menuLines svg');
+            if (x.style.display == "none") {
+                x.style.display = "block";
+                shape.style.transform = "rotate(135deg)";
+            } else {
+                x.style.display = "none";
+                shape.style.transform = "rotate(0deg)";
             }
         }
     </script>

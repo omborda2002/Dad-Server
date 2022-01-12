@@ -3,6 +3,7 @@ const app = express();
 const path = require("path");
 const bodyParser = require("body-parser");
 app.use(express.urlencoded({ extended: true }));
+const router = express.Router();
 app.use(express.static("public"));
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "/views"));
@@ -108,7 +109,7 @@ app.get("/search", (req, res) => {
   let str = q.toLowerCase();
   arr = [];
   for (let i = 0; i < data.length; i++) {
-    let main = data[i].name.toLowerCase().split(" ").join("");
+    let main = data[i].name.toLowerCase();
     let lm = main.length;
     let ls = str.length;
     let c = 0;
@@ -127,14 +128,29 @@ app.get("/search", (req, res) => {
   res.render("search", { arr });
 });
 
-app.get('/suggestion',(req,res) =>{
-  res.render('suggestion',{});
-})
-app.get('/tips',(req,res) =>{
-  res.send('HELLO')
-  // res.render('tips',{});
-})
+app.get("/suggestion", (req, res) => {
+  res.render("suggestion", {});
+});
 
+router.get("/robots.txt", function (req, res) {
+  res.render("/robots");
+});
+
+
+// Sitemap changeable 
+router.get("/sitemap.xml", function (req, res) {
+  res.render("/sitemap");
+});
+router.get("/sitemap_index.xml", function (req, res) {
+  res.render("/sitemap_index");
+});
+
+
+
+app.get("/tips", (req, res) => {
+  res.send("HELLO");
+  // res.render('tips',{});
+});
 
 app.get("*", (req, res) => {
   res.send("NOT FOUND");

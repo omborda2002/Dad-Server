@@ -1,0 +1,5 @@
+User-agents: *
+Disallow: /suggestion
+
+User-agent: Twitterbot
+Disallow: /suggestion
