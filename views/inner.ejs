@@ -139,7 +139,7 @@
                         <%= datam.name %>
                     </h1>
                     <p>
-                        <%= datam.year %> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                        <span id="yearoo"><%= datam.year %></span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                 fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
                                 <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
                             </svg>U<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -149,7 +149,10 @@
                             <% if(type=="movie" ){ %>
                                 <%= datam.length %>
                                     <% }else{ %>
-                                        Episodes - <%= datam.episodes%>
+                                        <span id="seasoo">Season - <%= datam.season %></span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
+                                    </svg> <span id="episoo">Episodes - <%= datam.episodes%></span>
                                             <% } %>
                     </p>
                 </div>
@@ -181,7 +184,7 @@
                     <div class="in-desc">
                         <div class="conte">
                             <h3 style="color: white;">Story :</h3>
-                            <span style="font-size: 16px;color: #adb5bd;">
+                            <span id="gennn" style="font-size: 16px;color: #adb5bd;">
                                 <%= datam.genre %>
                             </span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="bi bi-dot" style="color: #adb5bd;" viewBox="0 0 16 16">
@@ -192,11 +195,14 @@
                                         viewBox="0 0 16 16">
                                         <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
                                     </svg>
-                                    <% if(datam.language=="Hindi" ){ %>
-                                        <%= datam.language %> | English
-                                            <% }else{ %>
-                                                <%= datam.language %>
-                                                    <% } %>
+                                    <span id="lannn">
+
+                                        <% if(datam.language=="Hindi" ){ %>
+                                            <%= datam.language %> | English
+                                                <% }else{ %>
+                                                    <%= datam.language %>
+                                                        <% } %>
+                                    </span>
                             </span>
 
                         </div>
