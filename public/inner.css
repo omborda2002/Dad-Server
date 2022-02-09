@@ -508,6 +508,15 @@ select::-ms-expand {
   z-index: 3;
 }
 
+span#lannn {
+  border: 1px solid #ffc107;
+  background-color: #d08f00c4;
+  color: white;
+  /* text-align: center; */
+  border-radius: 10px;
+  padding: 0px 10px;
+}
+
 .overlay {
   position: absolute;
   bottom: 0;
