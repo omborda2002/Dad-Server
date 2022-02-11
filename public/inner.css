@@ -707,6 +707,8 @@ span#lannn {
 
 /* FIXME:  */
 /*TODO: Media queary  */
+
+
 @media only screen and (min-width: 1200px) {
   .ul {
     width: 20%;
@@ -872,4 +874,35 @@ span#lannn {
   .menu {
     margin-left: 3px;
   }
+}
+@media only screen and (max-width: 420px) {
+  .starRating {
+    font-size: 12px;
+}
+  .head h1 {
+    font-size: 1.6rem;
+}
+  .starLine {
+    margin-top: 10px;
+}
+.starRating p:first-child{
+  margin-top: 0px;
+}
+.movie_name p {
+  font-size: 12px;
+  margin-top: 18px;
+}
+}
+
+@media only screen and (max-width: 360px) {
+  .head h1 {
+    font-size: 1.3rem;
+  }
+  .starRating {
+    font-size: 10px;
+}
+.movie_name p {
+  font-size: 10px;
+  margin-top: 18px;
+}
 }
